@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Imagine",
+    "startMs": 206,
+    "endMs": 740,
+    "timestampMs": 473,
+    "confidence": null
+  },
+  {
+    "text": " you're",
+    "startMs": 740,
+    "endMs": 918,
+    "timestampMs": 829,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 918,
+    "endMs": 1096,
+    "timestampMs": 1007,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1096,
+    "endMs": 1273,
+    "timestampMs": 1184,
+    "confidence": null
+  },
+  {
+    "text": " last",
+    "startMs": 1273,
+    "endMs": 1451,
+    "timestampMs": 1362,
+    "confidence": null
+  },
+  {
+    "text": " train",
+    "startMs": 1451,
+    "endMs": 1629,
+    "timestampMs": 1540,
+    "confidence": null
+  },
+  {
+    "text": " home,",
+    "startMs": 1629,
+    "endMs": 1807,
+    "timestampMs": 1718,
+    "confidence": null
+  }
+]

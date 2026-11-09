@@ -1,0 +1,109 @@
+[
+  {
+    "text": "My",
+    "startMs": 192,
+    "endMs": 362,
+    "timestampMs": 277,
+    "confidence": null
+  },
+  {
+    "text": " husband",
+    "startMs": 362,
+    "endMs": 702,
+    "timestampMs": 532,
+    "confidence": null
+  },
+  {
+    "text": " called",
+    "startMs": 702,
+    "endMs": 1042,
+    "timestampMs": 872,
+    "confidence": null
+  },
+  {
+    "text": " me",
+    "startMs": 1042,
+    "endMs": 1212,
+    "timestampMs": 1127,
+    "confidence": null
+  },
+  {
+    "text": " an",
+    "startMs": 1212,
+    "endMs": 1382,
+    "timestampMs": 1297,
+    "confidence": null
+  },
+  {
+    "text": " hour",
+    "startMs": 1382,
+    "endMs": 1552,
+    "timestampMs": 1467,
+    "confidence": null
+  },
+  {
+    "text": " ago.",
+    "startMs": 1552,
+    "endMs": 1891,
+    "timestampMs": 1721,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " A",
+    "startMs": 2076,
+    "endMs": 2262,
+    "timestampMs": 2169,
+    "confidence": null
+  },
+  {
+    "text": " stranger",
+    "startMs": 2262,
+    "endMs": 2635,
+    "timestampMs": 2449,
+    "confidence": null
+  },
+  {
+    "text": " pulled",
+    "startMs": 2635,
+    "endMs": 3007,
+    "timestampMs": 2821,
+    "confidence": null
+  },
+  {
+    "text": " him",
+    "startMs": 3007,
+    "endMs": 3193,
+    "timestampMs": 3100,
+    "confidence": null
+  },
+  {
+    "text": " from",
+    "startMs": 3193,
+    "endMs": 3380,
+    "timestampMs": 3287,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 3380,
+    "endMs": 3566,
+    "timestampMs": 3473,
+    "confidence": null
+  },
+  {
+    "text": " burning",
+    "startMs": 3566,
+    "endMs": 3938,
+    "timestampMs": 3752,
+    "confidence": null
+  },
+  {
+    "text": " car.",
+    "startMs": 3938,
+    "endMs": 4125,
+    "timestampMs": 4031,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

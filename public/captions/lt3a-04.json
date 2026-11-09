@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Then",
+    "startMs": 336,
+    "endMs": 520,
+    "timestampMs": 428,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 520,
+    "endMs": 703,
+    "timestampMs": 612,
+    "confidence": null
+  },
+  {
+    "text": " woman",
+    "startMs": 703,
+    "endMs": 1070,
+    "timestampMs": 887,
+    "confidence": null
+  },
+  {
+    "text": " at",
+    "startMs": 1070,
+    "endMs": 1254,
+    "timestampMs": 1162,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1254,
+    "endMs": 1437,
+    "timestampMs": 1346,
+    "confidence": null
+  },
+  {
+    "text": " front",
+    "startMs": 1437,
+    "endMs": 1621,
+    "timestampMs": 1529,
+    "confidence": null
+  },
+  {
+    "text": " desk",
+    "startMs": 1621,
+    "endMs": 1804,
+    "timestampMs": 1713,
+    "confidence": null
+  },
+  {
+    "text": " stands",
+    "startMs": 1804,
+    "endMs": 1988,
+    "timestampMs": 1896,
+    "confidence": null
+  },
+  {
+    "text": " up.",
+    "startMs": 1988,
+    "endMs": 2171,
+    "timestampMs": 2080,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

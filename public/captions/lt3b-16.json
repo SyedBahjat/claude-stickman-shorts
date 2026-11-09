@@ -1,0 +1,74 @@
+[
+  {
+    "text": "Just",
+    "startMs": 183,
+    "endMs": 380,
+    "timestampMs": 281,
+    "confidence": null
+  },
+  {
+    "text": " his",
+    "startMs": 380,
+    "endMs": 577,
+    "timestampMs": 479,
+    "confidence": null
+  },
+  {
+    "text": " hoodie,",
+    "startMs": 577,
+    "endMs": 972,
+    "timestampMs": 774,
+    "confidence": null
+  },
+  {
+    "text": " folded",
+    "startMs": 972,
+    "endMs": 1366,
+    "timestampMs": 1169,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 1366,
+    "endMs": 1563,
+    "timestampMs": 1465,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1563,
+    "endMs": 1760,
+    "timestampMs": 1662,
+    "confidence": null
+  },
+  {
+    "text": " floor.",
+    "startMs": 1760,
+    "endMs": 1957,
+    "timestampMs": 1859,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " And",
+    "startMs": 1957,
+    "endMs": 2155,
+    "timestampMs": 2056,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 2155,
+    "endMs": 2352,
+    "timestampMs": 2253,
+    "confidence": null
+  },
+  {
+    "text": " note.",
+    "startMs": 2352,
+    "endMs": 2549,
+    "timestampMs": 2450,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

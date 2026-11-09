@@ -1,0 +1,81 @@
+[
+  {
+    "text": "The",
+    "startMs": 208,
+    "endMs": 369,
+    "timestampMs": 289,
+    "confidence": null
+  },
+  {
+    "text": " conductor.",
+    "startMs": 369,
+    "endMs": 850,
+    "timestampMs": 610,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Thirty",
+    "startMs": 1180,
+    "endMs": 1570,
+    "timestampMs": 1375,
+    "confidence": null
+  },
+  {
+    "text": " years",
+    "startMs": 1570,
+    "endMs": 1766,
+    "timestampMs": 1668,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 1766,
+    "endMs": 1961,
+    "timestampMs": 1863,
+    "confidence": null
+  },
+  {
+    "text": " this",
+    "startMs": 1961,
+    "endMs": 2156,
+    "timestampMs": 2058,
+    "confidence": null
+  },
+  {
+    "text": " line,",
+    "startMs": 2156,
+    "endMs": 2351,
+    "timestampMs": 2253,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 2351,
+    "endMs": 2546,
+    "timestampMs": 2449,
+    "confidence": null
+  },
+  {
+    "text": " she",
+    "startMs": 2546,
+    "endMs": 2741,
+    "timestampMs": 2644,
+    "confidence": null
+  },
+  {
+    "text": " isn't",
+    "startMs": 2741,
+    "endMs": 2937,
+    "timestampMs": 2839,
+    "confidence": null
+  },
+  {
+    "text": " shaking.",
+    "startMs": 2937,
+    "endMs": 3327,
+    "timestampMs": 3132,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "text": "As",
+    "startMs": 154,
+    "endMs": 361,
+    "timestampMs": 257,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 361,
+    "endMs": 569,
+    "timestampMs": 465,
+    "confidence": null
+  },
+  {
+    "text": " door",
+    "startMs": 569,
+    "endMs": 777,
+    "timestampMs": 673,
+    "confidence": null
+  },
+  {
+    "text": " closes,",
+    "startMs": 777,
+    "endMs": 1192,
+    "timestampMs": 985,
+    "confidence": null
+  },
+  {
+    "text": " Eli",
+    "startMs": 1192,
+    "endMs": 1608,
+    "timestampMs": 1400,
+    "confidence": null
+  },
+  {
+    "text": " throws",
+    "startMs": 1608,
+    "endMs": 1816,
+    "timestampMs": 1712,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1816,
+    "endMs": 2023,
+    "timestampMs": 1919,
+    "confidence": null
+  },
+  {
+    "text": " case",
+    "startMs": 2023,
+    "endMs": 2231,
+    "timestampMs": 2127,
+    "confidence": null
+  },
+  {
+    "text": " inside.",
+    "startMs": 2231,
+    "endMs": 2647,
+    "timestampMs": 2439,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Not",
+    "startMs": 2647,
+    "endMs": 2854,
+    "timestampMs": 2750,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 2854,
+    "endMs": 3062,
+    "timestampMs": 2958,
+    "confidence": null
+  },
+  {
+    "text": " himself.",
+    "startMs": 3062,
+    "endMs": 3478,
+    "timestampMs": 3270,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " For",
+    "startMs": 3607,
+    "endMs": 3785,
+    "timestampMs": 3696,
+    "confidence": null
+  },
+  {
+    "text": " them.",
+    "startMs": 3785,
+    "endMs": 3963,
+    "timestampMs": 3874,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

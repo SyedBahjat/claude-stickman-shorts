@@ -1,0 +1,88 @@
+[
+  {
+    "text": "You",
+    "startMs": 202,
+    "endMs": 353,
+    "timestampMs": 277,
+    "confidence": null
+  },
+  {
+    "text": " look",
+    "startMs": 353,
+    "endMs": 503,
+    "timestampMs": 428,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 503,
+    "endMs": 653,
+    "timestampMs": 578,
+    "confidence": null
+  },
+  {
+    "text": " soldier",
+    "startMs": 653,
+    "endMs": 954,
+    "timestampMs": 804,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 954,
+    "endMs": 1105,
+    "timestampMs": 1029,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1105,
+    "endMs": 1255,
+    "timestampMs": 1180,
+    "confidence": null
+  },
+  {
+    "text": " eye",
+    "startMs": 1255,
+    "endMs": 1405,
+    "timestampMs": 1330,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 1405,
+    "endMs": 1556,
+    "timestampMs": 1481,
+    "confidence": null
+  },
+  {
+    "text": " say",
+    "startMs": 1556,
+    "endMs": 1706,
+    "timestampMs": 1631,
+    "confidence": null
+  },
+  {
+    "text": " it.",
+    "startMs": 1706,
+    "endMs": 1857,
+    "timestampMs": 1782,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " I'm",
+    "startMs": 2126,
+    "endMs": 2294,
+    "timestampMs": 2210,
+    "confidence": null
+  },
+  {
+    "text": " family.",
+    "startMs": 2294,
+    "endMs": 2801,
+    "timestampMs": 2548,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

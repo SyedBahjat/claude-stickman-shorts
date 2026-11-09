@@ -1,0 +1,67 @@
+[
+  {
+    "text": "When",
+    "startMs": 205,
+    "endMs": 410,
+    "timestampMs": 307,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 410,
+    "endMs": 614,
+    "timestampMs": 512,
+    "confidence": null
+  },
+  {
+    "text": " dust",
+    "startMs": 614,
+    "endMs": 819,
+    "timestampMs": 717,
+    "confidence": null
+  },
+  {
+    "text": " settles,",
+    "startMs": 819,
+    "endMs": 1229,
+    "timestampMs": 1024,
+    "confidence": null
+  },
+  {
+    "text": " you're",
+    "startMs": 1229,
+    "endMs": 1433,
+    "timestampMs": 1331,
+    "confidence": null
+  },
+  {
+    "text": " alive.",
+    "startMs": 1433,
+    "endMs": 1843,
+    "timestampMs": 1638,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Eli",
+    "startMs": 1843,
+    "endMs": 2252,
+    "timestampMs": 2048,
+    "confidence": null
+  },
+  {
+    "text": " doesn't",
+    "startMs": 2252,
+    "endMs": 2457,
+    "timestampMs": 2355,
+    "confidence": null
+  },
+  {
+    "text": " answer.",
+    "startMs": 2457,
+    "endMs": 2867,
+    "timestampMs": 2662,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

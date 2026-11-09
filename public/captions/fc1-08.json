@@ -1,0 +1,88 @@
+[
+  {
+    "text": "They",
+    "startMs": 0,
+    "endMs": 321,
+    "timestampMs": 161,
+    "confidence": null
+  },
+  {
+    "text": " follow",
+    "startMs": 321,
+    "endMs": 964,
+    "timestampMs": 643,
+    "confidence": null
+  },
+  {
+    "text": " noise.",
+    "startMs": 964,
+    "endMs": 1286,
+    "timestampMs": 1125,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " This",
+    "startMs": 1993,
+    "endMs": 2262,
+    "timestampMs": 2128,
+    "confidence": null
+  },
+  {
+    "text": " awful",
+    "startMs": 2262,
+    "endMs": 2804,
+    "timestampMs": 2533,
+    "confidence": null
+  },
+  {
+    "text": " song",
+    "startMs": 2804,
+    "endMs": 3073,
+    "timestampMs": 2938,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 3073,
+    "endMs": 3344,
+    "timestampMs": 3209,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 3726,
+    "endMs": 4012,
+    "timestampMs": 3869,
+    "confidence": null
+  },
+  {
+    "text": " only",
+    "startMs": 4012,
+    "endMs": 4582,
+    "timestampMs": 4296,
+    "confidence": null
+  },
+  {
+    "text": " thing",
+    "startMs": 4582,
+    "endMs": 4867,
+    "timestampMs": 4724,
+    "confidence": null
+  },
+  {
+    "text": " hiding",
+    "startMs": 4867,
+    "endMs": 5437,
+    "timestampMs": 5152,
+    "confidence": null
+  },
+  {
+    "text": " us.",
+    "startMs": 5437,
+    "endMs": 5722,
+    "timestampMs": 5579,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

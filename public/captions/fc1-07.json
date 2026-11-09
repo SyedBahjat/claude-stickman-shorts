@@ -1,0 +1,81 @@
+[
+  {
+    "text": "Then",
+    "startMs": 0,
+    "endMs": 237,
+    "timestampMs": 118,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 237,
+    "endMs": 472,
+    "timestampMs": 354,
+    "confidence": null
+  },
+  {
+    "text": " store",
+    "startMs": 472,
+    "endMs": 709,
+    "timestampMs": 591,
+    "confidence": null
+  },
+  {
+    "text": " music",
+    "startMs": 709,
+    "endMs": 1181,
+    "timestampMs": 946,
+    "confidence": null
+  },
+  {
+    "text": " gets",
+    "startMs": 1181,
+    "endMs": 1418,
+    "timestampMs": 1300,
+    "confidence": null
+  },
+  {
+    "text": " louder...",
+    "startMs": 1418,
+    "endMs": 1890,
+    "timestampMs": 1654,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " and",
+    "startMs": 2302,
+    "endMs": 2581,
+    "timestampMs": 2441,
+    "confidence": null
+  },
+  {
+    "text": " they",
+    "startMs": 2581,
+    "endMs": 2861,
+    "timestampMs": 2721,
+    "confidence": null
+  },
+  {
+    "text": " just",
+    "startMs": 2861,
+    "endMs": 3141,
+    "timestampMs": 3001,
+    "confidence": null
+  },
+  {
+    "text": " lose",
+    "startMs": 3141,
+    "endMs": 3421,
+    "timestampMs": 3280,
+    "confidence": null
+  },
+  {
+    "text": " interest.",
+    "startMs": 3421,
+    "endMs": 4260,
+    "timestampMs": 3840,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

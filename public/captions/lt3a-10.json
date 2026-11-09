@@ -1,0 +1,66 @@
+[
+  {
+    "text": "In",
+    "startMs": 186,
+    "endMs": 372,
+    "timestampMs": 279,
+    "confidence": null
+  },
+  {
+    "text": " his",
+    "startMs": 372,
+    "endMs": 559,
+    "timestampMs": 466,
+    "confidence": null
+  },
+  {
+    "text": " hand,",
+    "startMs": 559,
+    "endMs": 745,
+    "timestampMs": 652,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 745,
+    "endMs": 931,
+    "timestampMs": 838,
+    "confidence": null
+  },
+  {
+    "text": " note",
+    "startMs": 931,
+    "endMs": 1117,
+    "timestampMs": 1024,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 1117,
+    "endMs": 1304,
+    "timestampMs": 1210,
+    "confidence": null
+  },
+  {
+    "text": " someone",
+    "startMs": 1304,
+    "endMs": 1676,
+    "timestampMs": 1490,
+    "confidence": null
+  },
+  {
+    "text": " else's",
+    "startMs": 1676,
+    "endMs": 2048,
+    "timestampMs": 1862,
+    "confidence": null
+  },
+  {
+    "text": " handwriting.",
+    "startMs": 2048,
+    "endMs": 2607,
+    "timestampMs": 2328,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

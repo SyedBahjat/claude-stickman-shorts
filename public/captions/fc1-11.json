@@ -1,0 +1,74 @@
+[
+  {
+    "text": "Keep",
+    "startMs": 0,
+    "endMs": 379,
+    "timestampMs": 189,
+    "confidence": null
+  },
+  {
+    "text": " this",
+    "startMs": 379,
+    "endMs": 758,
+    "timestampMs": 569,
+    "confidence": null
+  },
+  {
+    "text": " cold.",
+    "startMs": 758,
+    "endMs": 1137,
+    "timestampMs": 947,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Whatever",
+    "startMs": 1803,
+    "endMs": 2441,
+    "timestampMs": 2122,
+    "confidence": null
+  },
+  {
+    "text": " happens",
+    "startMs": 2441,
+    "endMs": 2866,
+    "timestampMs": 2654,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 2866,
+    "endMs": 3079,
+    "timestampMs": 2972,
+    "confidence": null
+  },
+  {
+    "text": " me,",
+    "startMs": 3715,
+    "endMs": 3939,
+    "timestampMs": 3827,
+    "confidence": null
+  },
+  {
+    "text": " keep",
+    "startMs": 3939,
+    "endMs": 4163,
+    "timestampMs": 4052,
+    "confidence": null
+  },
+  {
+    "text": " it",
+    "startMs": 4163,
+    "endMs": 4388,
+    "timestampMs": 4276,
+    "confidence": null
+  },
+  {
+    "text": " cold.",
+    "startMs": 4388,
+    "endMs": 4612,
+    "timestampMs": 4501,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "text": "Every",
+    "startMs": 0,
+    "endMs": 663,
+    "timestampMs": 332,
+    "confidence": null
+  },
+  {
+    "text": " scream",
+    "startMs": 663,
+    "endMs": 885,
+    "timestampMs": 774,
+    "confidence": null
+  },
+  {
+    "text": " makes",
+    "startMs": 885,
+    "endMs": 1327,
+    "timestampMs": 1105,
+    "confidence": null
+  },
+  {
+    "text": " them",
+    "startMs": 1327,
+    "endMs": 1548,
+    "timestampMs": 1437,
+    "confidence": null
+  },
+  {
+    "text": " hit",
+    "startMs": 1548,
+    "endMs": 1769,
+    "timestampMs": 1659,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1769,
+    "endMs": 1990,
+    "timestampMs": 1879,
+    "confidence": null
+  },
+  {
+    "text": " glass",
+    "startMs": 1990,
+    "endMs": 2212,
+    "timestampMs": 2101,
+    "confidence": null
+  },
+  {
+    "text": " harder.",
+    "startMs": 2212,
+    "endMs": 2654,
+    "timestampMs": 2433,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

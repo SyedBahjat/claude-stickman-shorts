@@ -1,0 +1,31 @@
+[
+  {
+    "text": "Then",
+    "startMs": 153,
+    "endMs": 383,
+    "timestampMs": 268,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 383,
+    "endMs": 614,
+    "timestampMs": 498,
+    "confidence": null
+  },
+  {
+    "text": " camera",
+    "startMs": 614,
+    "endMs": 1304,
+    "timestampMs": 959,
+    "confidence": null
+  },
+  {
+    "text": " dies.",
+    "startMs": 1304,
+    "endMs": 1534,
+    "timestampMs": 1419,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

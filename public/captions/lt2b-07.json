@@ -1,0 +1,109 @@
+[
+  {
+    "text": "Inside",
+    "startMs": 201,
+    "endMs": 624,
+    "timestampMs": 412,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 624,
+    "endMs": 836,
+    "timestampMs": 730,
+    "confidence": null
+  },
+  {
+    "text": " case:",
+    "startMs": 836,
+    "endMs": 1048,
+    "timestampMs": 942,
+    "confidence": null
+  },
+  {
+    "text": " radiation",
+    "startMs": 1048,
+    "endMs": 1683,
+    "timestampMs": 1366,
+    "confidence": null
+  },
+  {
+    "text": " pills,",
+    "startMs": 1683,
+    "endMs": 1895,
+    "timestampMs": 1789,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 1895,
+    "endMs": 2107,
+    "timestampMs": 2001,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 2107,
+    "endMs": 2319,
+    "timestampMs": 2213,
+    "confidence": null
+  },
+  {
+    "text": " keycard.",
+    "startMs": 2319,
+    "endMs": 2742,
+    "timestampMs": 2531,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " The",
+    "startMs": 2742,
+    "endMs": 2954,
+    "timestampMs": 2848,
+    "confidence": null
+  },
+  {
+    "text": " face",
+    "startMs": 2954,
+    "endMs": 3166,
+    "timestampMs": 3060,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 3166,
+    "endMs": 3378,
+    "timestampMs": 3272,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 3378,
+    "endMs": 3590,
+    "timestampMs": 3484,
+    "confidence": null
+  },
+  {
+    "text": " card",
+    "startMs": 3590,
+    "endMs": 3802,
+    "timestampMs": 3696,
+    "confidence": null
+  },
+  {
+    "text": " isn't",
+    "startMs": 3802,
+    "endMs": 4013,
+    "timestampMs": 3907,
+    "confidence": null
+  },
+  {
+    "text": " his.",
+    "startMs": 4013,
+    "endMs": 4225,
+    "timestampMs": 4119,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "text": "Behind",
+    "startMs": 0,
+    "endMs": 429,
+    "timestampMs": 214,
+    "confidence": null
+  },
+  {
+    "text": " him,",
+    "startMs": 429,
+    "endMs": 644,
+    "timestampMs": 537,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1064,
+    "endMs": 1262,
+    "timestampMs": 1163,
+    "confidence": null
+  },
+  {
+    "text": " parking",
+    "startMs": 1262,
+    "endMs": 1658,
+    "timestampMs": 1461,
+    "confidence": null
+  },
+  {
+    "text": " lot",
+    "startMs": 1658,
+    "endMs": 1856,
+    "timestampMs": 1757,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 1856,
+    "endMs": 2054,
+    "timestampMs": 1955,
+    "confidence": null
+  },
+  {
+    "text": " full",
+    "startMs": 2054,
+    "endMs": 2253,
+    "timestampMs": 2154,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 2253,
+    "endMs": 2450,
+    "timestampMs": 2351,
+    "confidence": null
+  },
+  {
+    "text": " people.",
+    "startMs": 2450,
+    "endMs": 2648,
+    "timestampMs": 2549,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " They're",
+    "startMs": 3230,
+    "endMs": 3441,
+    "timestampMs": 3336,
+    "confidence": null
+  },
+  {
+    "text": " just",
+    "startMs": 3441,
+    "endMs": 3651,
+    "timestampMs": 3546,
+    "confidence": null
+  },
+  {
+    "text": " not",
+    "startMs": 3651,
+    "endMs": 3862,
+    "timestampMs": 3756,
+    "confidence": null
+  },
+  {
+    "text": " walking",
+    "startMs": 3862,
+    "endMs": 4282,
+    "timestampMs": 4071,
+    "confidence": null
+  },
+  {
+    "text": " right.",
+    "startMs": 4282,
+    "endMs": 4492,
+    "timestampMs": 4387,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

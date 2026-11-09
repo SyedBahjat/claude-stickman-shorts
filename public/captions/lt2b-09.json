@@ -1,0 +1,74 @@
+[
+  {
+    "text": "My",
+    "startMs": 505,
+    "endMs": 708,
+    "timestampMs": 606,
+    "confidence": null
+  },
+  {
+    "text": " brother",
+    "startMs": 708,
+    "endMs": 1113,
+    "timestampMs": 911,
+    "confidence": null
+  },
+  {
+    "text": " didn't",
+    "startMs": 1113,
+    "endMs": 1316,
+    "timestampMs": 1215,
+    "confidence": null
+  },
+  {
+    "text": " make",
+    "startMs": 1316,
+    "endMs": 1519,
+    "timestampMs": 1418,
+    "confidence": null
+  },
+  {
+    "text": " it.",
+    "startMs": 1519,
+    "endMs": 1722,
+    "timestampMs": 1620,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " He",
+    "startMs": 1722,
+    "endMs": 1925,
+    "timestampMs": 1823,
+    "confidence": null
+  },
+  {
+    "text": " gave",
+    "startMs": 1925,
+    "endMs": 2127,
+    "timestampMs": 2026,
+    "confidence": null
+  },
+  {
+    "text": " me",
+    "startMs": 2127,
+    "endMs": 2330,
+    "timestampMs": 2229,
+    "confidence": null
+  },
+  {
+    "text": " his",
+    "startMs": 2330,
+    "endMs": 2533,
+    "timestampMs": 2432,
+    "confidence": null
+  },
+  {
+    "text": " place.",
+    "startMs": 2533,
+    "endMs": 2736,
+    "timestampMs": 2634,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

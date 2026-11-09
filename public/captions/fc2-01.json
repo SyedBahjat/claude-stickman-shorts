@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Most",
+    "startMs": 0,
+    "endMs": 332,
+    "timestampMs": 166,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 332,
+    "endMs": 664,
+    "timestampMs": 498,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 664,
+    "endMs": 996,
+    "timestampMs": 830,
+    "confidence": null
+  },
+  {
+    "text": " said:",
+    "startMs": 996,
+    "endMs": 1328,
+    "timestampMs": 1162,
+    "confidence": null
+  },
+  {
+    "text": " put",
+    "startMs": 1810,
+    "endMs": 2160,
+    "timestampMs": 1985,
+    "confidence": null
+  },
+  {
+    "text": " him",
+    "startMs": 2160,
+    "endMs": 2509,
+    "timestampMs": 2334,
+    "confidence": null
+  },
+  {
+    "text": " outside.",
+    "startMs": 2509,
+    "endMs": 3209,
+    "timestampMs": 2859,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

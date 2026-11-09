@@ -1,0 +1,31 @@
+[
+  {
+    "text": "Nobody",
+    "startMs": 184,
+    "endMs": 896,
+    "timestampMs": 540,
+    "confidence": null
+  },
+  {
+    "text": " touches",
+    "startMs": 896,
+    "endMs": 1372,
+    "timestampMs": 1134,
+    "confidence": null
+  },
+  {
+    "text": " those",
+    "startMs": 1372,
+    "endMs": 1609,
+    "timestampMs": 1491,
+    "confidence": null
+  },
+  {
+    "text": " doors!",
+    "startMs": 1609,
+    "endMs": 1847,
+    "timestampMs": 1728,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "text": "Twenty-four",
+    "startMs": 197,
+    "endMs": 719,
+    "timestampMs": 458,
+    "confidence": null
+  },
+  {
+    "text": " hours",
+    "startMs": 719,
+    "endMs": 893,
+    "timestampMs": 806,
+    "confidence": null
+  },
+  {
+    "text": " later,",
+    "startMs": 893,
+    "endMs": 1242,
+    "timestampMs": 1067,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1242,
+    "endMs": 1416,
+    "timestampMs": 1329,
+    "confidence": null
+  },
+  {
+    "text": " door",
+    "startMs": 1416,
+    "endMs": 1590,
+    "timestampMs": 1503,
+    "confidence": null
+  },
+  {
+    "text": " opens.",
+    "startMs": 1590,
+    "endMs": 1938,
+    "timestampMs": 1764,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " The",
+    "startMs": 1938,
+    "endMs": 2112,
+    "timestampMs": 2025,
+    "confidence": null
+  },
+  {
+    "text": " corridor",
+    "startMs": 2352,
+    "endMs": 2864,
+    "timestampMs": 2608,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 2864,
+    "endMs": 3035,
+    "timestampMs": 2949,
+    "confidence": null
+  },
+  {
+    "text": " empty.",
+    "startMs": 3035,
+    "endMs": 3376,
+    "timestampMs": 3205,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "text": "That's",
+    "startMs": 129,
+    "endMs": 348,
+    "timestampMs": 238,
+    "confidence": null
+  },
+  {
+    "text": " exactly",
+    "startMs": 348,
+    "endMs": 1004,
+    "timestampMs": 676,
+    "confidence": null
+  },
+  {
+    "text": " what",
+    "startMs": 1004,
+    "endMs": 1223,
+    "timestampMs": 1114,
+    "confidence": null
+  },
+  {
+    "text": " I",
+    "startMs": 1223,
+    "endMs": 1442,
+    "timestampMs": 1333,
+    "confidence": null
+  },
+  {
+    "text": " wanted.",
+    "startMs": 1442,
+    "endMs": 1880,
+    "timestampMs": 1661,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Now",
+    "startMs": 1880,
+    "endMs": 2099,
+    "timestampMs": 1989,
+    "confidence": null
+  },
+  {
+    "text": " take",
+    "startMs": 2099,
+    "endMs": 2318,
+    "timestampMs": 2208,
+    "confidence": null
+  },
+  {
+    "text": " this",
+    "startMs": 2318,
+    "endMs": 2537,
+    "timestampMs": 2427,
+    "confidence": null
+  },
+  {
+    "text": " case",
+    "startMs": 2537,
+    "endMs": 2755,
+    "timestampMs": 2646,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 2755,
+    "endMs": 2974,
+    "timestampMs": 2865,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 2974,
+    "endMs": 3193,
+    "timestampMs": 3084,
+    "confidence": null
+  },
+  {
+    "text": " kids.",
+    "startMs": 3193,
+    "endMs": 3412,
+    "timestampMs": 3303,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

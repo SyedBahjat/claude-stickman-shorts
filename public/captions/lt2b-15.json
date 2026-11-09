@@ -1,0 +1,31 @@
+[
+  {
+    "text": "Follow",
+    "startMs": 149,
+    "endMs": 650,
+    "timestampMs": 400,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 650,
+    "endMs": 901,
+    "timestampMs": 776,
+    "confidence": null
+  },
+  {
+    "text": " part",
+    "startMs": 901,
+    "endMs": 1151,
+    "timestampMs": 1026,
+    "confidence": null
+  },
+  {
+    "text": " three.",
+    "startMs": 1151,
+    "endMs": 1402,
+    "timestampMs": 1276,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

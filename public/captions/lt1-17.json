@@ -1,0 +1,45 @@
+[
+  {
+    "text": "You",
+    "startMs": 511,
+    "endMs": 694,
+    "timestampMs": 603,
+    "confidence": null
+  },
+  {
+    "text": " never",
+    "startMs": 694,
+    "endMs": 1059,
+    "timestampMs": 876,
+    "confidence": null
+  },
+  {
+    "text": " told",
+    "startMs": 1059,
+    "endMs": 1241,
+    "timestampMs": 1150,
+    "confidence": null
+  },
+  {
+    "text": " him",
+    "startMs": 1241,
+    "endMs": 1424,
+    "timestampMs": 1333,
+    "confidence": null
+  },
+  {
+    "text": " her",
+    "startMs": 1424,
+    "endMs": 1607,
+    "timestampMs": 1515,
+    "confidence": null
+  },
+  {
+    "text": " name.",
+    "startMs": 1607,
+    "endMs": 1789,
+    "timestampMs": 1698,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

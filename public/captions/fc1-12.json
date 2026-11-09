@@ -1,0 +1,74 @@
+[
+  {
+    "text": "He's",
+    "startMs": 0,
+    "endMs": 231,
+    "timestampMs": 116,
+    "confidence": null
+  },
+  {
+    "text": " shaking",
+    "startMs": 231,
+    "endMs": 695,
+    "timestampMs": 463,
+    "confidence": null
+  },
+  {
+    "text": " now.",
+    "startMs": 695,
+    "endMs": 926,
+    "timestampMs": 811,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " And",
+    "startMs": 1631,
+    "endMs": 1843,
+    "timestampMs": 1737,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1843,
+    "endMs": 2054,
+    "timestampMs": 1948,
+    "confidence": null
+  },
+  {
+    "text": " manager",
+    "startMs": 2054,
+    "endMs": 2689,
+    "timestampMs": 2372,
+    "confidence": null
+  },
+  {
+    "text": " keeps",
+    "startMs": 2689,
+    "endMs": 2901,
+    "timestampMs": 2796,
+    "confidence": null
+  },
+  {
+    "text": " scratching",
+    "startMs": 2901,
+    "endMs": 3324,
+    "timestampMs": 3112,
+    "confidence": null
+  },
+  {
+    "text": " his",
+    "startMs": 3324,
+    "endMs": 3536,
+    "timestampMs": 3430,
+    "confidence": null
+  },
+  {
+    "text": " wrist.",
+    "startMs": 3536,
+    "endMs": 3747,
+    "timestampMs": 3642,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

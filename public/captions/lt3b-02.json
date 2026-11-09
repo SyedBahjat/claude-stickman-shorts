@@ -1,0 +1,66 @@
+[
+  {
+    "text": "I",
+    "startMs": 168,
+    "endMs": 310,
+    "timestampMs": 239,
+    "confidence": null
+  },
+  {
+    "text": " met",
+    "startMs": 310,
+    "endMs": 452,
+    "timestampMs": 381,
+    "confidence": null
+  },
+  {
+    "text": " him",
+    "startMs": 452,
+    "endMs": 594,
+    "timestampMs": 523,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 594,
+    "endMs": 737,
+    "timestampMs": 665,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 737,
+    "endMs": 879,
+    "timestampMs": 808,
+    "confidence": null
+  },
+  {
+    "text": " train,",
+    "startMs": 879,
+    "endMs": 1021,
+    "timestampMs": 950,
+    "confidence": null
+  },
+  {
+    "text": " ten",
+    "startMs": 1021,
+    "endMs": 1163,
+    "timestampMs": 1092,
+    "confidence": null
+  },
+  {
+    "text": " minutes",
+    "startMs": 1163,
+    "endMs": 1590,
+    "timestampMs": 1376,
+    "confidence": null
+  },
+  {
+    "text": " ago.",
+    "startMs": 1590,
+    "endMs": 1874,
+    "timestampMs": 1732,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

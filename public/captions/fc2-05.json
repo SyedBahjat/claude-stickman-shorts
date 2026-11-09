@@ -1,0 +1,67 @@
+[
+  {
+    "text": "Generator's",
+    "startMs": 0,
+    "endMs": 1086,
+    "timestampMs": 543,
+    "confidence": null
+  },
+  {
+    "text": " almost",
+    "startMs": 1086,
+    "endMs": 1629,
+    "timestampMs": 1358,
+    "confidence": null
+  },
+  {
+    "text": " dry.",
+    "startMs": 2068,
+    "endMs": 2363,
+    "timestampMs": 2216,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " When",
+    "startMs": 2485,
+    "endMs": 2754,
+    "timestampMs": 2620,
+    "confidence": null
+  },
+  {
+    "text": " it",
+    "startMs": 2754,
+    "endMs": 3024,
+    "timestampMs": 2889,
+    "confidence": null
+  },
+  {
+    "text": " dies,",
+    "startMs": 3024,
+    "endMs": 3293,
+    "timestampMs": 3158,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 3293,
+    "endMs": 3562,
+    "timestampMs": 3428,
+    "confidence": null
+  },
+  {
+    "text": " music",
+    "startMs": 3562,
+    "endMs": 4101,
+    "timestampMs": 3831,
+    "confidence": null
+  },
+  {
+    "text": " dies.",
+    "startMs": 4101,
+    "endMs": 4370,
+    "timestampMs": 4235,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "text": "One",
+    "startMs": 182,
+    "endMs": 404,
+    "timestampMs": 293,
+    "confidence": null
+  },
+  {
+    "text": " civilian",
+    "startMs": 404,
+    "endMs": 1070,
+    "timestampMs": 737,
+    "confidence": null
+  },
+  {
+    "text": " per",
+    "startMs": 1070,
+    "endMs": 1292,
+    "timestampMs": 1181,
+    "confidence": null
+  },
+  {
+    "text": " card.",
+    "startMs": 1292,
+    "endMs": 1514,
+    "timestampMs": 1403,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Not",
+    "startMs": 1514,
+    "endMs": 1736,
+    "timestampMs": 1625,
+    "confidence": null
+  },
+  {
+    "text": " two.",
+    "startMs": 1736,
+    "endMs": 1958,
+    "timestampMs": 1847,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

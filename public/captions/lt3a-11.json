@@ -1,0 +1,53 @@
+[
+  {
+    "text": "Take",
+    "startMs": 136,
+    "endMs": 384,
+    "timestampMs": 260,
+    "confidence": null
+  },
+  {
+    "text": " my",
+    "startMs": 384,
+    "endMs": 632,
+    "timestampMs": 508,
+    "confidence": null
+  },
+  {
+    "text": " card.",
+    "startMs": 632,
+    "endMs": 880,
+    "timestampMs": 756,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Save",
+    "startMs": 880,
+    "endMs": 1128,
+    "timestampMs": 1004,
+    "confidence": null
+  },
+  {
+    "text": " anyone",
+    "startMs": 1128,
+    "endMs": 1624,
+    "timestampMs": 1376,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 1624,
+    "endMs": 1872,
+    "timestampMs": 1748,
+    "confidence": null
+  },
+  {
+    "text": " can.",
+    "startMs": 1872,
+    "endMs": 2120,
+    "timestampMs": 1996,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

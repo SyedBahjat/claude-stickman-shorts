@@ -1,0 +1,88 @@
+[
+  {
+    "text": "Then",
+    "startMs": 202,
+    "endMs": 458,
+    "timestampMs": 330,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 458,
+    "endMs": 713,
+    "timestampMs": 585,
+    "confidence": null
+  },
+  {
+    "text": " flash.",
+    "startMs": 713,
+    "endMs": 969,
+    "timestampMs": 841,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Even",
+    "startMs": 1358,
+    "endMs": 1757,
+    "timestampMs": 1557,
+    "confidence": null
+  },
+  {
+    "text": " through",
+    "startMs": 1757,
+    "endMs": 1956,
+    "timestampMs": 1856,
+    "confidence": null
+  },
+  {
+    "text": " all",
+    "startMs": 1956,
+    "endMs": 2155,
+    "timestampMs": 2056,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 2155,
+    "endMs": 2355,
+    "timestampMs": 2255,
+    "confidence": null
+  },
+  {
+    "text": " steel,",
+    "startMs": 2355,
+    "endMs": 2554,
+    "timestampMs": 2454,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 2554,
+    "endMs": 2753,
+    "timestampMs": 2654,
+    "confidence": null
+  },
+  {
+    "text": " whole",
+    "startMs": 2753,
+    "endMs": 2953,
+    "timestampMs": 2853,
+    "confidence": null
+  },
+  {
+    "text": " shelter",
+    "startMs": 2953,
+    "endMs": 3351,
+    "timestampMs": 3152,
+    "confidence": null
+  },
+  {
+    "text": " shakes.",
+    "startMs": 3351,
+    "endMs": 3750,
+    "timestampMs": 3551,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

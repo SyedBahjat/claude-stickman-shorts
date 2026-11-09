@@ -1,0 +1,89 @@
+[
+  {
+    "text": "Family",
+    "startMs": 131,
+    "endMs": 698,
+    "timestampMs": 414,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 698,
+    "endMs": 887,
+    "timestampMs": 792,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 887,
+    "endMs": 1075,
+    "timestampMs": 981,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1075,
+    "endMs": 1264,
+    "timestampMs": 1170,
+    "confidence": null
+  },
+  {
+    "text": " list.",
+    "startMs": 1264,
+    "endMs": 1453,
+    "timestampMs": 1359,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Say",
+    "startMs": 1453,
+    "endMs": 1642,
+    "timestampMs": 1548,
+    "confidence": null
+  },
+  {
+    "text": " you're",
+    "startMs": 1642,
+    "endMs": 1831,
+    "timestampMs": 1737,
+    "confidence": null
+  },
+  {
+    "text": " family.",
+    "startMs": 1831,
+    "endMs": 2398,
+    "timestampMs": 2115,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " We",
+    "startMs": 2398,
+    "endMs": 2587,
+    "timestampMs": 2493,
+    "confidence": null
+  },
+  {
+    "text": " both",
+    "startMs": 2587,
+    "endMs": 2776,
+    "timestampMs": 2682,
+    "confidence": null
+  },
+  {
+    "text": " get",
+    "startMs": 2776,
+    "endMs": 2965,
+    "timestampMs": 2871,
+    "confidence": null
+  },
+  {
+    "text": " in.",
+    "startMs": 2965,
+    "endMs": 3154,
+    "timestampMs": 3060,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

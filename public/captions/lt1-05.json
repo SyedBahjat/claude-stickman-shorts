@@ -1,0 +1,82 @@
+[
+  {
+    "text": "Nine",
+    "startMs": 168,
+    "endMs": 397,
+    "timestampMs": 283,
+    "confidence": null
+  },
+  {
+    "text": " strangers.",
+    "startMs": 397,
+    "endMs": 854,
+    "timestampMs": 626,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " One",
+    "startMs": 854,
+    "endMs": 1083,
+    "timestampMs": 968,
+    "confidence": null
+  },
+  {
+    "text": " locked",
+    "startMs": 1219,
+    "endMs": 1640,
+    "timestampMs": 1430,
+    "confidence": null
+  },
+  {
+    "text": " train.",
+    "startMs": 1640,
+    "endMs": 1851,
+    "timestampMs": 1746,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Somebody",
+    "startMs": 1851,
+    "endMs": 2693,
+    "timestampMs": 2272,
+    "confidence": null
+  },
+  {
+    "text": " starts",
+    "startMs": 2693,
+    "endMs": 2904,
+    "timestampMs": 2799,
+    "confidence": null
+  },
+  {
+    "text": " prying",
+    "startMs": 2904,
+    "endMs": 3115,
+    "timestampMs": 3009,
+    "confidence": null
+  },
+  {
+    "text": " at",
+    "startMs": 3115,
+    "endMs": 3325,
+    "timestampMs": 3220,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 3325,
+    "endMs": 3536,
+    "timestampMs": 3431,
+    "confidence": null
+  },
+  {
+    "text": " doors.",
+    "startMs": 3536,
+    "endMs": 3746,
+    "timestampMs": 3641,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

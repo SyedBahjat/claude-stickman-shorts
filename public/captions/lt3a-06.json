@@ -1,0 +1,32 @@
+[
+  {
+    "text": "Out.",
+    "startMs": 196,
+    "endMs": 519,
+    "timestampMs": 358,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Both",
+    "startMs": 770,
+    "endMs": 992,
+    "timestampMs": 881,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 992,
+    "endMs": 1214,
+    "timestampMs": 1103,
+    "confidence": null
+  },
+  {
+    "text": " you.",
+    "startMs": 1214,
+    "endMs": 1435,
+    "timestampMs": 1325,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

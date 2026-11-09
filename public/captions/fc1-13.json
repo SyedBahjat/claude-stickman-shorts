@@ -1,0 +1,53 @@
+[
+  {
+    "text": "Freezer.",
+    "startMs": 0,
+    "endMs": 625,
+    "timestampMs": 312,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Lock",
+    "startMs": 821,
+    "endMs": 1106,
+    "timestampMs": 963,
+    "confidence": null
+  },
+  {
+    "text": " him",
+    "startMs": 1106,
+    "endMs": 1390,
+    "timestampMs": 1248,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 1390,
+    "endMs": 1674,
+    "timestampMs": 1532,
+    "confidence": null
+  },
+  {
+    "text": " before",
+    "startMs": 1674,
+    "endMs": 2243,
+    "timestampMs": 1959,
+    "confidence": null
+  },
+  {
+    "text": " he",
+    "startMs": 2243,
+    "endMs": 2528,
+    "timestampMs": 2385,
+    "confidence": null
+  },
+  {
+    "text": " turns.",
+    "startMs": 2755,
+    "endMs": 3112,
+    "timestampMs": 2933,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

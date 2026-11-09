@@ -1,0 +1,53 @@
+[
+  {
+    "text": "Missile",
+    "startMs": 161,
+    "endMs": 569,
+    "timestampMs": 365,
+    "confidence": null
+  },
+  {
+    "text": " launch",
+    "startMs": 569,
+    "endMs": 773,
+    "timestampMs": 671,
+    "confidence": null
+  },
+  {
+    "text": " detected.",
+    "startMs": 773,
+    "endMs": 1384,
+    "timestampMs": 1078,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Impact",
+    "startMs": 1384,
+    "endMs": 1791,
+    "timestampMs": 1588,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 1791,
+    "endMs": 1995,
+    "timestampMs": 1893,
+    "confidence": null
+  },
+  {
+    "text": " twelve",
+    "startMs": 1995,
+    "endMs": 2199,
+    "timestampMs": 2097,
+    "confidence": null
+  },
+  {
+    "text": " minutes.",
+    "startMs": 2199,
+    "endMs": 2810,
+    "timestampMs": 2504,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

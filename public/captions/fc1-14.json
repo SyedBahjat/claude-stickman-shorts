@@ -1,0 +1,96 @@
+[
+  {
+    "text": "Or",
+    "startMs": 0,
+    "endMs": 348,
+    "timestampMs": 174,
+    "confidence": null
+  },
+  {
+    "text": " we",
+    "startMs": 348,
+    "endMs": 696,
+    "timestampMs": 522,
+    "confidence": null
+  },
+  {
+    "text": " put",
+    "startMs": 696,
+    "endMs": 1044,
+    "timestampMs": 870,
+    "confidence": null
+  },
+  {
+    "text": " him",
+    "startMs": 1044,
+    "endMs": 1392,
+    "timestampMs": 1218,
+    "confidence": null
+  },
+  {
+    "text": " out",
+    "startMs": 1392,
+    "endMs": 1740,
+    "timestampMs": 1566,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 2204,
+    "endMs": 2486,
+    "timestampMs": 2345,
+    "confidence": null
+  },
+  {
+    "text": " back.",
+    "startMs": 2486,
+    "endMs": 2768,
+    "timestampMs": 2627,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Now.",
+    "startMs": 3021,
+    "endMs": 3255,
+    "timestampMs": 3138,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " While",
+    "startMs": 3426,
+    "endMs": 3729,
+    "timestampMs": 3577,
+    "confidence": null
+  },
+  {
+    "text": " he",
+    "startMs": 3729,
+    "endMs": 4031,
+    "timestampMs": 3880,
+    "confidence": null
+  },
+  {
+    "text": " still",
+    "startMs": 4031,
+    "endMs": 4334,
+    "timestampMs": 4183,
+    "confidence": null
+  },
+  {
+    "text": " can't",
+    "startMs": 4334,
+    "endMs": 4637,
+    "timestampMs": 4486,
+    "confidence": null
+  },
+  {
+    "text": " bite.",
+    "startMs": 4637,
+    "endMs": 4939,
+    "timestampMs": 4788,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

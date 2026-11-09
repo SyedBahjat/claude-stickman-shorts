@@ -1,0 +1,68 @@
+[
+  {
+    "text": "Nine",
+    "startMs": 165,
+    "endMs": 399,
+    "timestampMs": 282,
+    "confidence": null
+  },
+  {
+    "text": " stops",
+    "startMs": 399,
+    "endMs": 633,
+    "timestampMs": 516,
+    "confidence": null
+  },
+  {
+    "text": " away.",
+    "startMs": 633,
+    "endMs": 1100,
+    "timestampMs": 867,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Fourteen",
+    "startMs": 1100,
+    "endMs": 1568,
+    "timestampMs": 1334,
+    "confidence": null
+  },
+  {
+    "text": " floors",
+    "startMs": 1568,
+    "endMs": 1801,
+    "timestampMs": 1685,
+    "confidence": null
+  },
+  {
+    "text": " up.",
+    "startMs": 1801,
+    "endMs": 2035,
+    "timestampMs": 1918,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Nowhere",
+    "startMs": 2180,
+    "endMs": 2544,
+    "timestampMs": 2362,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 2544,
+    "endMs": 2726,
+    "timestampMs": 2635,
+    "confidence": null
+  },
+  {
+    "text": " hide.",
+    "startMs": 2726,
+    "endMs": 2907,
+    "timestampMs": 2816,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

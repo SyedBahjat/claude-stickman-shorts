@@ -1,0 +1,96 @@
+[
+  {
+    "text": "Antidote",
+    "startMs": 0,
+    "endMs": 1037,
+    "timestampMs": 519,
+    "confidence": null
+  },
+  {
+    "text": " samples.",
+    "startMs": 1037,
+    "endMs": 1729,
+    "timestampMs": 1383,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Keep",
+    "startMs": 1939,
+    "endMs": 2253,
+    "timestampMs": 2096,
+    "confidence": null
+  },
+  {
+    "text": " cold.",
+    "startMs": 2253,
+    "endMs": 2567,
+    "timestampMs": 2410,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " We",
+    "startMs": 2567,
+    "endMs": 2881,
+    "timestampMs": 2724,
+    "confidence": null
+  },
+  {
+    "text": " threw",
+    "startMs": 2881,
+    "endMs": 3195,
+    "timestampMs": 3038,
+    "confidence": null
+  },
+  {
+    "text": " out",
+    "startMs": 3416,
+    "endMs": 3695,
+    "timestampMs": 3556,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 3695,
+    "endMs": 3974,
+    "timestampMs": 3835,
+    "confidence": null
+  },
+  {
+    "text": " guy",
+    "startMs": 3974,
+    "endMs": 4253,
+    "timestampMs": 4114,
+    "confidence": null
+  },
+  {
+    "text": " who",
+    "startMs": 4253,
+    "endMs": 4532,
+    "timestampMs": 4393,
+    "confidence": null
+  },
+  {
+    "text": " made",
+    "startMs": 4532,
+    "endMs": 4811,
+    "timestampMs": 4672,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 4811,
+    "endMs": 5090,
+    "timestampMs": 4951,
+    "confidence": null
+  },
+  {
+    "text": " cure.",
+    "startMs": 5090,
+    "endMs": 5369,
+    "timestampMs": 5230,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

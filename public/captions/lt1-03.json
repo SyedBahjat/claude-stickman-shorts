@@ -1,0 +1,82 @@
+[
+  {
+    "text": "Then",
+    "startMs": 203,
+    "endMs": 416,
+    "timestampMs": 310,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 416,
+    "endMs": 629,
+    "timestampMs": 523,
+    "confidence": null
+  },
+  {
+    "text": " train",
+    "startMs": 629,
+    "endMs": 843,
+    "timestampMs": 736,
+    "confidence": null
+  },
+  {
+    "text": " stops.",
+    "startMs": 843,
+    "endMs": 1056,
+    "timestampMs": 949,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Dead.",
+    "startMs": 1056,
+    "endMs": 1269,
+    "timestampMs": 1163,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " In",
+    "startMs": 1435,
+    "endMs": 1637,
+    "timestampMs": 1536,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1637,
+    "endMs": 1840,
+    "timestampMs": 1739,
+    "confidence": null
+  },
+  {
+    "text": " middle",
+    "startMs": 1840,
+    "endMs": 2042,
+    "timestampMs": 1941,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 2042,
+    "endMs": 2245,
+    "timestampMs": 2143,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 2245,
+    "endMs": 2447,
+    "timestampMs": 2346,
+    "confidence": null
+  },
+  {
+    "text": " tunnel.",
+    "startMs": 2447,
+    "endMs": 2852,
+    "timestampMs": 2649,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

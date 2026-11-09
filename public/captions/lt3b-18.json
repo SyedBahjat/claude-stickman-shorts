@@ -1,0 +1,102 @@
+[
+  {
+    "text": "The",
+    "startMs": 154,
+    "endMs": 333,
+    "timestampMs": 243,
+    "confidence": null
+  },
+  {
+    "text": " truth",
+    "startMs": 333,
+    "endMs": 512,
+    "timestampMs": 422,
+    "confidence": null
+  },
+  {
+    "text": " cost",
+    "startMs": 512,
+    "endMs": 691,
+    "timestampMs": 601,
+    "confidence": null
+  },
+  {
+    "text": " him",
+    "startMs": 691,
+    "endMs": 870,
+    "timestampMs": 781,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 870,
+    "endMs": 1049,
+    "timestampMs": 960,
+    "confidence": null
+  },
+  {
+    "text": " door.",
+    "startMs": 1049,
+    "endMs": 1229,
+    "timestampMs": 1139,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " But",
+    "startMs": 1229,
+    "endMs": 1408,
+    "timestampMs": 1318,
+    "confidence": null
+  },
+  {
+    "text": " Eli",
+    "startMs": 1703,
+    "endMs": 2061,
+    "timestampMs": 1882,
+    "confidence": null
+  },
+  {
+    "text": " was",
+    "startMs": 2061,
+    "endMs": 2240,
+    "timestampMs": 2151,
+    "confidence": null
+  },
+  {
+    "text": " never",
+    "startMs": 2240,
+    "endMs": 2598,
+    "timestampMs": 2419,
+    "confidence": null
+  },
+  {
+    "text": " trying",
+    "startMs": 2598,
+    "endMs": 2777,
+    "timestampMs": 2688,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 2777,
+    "endMs": 2956,
+    "timestampMs": 2867,
+    "confidence": null
+  },
+  {
+    "text": " get",
+    "startMs": 2956,
+    "endMs": 3135,
+    "timestampMs": 3046,
+    "confidence": null
+  },
+  {
+    "text": " in.",
+    "startMs": 3135,
+    "endMs": 3314,
+    "timestampMs": 3225,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

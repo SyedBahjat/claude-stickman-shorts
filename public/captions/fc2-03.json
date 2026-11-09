@@ -1,0 +1,81 @@
+[
+  {
+    "text": "The",
+    "startMs": 0,
+    "endMs": 290,
+    "timestampMs": 145,
+    "confidence": null
+  },
+  {
+    "text": " door",
+    "startMs": 290,
+    "endMs": 579,
+    "timestampMs": 435,
+    "confidence": null
+  },
+  {
+    "text": " comes",
+    "startMs": 579,
+    "endMs": 1159,
+    "timestampMs": 869,
+    "confidence": null
+  },
+  {
+    "text": " down.",
+    "startMs": 1159,
+    "endMs": 1449,
+    "timestampMs": 1304,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Nobody",
+    "startMs": 2340,
+    "endMs": 3128,
+    "timestampMs": 2734,
+    "confidence": null
+  },
+  {
+    "text": " says",
+    "startMs": 3128,
+    "endMs": 3391,
+    "timestampMs": 3259,
+    "confidence": null
+  },
+  {
+    "text": " anything",
+    "startMs": 3391,
+    "endMs": 4179,
+    "timestampMs": 3785,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 4179,
+    "endMs": 4442,
+    "timestampMs": 4310,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 4442,
+    "endMs": 4704,
+    "timestampMs": 4573,
+    "confidence": null
+  },
+  {
+    "text": " long",
+    "startMs": 4704,
+    "endMs": 4967,
+    "timestampMs": 4836,
+    "confidence": null
+  },
+  {
+    "text": " time.",
+    "startMs": 4967,
+    "endMs": 5230,
+    "timestampMs": 5099,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

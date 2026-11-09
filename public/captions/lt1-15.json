@@ -1,0 +1,31 @@
+[
+  {
+    "text": "Nobody",
+    "startMs": 200,
+    "endMs": 776,
+    "timestampMs": 488,
+    "confidence": null
+  },
+  {
+    "text": " leaves",
+    "startMs": 776,
+    "endMs": 1159,
+    "timestampMs": 967,
+    "confidence": null
+  },
+  {
+    "text": " this",
+    "startMs": 1159,
+    "endMs": 1351,
+    "timestampMs": 1255,
+    "confidence": null
+  },
+  {
+    "text": " train.",
+    "startMs": 1351,
+    "endMs": 1543,
+    "timestampMs": 1447,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

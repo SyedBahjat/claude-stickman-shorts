@@ -1,0 +1,74 @@
+[
+  {
+    "text": "You",
+    "startMs": 178,
+    "endMs": 349,
+    "timestampMs": 263,
+    "confidence": null
+  },
+  {
+    "text": " don't",
+    "startMs": 349,
+    "endMs": 520,
+    "timestampMs": 435,
+    "confidence": null
+  },
+  {
+    "text": " know",
+    "startMs": 520,
+    "endMs": 691,
+    "timestampMs": 606,
+    "confidence": null
+  },
+  {
+    "text": " Doctor",
+    "startMs": 691,
+    "endMs": 1034,
+    "timestampMs": 863,
+    "confidence": null
+  },
+  {
+    "text": " Vale.",
+    "startMs": 1034,
+    "endMs": 1205,
+    "timestampMs": 1119,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " You",
+    "startMs": 1205,
+    "endMs": 1376,
+    "timestampMs": 1291,
+    "confidence": null
+  },
+  {
+    "text": " don't",
+    "startMs": 1518,
+    "endMs": 1703,
+    "timestampMs": 1611,
+    "confidence": null
+  },
+  {
+    "text": " even",
+    "startMs": 1703,
+    "endMs": 2074,
+    "timestampMs": 1889,
+    "confidence": null
+  },
+  {
+    "text": " know",
+    "startMs": 2074,
+    "endMs": 2259,
+    "timestampMs": 2167,
+    "confidence": null
+  },
+  {
+    "text": " Eli.",
+    "startMs": 2259,
+    "endMs": 2630,
+    "timestampMs": 2445,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

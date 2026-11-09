@@ -1,0 +1,53 @@
+[
+  {
+    "text": "Five",
+    "startMs": 151,
+    "endMs": 357,
+    "timestampMs": 254,
+    "confidence": null
+  },
+  {
+    "text": " seconds.",
+    "startMs": 357,
+    "endMs": 767,
+    "timestampMs": 562,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " He",
+    "startMs": 767,
+    "endMs": 973,
+    "timestampMs": 870,
+    "confidence": null
+  },
+  {
+    "text": " throws",
+    "startMs": 973,
+    "endMs": 1178,
+    "timestampMs": 1076,
+    "confidence": null
+  },
+  {
+    "text": " himself",
+    "startMs": 1178,
+    "endMs": 1589,
+    "timestampMs": 1384,
+    "confidence": null
+  },
+  {
+    "text": " over",
+    "startMs": 1589,
+    "endMs": 2000,
+    "timestampMs": 1794,
+    "confidence": null
+  },
+  {
+    "text": " you.",
+    "startMs": 2000,
+    "endMs": 2205,
+    "timestampMs": 2103,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

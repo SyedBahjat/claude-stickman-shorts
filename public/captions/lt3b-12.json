@@ -1,0 +1,116 @@
+[
+  {
+    "text": "He",
+    "startMs": 203,
+    "endMs": 412,
+    "timestampMs": 308,
+    "confidence": null
+  },
+  {
+    "text": " gave",
+    "startMs": 412,
+    "endMs": 622,
+    "timestampMs": 517,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 622,
+    "endMs": 831,
+    "timestampMs": 726,
+    "confidence": null
+  },
+  {
+    "text": " man",
+    "startMs": 831,
+    "endMs": 1040,
+    "timestampMs": 935,
+    "confidence": null
+  },
+  {
+    "text": " his",
+    "startMs": 1040,
+    "endMs": 1249,
+    "timestampMs": 1145,
+    "confidence": null
+  },
+  {
+    "text": " card.",
+    "startMs": 1249,
+    "endMs": 1458,
+    "timestampMs": 1354,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " He",
+    "startMs": 1458,
+    "endMs": 1668,
+    "timestampMs": 1563,
+    "confidence": null
+  },
+  {
+    "text": " said",
+    "startMs": 1831,
+    "endMs": 2039,
+    "timestampMs": 1935,
+    "confidence": null
+  },
+  {
+    "text": " he'd",
+    "startMs": 2039,
+    "endMs": 2248,
+    "timestampMs": 2144,
+    "confidence": null
+  },
+  {
+    "text": " save",
+    "startMs": 2248,
+    "endMs": 2457,
+    "timestampMs": 2352,
+    "confidence": null
+  },
+  {
+    "text": " more",
+    "startMs": 2457,
+    "endMs": 2666,
+    "timestampMs": 2561,
+    "confidence": null
+  },
+  {
+    "text": " people",
+    "startMs": 2666,
+    "endMs": 2874,
+    "timestampMs": 2770,
+    "confidence": null
+  },
+  {
+    "text": " than",
+    "startMs": 2874,
+    "endMs": 3083,
+    "timestampMs": 2979,
+    "confidence": null
+  },
+  {
+    "text": " he",
+    "startMs": 3083,
+    "endMs": 3292,
+    "timestampMs": 3187,
+    "confidence": null
+  },
+  {
+    "text": " ever",
+    "startMs": 3292,
+    "endMs": 3709,
+    "timestampMs": 3500,
+    "confidence": null
+  },
+  {
+    "text": " could.",
+    "startMs": 3709,
+    "endMs": 3918,
+    "timestampMs": 3813,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

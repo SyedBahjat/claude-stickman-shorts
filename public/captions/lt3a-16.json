@@ -1,0 +1,124 @@
+[
+  {
+    "text": "A",
+    "startMs": 208,
+    "endMs": 386,
+    "timestampMs": 297,
+    "confidence": null
+  },
+  {
+    "text": " man",
+    "startMs": 386,
+    "endMs": 564,
+    "timestampMs": 475,
+    "confidence": null
+  },
+  {
+    "text": " called",
+    "startMs": 564,
+    "endMs": 919,
+    "timestampMs": 741,
+    "confidence": null
+  },
+  {
+    "text": " me",
+    "startMs": 919,
+    "endMs": 1097,
+    "timestampMs": 1008,
+    "confidence": null
+  },
+  {
+    "text": " before",
+    "startMs": 1097,
+    "endMs": 1452,
+    "timestampMs": 1275,
+    "confidence": null
+  },
+  {
+    "text": " it",
+    "startMs": 1452,
+    "endMs": 1630,
+    "timestampMs": 1541,
+    "confidence": null
+  },
+  {
+    "text": " hit.",
+    "startMs": 1630,
+    "endMs": 1808,
+    "timestampMs": 1719,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " He",
+    "startMs": 2030,
+    "endMs": 2200,
+    "timestampMs": 2115,
+    "confidence": null
+  },
+  {
+    "text": " told",
+    "startMs": 2200,
+    "endMs": 2369,
+    "timestampMs": 2284,
+    "confidence": null
+  },
+  {
+    "text": " me",
+    "startMs": 2369,
+    "endMs": 2538,
+    "timestampMs": 2454,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 2538,
+    "endMs": 2708,
+    "timestampMs": 2623,
+    "confidence": null
+  },
+  {
+    "text": " get",
+    "startMs": 2708,
+    "endMs": 2877,
+    "timestampMs": 2793,
+    "confidence": null
+  },
+  {
+    "text": " underground.",
+    "startMs": 2877,
+    "endMs": 3386,
+    "timestampMs": 3132,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " He",
+    "startMs": 3386,
+    "endMs": 3555,
+    "timestampMs": 3470,
+    "confidence": null
+  },
+  {
+    "text": " knew",
+    "startMs": 3555,
+    "endMs": 3725,
+    "timestampMs": 3640,
+    "confidence": null
+  },
+  {
+    "text": " my",
+    "startMs": 3725,
+    "endMs": 3894,
+    "timestampMs": 3809,
+    "confidence": null
+  },
+  {
+    "text": " name.",
+    "startMs": 3894,
+    "endMs": 4064,
+    "timestampMs": 3979,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

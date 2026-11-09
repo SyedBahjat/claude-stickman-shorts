@@ -1,0 +1,31 @@
+[
+  {
+    "text": "Follow",
+    "startMs": 0,
+    "endMs": 482,
+    "timestampMs": 241,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 482,
+    "endMs": 723,
+    "timestampMs": 603,
+    "confidence": null
+  },
+  {
+    "text": " part",
+    "startMs": 723,
+    "endMs": 964,
+    "timestampMs": 844,
+    "confidence": null
+  },
+  {
+    "text": " two.",
+    "startMs": 1125,
+    "endMs": 1483,
+    "timestampMs": 1304,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "text": "Eli",
+    "startMs": 204,
+    "endMs": 557,
+    "timestampMs": 380,
+    "confidence": null
+  },
+  {
+    "text": " doesn't",
+    "startMs": 557,
+    "endMs": 733,
+    "timestampMs": 645,
+    "confidence": null
+  },
+  {
+    "text": " argue.",
+    "startMs": 733,
+    "endMs": 1085,
+    "timestampMs": 909,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " He",
+    "startMs": 1085,
+    "endMs": 1262,
+    "timestampMs": 1174,
+    "confidence": null
+  },
+  {
+    "text": " almost",
+    "startMs": 1262,
+    "endMs": 1614,
+    "timestampMs": 1438,
+    "confidence": null
+  },
+  {
+    "text": " looks",
+    "startMs": 1614,
+    "endMs": 1790,
+    "timestampMs": 1702,
+    "confidence": null
+  },
+  {
+    "text": " relieved.",
+    "startMs": 1790,
+    "endMs": 2319,
+    "timestampMs": 2055,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

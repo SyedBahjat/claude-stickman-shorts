@@ -1,0 +1,115 @@
+[
+  {
+    "text": "Do",
+    "startMs": 486,
+    "endMs": 648,
+    "timestampMs": 567,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 648,
+    "endMs": 811,
+    "timestampMs": 730,
+    "confidence": null
+  },
+  {
+    "text": " stay",
+    "startMs": 811,
+    "endMs": 973,
+    "timestampMs": 892,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 973,
+    "endMs": 1135,
+    "timestampMs": 1054,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1135,
+    "endMs": 1297,
+    "timestampMs": 1216,
+    "confidence": null
+  },
+  {
+    "text": " train",
+    "startMs": 1297,
+    "endMs": 1459,
+    "timestampMs": 1378,
+    "confidence": null
+  },
+  {
+    "text": " with",
+    "startMs": 1459,
+    "endMs": 1622,
+    "timestampMs": 1540,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1622,
+    "endMs": 1784,
+    "timestampMs": 1703,
+    "confidence": null
+  },
+  {
+    "text": " conductor,",
+    "startMs": 1784,
+    "endMs": 2270,
+    "timestampMs": 2027,
+    "confidence": null
+  },
+  {
+    "text": " or",
+    "startMs": 2552,
+    "endMs": 2734,
+    "timestampMs": 2643,
+    "confidence": null
+  },
+  {
+    "text": " follow",
+    "startMs": 2734,
+    "endMs": 3098,
+    "timestampMs": 2916,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 3098,
+    "endMs": 3280,
+    "timestampMs": 3189,
+    "confidence": null
+  },
+  {
+    "text": " stranger",
+    "startMs": 3280,
+    "endMs": 3644,
+    "timestampMs": 3462,
+    "confidence": null
+  },
+  {
+    "text": " into",
+    "startMs": 3644,
+    "endMs": 4008,
+    "timestampMs": 3826,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 4008,
+    "endMs": 4190,
+    "timestampMs": 4099,
+    "confidence": null
+  },
+  {
+    "text": " dark?",
+    "startMs": 4190,
+    "endMs": 4372,
+    "timestampMs": 4281,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "text": "So",
+    "startMs": 0,
+    "endMs": 262,
+    "timestampMs": 131,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 262,
+    "endMs": 523,
+    "timestampMs": 393,
+    "confidence": null
+  },
+  {
+    "text": " radio's",
+    "startMs": 523,
+    "endMs": 1047,
+    "timestampMs": 785,
+    "confidence": null
+  },
+  {
+    "text": " dead,",
+    "startMs": 1391,
+    "endMs": 1632,
+    "timestampMs": 1512,
+    "confidence": null
+  },
+  {
+    "text": " huh?",
+    "startMs": 1632,
+    "endMs": 1873,
+    "timestampMs": 1753,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

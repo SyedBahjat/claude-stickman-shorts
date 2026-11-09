@@ -1,0 +1,69 @@
+[
+  {
+    "text": "The",
+    "startMs": 156,
+    "endMs": 402,
+    "timestampMs": 279,
+    "confidence": null
+  },
+  {
+    "text": " door",
+    "startMs": 402,
+    "endMs": 648,
+    "timestampMs": 525,
+    "confidence": null
+  },
+  {
+    "text": " opens.",
+    "startMs": 648,
+    "endMs": 1140,
+    "timestampMs": 894,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Hundreds",
+    "startMs": 1140,
+    "endMs": 1633,
+    "timestampMs": 1387,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 1633,
+    "endMs": 1879,
+    "timestampMs": 1756,
+    "confidence": null
+  },
+  {
+    "text": " people.",
+    "startMs": 1879,
+    "endMs": 2125,
+    "timestampMs": 2002,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Lights.",
+    "startMs": 2125,
+    "endMs": 2371,
+    "timestampMs": 2248,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Clean",
+    "startMs": 2371,
+    "endMs": 2617,
+    "timestampMs": 2494,
+    "confidence": null
+  },
+  {
+    "text": " air.",
+    "startMs": 2617,
+    "endMs": 2863,
+    "timestampMs": 2740,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

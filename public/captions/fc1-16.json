@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Do",
+    "startMs": 0,
+    "endMs": 191,
+    "timestampMs": 96,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 191,
+    "endMs": 381,
+    "timestampMs": 286,
+    "confidence": null
+  },
+  {
+    "text": " lock",
+    "startMs": 381,
+    "endMs": 572,
+    "timestampMs": 477,
+    "confidence": null
+  },
+  {
+    "text": " him",
+    "startMs": 572,
+    "endMs": 762,
+    "timestampMs": 667,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 762,
+    "endMs": 954,
+    "timestampMs": 858,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 954,
+    "endMs": 1144,
+    "timestampMs": 1049,
+    "confidence": null
+  },
+  {
+    "text": " freezer,",
+    "startMs": 1144,
+    "endMs": 1526,
+    "timestampMs": 1335,
+    "confidence": null
+  },
+  {
+    "text": " or",
+    "startMs": 1919,
+    "endMs": 2126,
+    "timestampMs": 2022,
+    "confidence": null
+  },
+  {
+    "text": " put",
+    "startMs": 2126,
+    "endMs": 2333,
+    "timestampMs": 2229,
+    "confidence": null
+  },
+  {
+    "text": " him",
+    "startMs": 2333,
+    "endMs": 2541,
+    "timestampMs": 2437,
+    "confidence": null
+  },
+  {
+    "text": " outside?",
+    "startMs": 2541,
+    "endMs": 2955,
+    "timestampMs": 2748,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "text": "Evacuation",
+    "startMs": 214,
+    "endMs": 1133,
+    "timestampMs": 673,
+    "confidence": null
+  },
+  {
+    "text": " at",
+    "startMs": 1133,
+    "endMs": 1362,
+    "timestampMs": 1247,
+    "confidence": null
+  },
+  {
+    "text": " Hollis",
+    "startMs": 1362,
+    "endMs": 1822,
+    "timestampMs": 1592,
+    "confidence": null
+  },
+  {
+    "text": " Stadium.",
+    "startMs": 2138,
+    "endMs": 2537,
+    "timestampMs": 2338,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Day",
+    "startMs": 2537,
+    "endMs": 2736,
+    "timestampMs": 2637,
+    "confidence": null
+  },
+  {
+    "text": " three,",
+    "startMs": 2736,
+    "endMs": 2936,
+    "timestampMs": 2836,
+    "confidence": null
+  },
+  {
+    "text": " six",
+    "startMs": 2936,
+    "endMs": 3135,
+    "timestampMs": 3035,
+    "confidence": null
+  },
+  {
+    "text": " A.M.",
+    "startMs": 3135,
+    "endMs": 3334,
+    "timestampMs": 3235,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " First",
+    "startMs": 3334,
+    "endMs": 3534,
+    "timestampMs": 3434,
+    "confidence": null
+  },
+  {
+    "text": " fifty",
+    "startMs": 3534,
+    "endMs": 3933,
+    "timestampMs": 3733,
+    "confidence": null
+  },
+  {
+    "text": " people",
+    "startMs": 3933,
+    "endMs": 4132,
+    "timestampMs": 4032,
+    "confidence": null
+  },
+  {
+    "text": " only.",
+    "startMs": 4132,
+    "endMs": 4531,
+    "timestampMs": 4331,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

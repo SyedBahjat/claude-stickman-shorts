@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Most",
+    "startMs": 163,
+    "endMs": 382,
+    "timestampMs": 273,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 382,
+    "endMs": 602,
+    "timestampMs": 492,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 602,
+    "endMs": 821,
+    "timestampMs": 711,
+    "confidence": null
+  },
+  {
+    "text": " said:",
+    "startMs": 821,
+    "endMs": 1041,
+    "timestampMs": 931,
+    "confidence": null
+  },
+  {
+    "text": " lie",
+    "startMs": 1171,
+    "endMs": 1392,
+    "timestampMs": 1281,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 1392,
+    "endMs": 1614,
+    "timestampMs": 1503,
+    "confidence": null
+  },
+  {
+    "text": " him.",
+    "startMs": 1614,
+    "endMs": 1835,
+    "timestampMs": 1724,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

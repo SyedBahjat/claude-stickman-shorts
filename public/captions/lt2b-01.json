@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Most",
+    "startMs": 171,
+    "endMs": 364,
+    "timestampMs": 267,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 364,
+    "endMs": 557,
+    "timestampMs": 460,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 557,
+    "endMs": 750,
+    "timestampMs": 653,
+    "confidence": null
+  },
+  {
+    "text": " said:",
+    "startMs": 750,
+    "endMs": 942,
+    "timestampMs": 846,
+    "confidence": null
+  },
+  {
+    "text": " follow",
+    "startMs": 942,
+    "endMs": 1328,
+    "timestampMs": 1135,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1328,
+    "endMs": 1521,
+    "timestampMs": 1425,
+    "confidence": null
+  },
+  {
+    "text": " stranger.",
+    "startMs": 1521,
+    "endMs": 1907,
+    "timestampMs": 1714,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

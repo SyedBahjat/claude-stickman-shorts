@@ -1,0 +1,18 @@
+[
+  {
+    "text": "Stop.",
+    "startMs": 189,
+    "endMs": 671,
+    "timestampMs": 430,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Card.",
+    "startMs": 941,
+    "endMs": 1384,
+    "timestampMs": 1162,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Those",
+    "startMs": 202,
+    "endMs": 430,
+    "timestampMs": 316,
+    "confidence": null
+  },
+  {
+    "text": " pills",
+    "startMs": 430,
+    "endMs": 659,
+    "timestampMs": 544,
+    "confidence": null
+  },
+  {
+    "text": " protected",
+    "startMs": 659,
+    "endMs": 1344,
+    "timestampMs": 1001,
+    "confidence": null
+  },
+  {
+    "text": " forty",
+    "startMs": 1344,
+    "endMs": 1801,
+    "timestampMs": 1572,
+    "confidence": null
+  },
+  {
+    "text": " children",
+    "startMs": 1801,
+    "endMs": 2258,
+    "timestampMs": 2029,
+    "confidence": null
+  },
+  {
+    "text": " last",
+    "startMs": 2258,
+    "endMs": 2486,
+    "timestampMs": 2372,
+    "confidence": null
+  },
+  {
+    "text": " night.",
+    "startMs": 2486,
+    "endMs": 2715,
+    "timestampMs": 2600,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "text": "Halfway",
+    "startMs": 160,
+    "endMs": 596,
+    "timestampMs": 378,
+    "confidence": null
+  },
+  {
+    "text": " down,",
+    "startMs": 596,
+    "endMs": 814,
+    "timestampMs": 705,
+    "confidence": null
+  },
+  {
+    "text": " he",
+    "startMs": 814,
+    "endMs": 1032,
+    "timestampMs": 923,
+    "confidence": null
+  },
+  {
+    "text": " stops",
+    "startMs": 1032,
+    "endMs": 1250,
+    "timestampMs": 1141,
+    "confidence": null
+  },
+  {
+    "text": " at",
+    "startMs": 1250,
+    "endMs": 1467,
+    "timestampMs": 1359,
+    "confidence": null
+  },
+  {
+    "text": " an",
+    "startMs": 1467,
+    "endMs": 1685,
+    "timestampMs": 1576,
+    "confidence": null
+  },
+  {
+    "text": " old",
+    "startMs": 1685,
+    "endMs": 1903,
+    "timestampMs": 1794,
+    "confidence": null
+  },
+  {
+    "text": " wall",
+    "startMs": 1903,
+    "endMs": 2121,
+    "timestampMs": 2012,
+    "confidence": null
+  },
+  {
+    "text": " phone.",
+    "startMs": 2121,
+    "endMs": 2339,
+    "timestampMs": 2230,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " One",
+    "startMs": 2339,
+    "endMs": 2557,
+    "timestampMs": 2448,
+    "confidence": null
+  },
+  {
+    "text": " call.",
+    "startMs": 2557,
+    "endMs": 2774,
+    "timestampMs": 2666,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " He",
+    "startMs": 2774,
+    "endMs": 2992,
+    "timestampMs": 2883,
+    "confidence": null
+  },
+  {
+    "text": " won't",
+    "startMs": 2992,
+    "endMs": 3210,
+    "timestampMs": 3101,
+    "confidence": null
+  },
+  {
+    "text": " say",
+    "startMs": 3210,
+    "endMs": 3428,
+    "timestampMs": 3319,
+    "confidence": null
+  },
+  {
+    "text": " who.",
+    "startMs": 3428,
+    "endMs": 3646,
+    "timestampMs": 3537,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

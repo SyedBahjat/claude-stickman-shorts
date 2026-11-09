@@ -1,0 +1,95 @@
+[
+  {
+    "text": "A",
+    "startMs": 197,
+    "endMs": 390,
+    "timestampMs": 293,
+    "confidence": null
+  },
+  {
+    "text": " steel",
+    "startMs": 390,
+    "endMs": 582,
+    "timestampMs": 486,
+    "confidence": null
+  },
+  {
+    "text": " door",
+    "startMs": 582,
+    "endMs": 774,
+    "timestampMs": 678,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 774,
+    "endMs": 967,
+    "timestampMs": 871,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 967,
+    "endMs": 1159,
+    "timestampMs": 1063,
+    "confidence": null
+  },
+  {
+    "text": " tunnel",
+    "startMs": 1159,
+    "endMs": 1544,
+    "timestampMs": 1352,
+    "confidence": null
+  },
+  {
+    "text": " wall.",
+    "startMs": 1544,
+    "endMs": 1736,
+    "timestampMs": 1640,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " He",
+    "startMs": 1736,
+    "endMs": 1929,
+    "timestampMs": 1833,
+    "confidence": null
+  },
+  {
+    "text": " types",
+    "startMs": 1929,
+    "endMs": 2314,
+    "timestampMs": 2121,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 2314,
+    "endMs": 2506,
+    "timestampMs": 2410,
+    "confidence": null
+  },
+  {
+    "text": " code",
+    "startMs": 2506,
+    "endMs": 2699,
+    "timestampMs": 2602,
+    "confidence": null
+  },
+  {
+    "text": " without",
+    "startMs": 2699,
+    "endMs": 3083,
+    "timestampMs": 2891,
+    "confidence": null
+  },
+  {
+    "text": " looking.",
+    "startMs": 3083,
+    "endMs": 3468,
+    "timestampMs": 3276,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "text": "Your",
+    "startMs": 146,
+    "endMs": 379,
+    "timestampMs": 263,
+    "confidence": null
+  },
+  {
+    "text": " phone",
+    "startMs": 379,
+    "endMs": 612,
+    "timestampMs": 495,
+    "confidence": null
+  },
+  {
+    "text": " says",
+    "startMs": 612,
+    "endMs": 845,
+    "timestampMs": 728,
+    "confidence": null
+  },
+  {
+    "text": " four",
+    "startMs": 845,
+    "endMs": 1077,
+    "timestampMs": 961,
+    "confidence": null
+  },
+  {
+    "text": " minutes",
+    "startMs": 1077,
+    "endMs": 1776,
+    "timestampMs": 1427,
+    "confidence": null
+  },
+  {
+    "text": " left.",
+    "startMs": 1776,
+    "endMs": 2009,
+    "timestampMs": 1892,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

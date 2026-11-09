@@ -1,0 +1,80 @@
+[
+  {
+    "text": "and",
+    "startMs": 147,
+    "endMs": 352,
+    "timestampMs": 249,
+    "confidence": null
+  },
+  {
+    "text": " every",
+    "startMs": 352,
+    "endMs": 968,
+    "timestampMs": 660,
+    "confidence": null
+  },
+  {
+    "text": " phone",
+    "startMs": 968,
+    "endMs": 1173,
+    "timestampMs": 1070,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 1173,
+    "endMs": 1378,
+    "timestampMs": 1275,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1378,
+    "endMs": 1583,
+    "timestampMs": 1481,
+    "confidence": null
+  },
+  {
+    "text": " carriage",
+    "startMs": 1583,
+    "endMs": 1994,
+    "timestampMs": 1789,
+    "confidence": null
+  },
+  {
+    "text": " screams",
+    "startMs": 1994,
+    "endMs": 2199,
+    "timestampMs": 2097,
+    "confidence": null
+  },
+  {
+    "text": " at",
+    "startMs": 2199,
+    "endMs": 2404,
+    "timestampMs": 2302,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 2404,
+    "endMs": 2610,
+    "timestampMs": 2507,
+    "confidence": null
+  },
+  {
+    "text": " same",
+    "startMs": 2610,
+    "endMs": 2815,
+    "timestampMs": 2712,
+    "confidence": null
+  },
+  {
+    "text": " time.",
+    "startMs": 2815,
+    "endMs": 3020,
+    "timestampMs": 2918,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

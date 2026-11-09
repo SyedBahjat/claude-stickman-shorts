@@ -1,0 +1,67 @@
+[
+  {
+    "text": "He's",
+    "startMs": 0,
+    "endMs": 256,
+    "timestampMs": 129,
+    "confidence": null
+  },
+  {
+    "text": " still",
+    "startMs": 256,
+    "endMs": 512,
+    "timestampMs": 385,
+    "confidence": null
+  },
+  {
+    "text": " breathing.",
+    "startMs": 512,
+    "endMs": 1026,
+    "timestampMs": 770,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " And",
+    "startMs": 1026,
+    "endMs": 1282,
+    "timestampMs": 1154,
+    "confidence": null
+  },
+  {
+    "text": " he's",
+    "startMs": 1873,
+    "endMs": 2128,
+    "timestampMs": 2000,
+    "confidence": null
+  },
+  {
+    "text": " still",
+    "startMs": 2128,
+    "endMs": 2382,
+    "timestampMs": 2255,
+    "confidence": null
+  },
+  {
+    "text": " looking",
+    "startMs": 2382,
+    "endMs": 2892,
+    "timestampMs": 2637,
+    "confidence": null
+  },
+  {
+    "text": " at",
+    "startMs": 2892,
+    "endMs": 3147,
+    "timestampMs": 3020,
+    "confidence": null
+  },
+  {
+    "text": " you.",
+    "startMs": 3147,
+    "endMs": 3402,
+    "timestampMs": 3274,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

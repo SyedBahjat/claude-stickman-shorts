@@ -1,0 +1,53 @@
+[
+  {
+    "text": "Sorry.",
+    "startMs": 0,
+    "endMs": 630,
+    "timestampMs": 315,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " It",
+    "startMs": 1067,
+    "endMs": 1330,
+    "timestampMs": 1198,
+    "confidence": null
+  },
+  {
+    "text": " does",
+    "startMs": 1330,
+    "endMs": 1594,
+    "timestampMs": 1462,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 1594,
+    "endMs": 1856,
+    "timestampMs": 1725,
+    "confidence": null
+  },
+  {
+    "text": " near",
+    "startMs": 1856,
+    "endMs": 2120,
+    "timestampMs": 1988,
+    "confidence": null
+  },
+  {
+    "text": " loud",
+    "startMs": 2120,
+    "endMs": 2383,
+    "timestampMs": 2252,
+    "confidence": null
+  },
+  {
+    "text": " speakers.",
+    "startMs": 2383,
+    "endMs": 2910,
+    "timestampMs": 2646,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

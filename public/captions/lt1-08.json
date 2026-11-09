@@ -1,0 +1,102 @@
+[
+  {
+    "text": "We're",
+    "startMs": 190,
+    "endMs": 384,
+    "timestampMs": 287,
+    "confidence": null
+  },
+  {
+    "text": " forty",
+    "startMs": 384,
+    "endMs": 771,
+    "timestampMs": 578,
+    "confidence": null
+  },
+  {
+    "text": " meters",
+    "startMs": 771,
+    "endMs": 1159,
+    "timestampMs": 965,
+    "confidence": null
+  },
+  {
+    "text": " under",
+    "startMs": 1159,
+    "endMs": 1547,
+    "timestampMs": 1353,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1547,
+    "endMs": 1741,
+    "timestampMs": 1644,
+    "confidence": null
+  },
+  {
+    "text": " street.",
+    "startMs": 1741,
+    "endMs": 1935,
+    "timestampMs": 1838,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " This",
+    "startMs": 2169,
+    "endMs": 2354,
+    "timestampMs": 2262,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 2354,
+    "endMs": 2539,
+    "timestampMs": 2447,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 2539,
+    "endMs": 2725,
+    "timestampMs": 2632,
+    "confidence": null
+  },
+  {
+    "text": " safest",
+    "startMs": 2725,
+    "endMs": 3095,
+    "timestampMs": 2910,
+    "confidence": null
+  },
+  {
+    "text": " place",
+    "startMs": 3095,
+    "endMs": 3281,
+    "timestampMs": 3188,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 3281,
+    "endMs": 3466,
+    "timestampMs": 3373,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 3466,
+    "endMs": 3651,
+    "timestampMs": 3558,
+    "confidence": null
+  },
+  {
+    "text": " city.",
+    "startMs": 3651,
+    "endMs": 4022,
+    "timestampMs": 3836,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

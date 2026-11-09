@@ -1,0 +1,88 @@
+[
+  {
+    "text": "At",
+    "startMs": 0,
+    "endMs": 295,
+    "timestampMs": 147,
+    "confidence": null
+  },
+  {
+    "text": " sunrise,",
+    "startMs": 295,
+    "endMs": 884,
+    "timestampMs": 589,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 884,
+    "endMs": 1179,
+    "timestampMs": 1031,
+    "confidence": null
+  },
+  {
+    "text": " see",
+    "startMs": 1525,
+    "endMs": 1809,
+    "timestampMs": 1667,
+    "confidence": null
+  },
+  {
+    "text": " it.",
+    "startMs": 1809,
+    "endMs": 2092,
+    "timestampMs": 1951,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " The",
+    "startMs": 2748,
+    "endMs": 3050,
+    "timestampMs": 2899,
+    "confidence": null
+  },
+  {
+    "text": " bag,",
+    "startMs": 3050,
+    "endMs": 3353,
+    "timestampMs": 3201,
+    "confidence": null
+  },
+  {
+    "text": " lying",
+    "startMs": 3742,
+    "endMs": 3953,
+    "timestampMs": 3847,
+    "confidence": null
+  },
+  {
+    "text": " under",
+    "startMs": 3953,
+    "endMs": 4375,
+    "timestampMs": 4164,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 4375,
+    "endMs": 4586,
+    "timestampMs": 4480,
+    "confidence": null
+  },
+  {
+    "text": " delivery",
+    "startMs": 4586,
+    "endMs": 5429,
+    "timestampMs": 5007,
+    "confidence": null
+  },
+  {
+    "text": " van.",
+    "startMs": 5429,
+    "endMs": 5640,
+    "timestampMs": 5535,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

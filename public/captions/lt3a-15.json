@@ -1,0 +1,59 @@
+[
+  {
+    "text": "Then",
+    "startMs": 158,
+    "endMs": 371,
+    "timestampMs": 264,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 371,
+    "endMs": 584,
+    "timestampMs": 477,
+    "confidence": null
+  },
+  {
+    "text": " phone",
+    "startMs": 584,
+    "endMs": 797,
+    "timestampMs": 691,
+    "confidence": null
+  },
+  {
+    "text": " finds",
+    "startMs": 797,
+    "endMs": 1010,
+    "timestampMs": 904,
+    "confidence": null
+  },
+  {
+    "text": " one",
+    "startMs": 1010,
+    "endMs": 1224,
+    "timestampMs": 1117,
+    "confidence": null
+  },
+  {
+    "text": " bar",
+    "startMs": 1224,
+    "endMs": 1437,
+    "timestampMs": 1330,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 1437,
+    "endMs": 1650,
+    "timestampMs": 1543,
+    "confidence": null
+  },
+  {
+    "text": " signal.",
+    "startMs": 1650,
+    "endMs": 2076,
+    "timestampMs": 1863,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

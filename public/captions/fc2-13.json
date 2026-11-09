@@ -1,0 +1,81 @@
+[
+  {
+    "text": "The",
+    "startMs": 0,
+    "endMs": 416,
+    "timestampMs": 208,
+    "confidence": null
+  },
+  {
+    "text": " van",
+    "startMs": 416,
+    "endMs": 832,
+    "timestampMs": 624,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 1026,
+    "endMs": 1244,
+    "timestampMs": 1135,
+    "confidence": null
+  },
+  {
+    "text": " thirty",
+    "startMs": 1367,
+    "endMs": 2006,
+    "timestampMs": 1686,
+    "confidence": null
+  },
+  {
+    "text": " meters",
+    "startMs": 2006,
+    "endMs": 2645,
+    "timestampMs": 2325,
+    "confidence": null
+  },
+  {
+    "text": " away.",
+    "startMs": 3757,
+    "endMs": 4374,
+    "timestampMs": 4066,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " The",
+    "startMs": 4374,
+    "endMs": 4683,
+    "timestampMs": 4528,
+    "confidence": null
+  },
+  {
+    "text": " stadium",
+    "startMs": 4841,
+    "endMs": 5287,
+    "timestampMs": 5064,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 5287,
+    "endMs": 5509,
+    "timestampMs": 5398,
+    "confidence": null
+  },
+  {
+    "text": " ten",
+    "startMs": 5509,
+    "endMs": 5732,
+    "timestampMs": 5621,
+    "confidence": null
+  },
+  {
+    "text": " miles.",
+    "startMs": 5732,
+    "endMs": 6178,
+    "timestampMs": 5955,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

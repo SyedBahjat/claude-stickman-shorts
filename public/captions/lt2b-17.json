@@ -1,0 +1,67 @@
+[
+  {
+    "text": "Something",
+    "startMs": 142,
+    "endMs": 801,
+    "timestampMs": 472,
+    "confidence": null
+  },
+  {
+    "text": " scurries",
+    "startMs": 801,
+    "endMs": 1241,
+    "timestampMs": 1021,
+    "confidence": null
+  },
+  {
+    "text": " over",
+    "startMs": 1241,
+    "endMs": 1680,
+    "timestampMs": 1460,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 1680,
+    "endMs": 1899,
+    "timestampMs": 1790,
+    "confidence": null
+  },
+  {
+    "text": " shoes.",
+    "startMs": 1899,
+    "endMs": 2119,
+    "timestampMs": 2009,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " He",
+    "startMs": 2119,
+    "endMs": 2339,
+    "timestampMs": 2229,
+    "confidence": null
+  },
+  {
+    "text": " doesn't",
+    "startMs": 2339,
+    "endMs": 2558,
+    "timestampMs": 2449,
+    "confidence": null
+  },
+  {
+    "text": " even",
+    "startMs": 2558,
+    "endMs": 2998,
+    "timestampMs": 2778,
+    "confidence": null
+  },
+  {
+    "text": " flinch.",
+    "startMs": 2998,
+    "endMs": 3217,
+    "timestampMs": 3108,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "text": "He",
+    "startMs": 455,
+    "endMs": 624,
+    "timestampMs": 540,
+    "confidence": null
+  },
+  {
+    "text": " shoves",
+    "startMs": 624,
+    "endMs": 961,
+    "timestampMs": 793,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 961,
+    "endMs": 1130,
+    "timestampMs": 1046,
+    "confidence": null
+  },
+  {
+    "text": " through",
+    "startMs": 1130,
+    "endMs": 1299,
+    "timestampMs": 1214,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1299,
+    "endMs": 1467,
+    "timestampMs": 1383,
+    "confidence": null
+  },
+  {
+    "text": " gap.",
+    "startMs": 1467,
+    "endMs": 1636,
+    "timestampMs": 1552,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " The",
+    "startMs": 2027,
+    "endMs": 2215,
+    "timestampMs": 2121,
+    "confidence": null
+  },
+  {
+    "text": " last",
+    "startMs": 2215,
+    "endMs": 2404,
+    "timestampMs": 2310,
+    "confidence": null
+  },
+  {
+    "text": " thing",
+    "startMs": 2404,
+    "endMs": 2593,
+    "timestampMs": 2499,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 2593,
+    "endMs": 2782,
+    "timestampMs": 2688,
+    "confidence": null
+  },
+  {
+    "text": " see",
+    "startMs": 2782,
+    "endMs": 2971,
+    "timestampMs": 2876,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 2971,
+    "endMs": 3160,
+    "timestampMs": 3065,
+    "confidence": null
+  },
+  {
+    "text": " him,",
+    "startMs": 3160,
+    "endMs": 3349,
+    "timestampMs": 3254,
+    "confidence": null
+  },
+  {
+    "text": " sitting",
+    "startMs": 3474,
+    "endMs": 3854,
+    "timestampMs": 3664,
+    "confidence": null
+  },
+  {
+    "text": " down",
+    "startMs": 3854,
+    "endMs": 4043,
+    "timestampMs": 3948,
+    "confidence": null
+  },
+  {
+    "text": " against",
+    "startMs": 4043,
+    "endMs": 4422,
+    "timestampMs": 4233,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 4422,
+    "endMs": 4612,
+    "timestampMs": 4517,
+    "confidence": null
+  },
+  {
+    "text": " door.",
+    "startMs": 4612,
+    "endMs": 4801,
+    "timestampMs": 4707,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

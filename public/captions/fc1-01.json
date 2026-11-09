@@ -1,0 +1,74 @@
+[
+  {
+    "text": "Day",
+    "startMs": 0,
+    "endMs": 191,
+    "timestampMs": 96,
+    "confidence": null
+  },
+  {
+    "text": " one.",
+    "startMs": 191,
+    "endMs": 381,
+    "timestampMs": 287,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " You",
+    "startMs": 381,
+    "endMs": 572,
+    "timestampMs": 477,
+    "confidence": null
+  },
+  {
+    "text": " only",
+    "startMs": 1032,
+    "endMs": 1454,
+    "timestampMs": 1243,
+    "confidence": null
+  },
+  {
+    "text": " came",
+    "startMs": 1454,
+    "endMs": 1664,
+    "timestampMs": 1559,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 1664,
+    "endMs": 1875,
+    "timestampMs": 1770,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 1875,
+    "endMs": 2086,
+    "timestampMs": 1980,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 2086,
+    "endMs": 2296,
+    "timestampMs": 2191,
+    "confidence": null
+  },
+  {
+    "text": " frozen",
+    "startMs": 2296,
+    "endMs": 2718,
+    "timestampMs": 2507,
+    "confidence": null
+  },
+  {
+    "text": " pizza.",
+    "startMs": 2718,
+    "endMs": 3139,
+    "timestampMs": 2929,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

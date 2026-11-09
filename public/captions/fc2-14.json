@@ -1,0 +1,129 @@
+[
+  {
+    "text": "Do",
+    "startMs": 325,
+    "endMs": 624,
+    "timestampMs": 474,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 624,
+    "endMs": 924,
+    "timestampMs": 774,
+    "confidence": null
+  },
+  {
+    "text": " run",
+    "startMs": 924,
+    "endMs": 1223,
+    "timestampMs": 1074,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 1223,
+    "endMs": 1523,
+    "timestampMs": 1373,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1523,
+    "endMs": 1823,
+    "timestampMs": 1673,
+    "confidence": null
+  },
+  {
+    "text": " van",
+    "startMs": 1823,
+    "endMs": 2122,
+    "timestampMs": 1972,
+    "confidence": null
+  },
+  {
+    "text": " now,",
+    "startMs": 2122,
+    "endMs": 2422,
+    "timestampMs": 2272,
+    "confidence": null
+  },
+  {
+    "text": " or",
+    "startMs": 2802,
+    "endMs": 3120,
+    "timestampMs": 2961,
+    "confidence": null
+  },
+  {
+    "text": " wait",
+    "startMs": 3120,
+    "endMs": 3437,
+    "timestampMs": 3278,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 3437,
+    "endMs": 3755,
+    "timestampMs": 3596,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 3755,
+    "endMs": 4073,
+    "timestampMs": 3914,
+    "confidence": null
+  },
+  {
+    "text": " cold",
+    "startMs": 4073,
+    "endMs": 4391,
+    "timestampMs": 4232,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 4391,
+    "endMs": 4709,
+    "timestampMs": 4550,
+    "confidence": null
+  },
+  {
+    "text": " night,",
+    "startMs": 4709,
+    "endMs": 5027,
+    "timestampMs": 4868,
+    "confidence": null
+  },
+  {
+    "text": " when",
+    "startMs": 5461,
+    "endMs": 5765,
+    "timestampMs": 5613,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 5765,
+    "endMs": 6069,
+    "timestampMs": 5917,
+    "confidence": null
+  },
+  {
+    "text": " music",
+    "startMs": 6069,
+    "endMs": 6677,
+    "timestampMs": 6373,
+    "confidence": null
+  },
+  {
+    "text": " dies?",
+    "startMs": 6677,
+    "endMs": 6981,
+    "timestampMs": 6829,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

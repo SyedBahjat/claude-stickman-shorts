@@ -1,0 +1,74 @@
+[
+  {
+    "text": "His",
+    "startMs": 166,
+    "endMs": 356,
+    "timestampMs": 261,
+    "confidence": null
+  },
+  {
+    "text": " one",
+    "startMs": 356,
+    "endMs": 546,
+    "timestampMs": 451,
+    "confidence": null
+  },
+  {
+    "text": " phone",
+    "startMs": 546,
+    "endMs": 736,
+    "timestampMs": 641,
+    "confidence": null
+  },
+  {
+    "text": " call.",
+    "startMs": 736,
+    "endMs": 926,
+    "timestampMs": 831,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " He",
+    "startMs": 926,
+    "endMs": 1116,
+    "timestampMs": 1021,
+    "confidence": null
+  },
+  {
+    "text": " used",
+    "startMs": 1116,
+    "endMs": 1497,
+    "timestampMs": 1307,
+    "confidence": null
+  },
+  {
+    "text": " it",
+    "startMs": 1497,
+    "endMs": 1687,
+    "timestampMs": 1592,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 1687,
+    "endMs": 1877,
+    "timestampMs": 1782,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 1877,
+    "endMs": 2067,
+    "timestampMs": 1972,
+    "confidence": null
+  },
+  {
+    "text": " sister.",
+    "startMs": 2067,
+    "endMs": 2447,
+    "timestampMs": 2257,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

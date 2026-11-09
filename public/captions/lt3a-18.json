@@ -1,0 +1,102 @@
+[
+  {
+    "text": "Your",
+    "startMs": 207,
+    "endMs": 399,
+    "timestampMs": 303,
+    "confidence": null
+  },
+  {
+    "text": " lie",
+    "startMs": 399,
+    "endMs": 591,
+    "timestampMs": 495,
+    "confidence": null
+  },
+  {
+    "text": " nearly",
+    "startMs": 591,
+    "endMs": 974,
+    "timestampMs": 782,
+    "confidence": null
+  },
+  {
+    "text": " killed",
+    "startMs": 974,
+    "endMs": 1357,
+    "timestampMs": 1165,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 1357,
+    "endMs": 1548,
+    "timestampMs": 1453,
+    "confidence": null
+  },
+  {
+    "text": " both.",
+    "startMs": 1548,
+    "endMs": 1740,
+    "timestampMs": 1644,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " His",
+    "startMs": 1740,
+    "endMs": 1931,
+    "timestampMs": 1836,
+    "confidence": null
+  },
+  {
+    "text": " lie",
+    "startMs": 1931,
+    "endMs": 2123,
+    "timestampMs": 2027,
+    "confidence": null
+  },
+  {
+    "text": " saved",
+    "startMs": 2123,
+    "endMs": 2506,
+    "timestampMs": 2315,
+    "confidence": null
+  },
+  {
+    "text": " forty",
+    "startMs": 2506,
+    "endMs": 2889,
+    "timestampMs": 2698,
+    "confidence": null
+  },
+  {
+    "text": " kids,",
+    "startMs": 2889,
+    "endMs": 3081,
+    "timestampMs": 2985,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 3081,
+    "endMs": 3272,
+    "timestampMs": 3177,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 3272,
+    "endMs": 3464,
+    "timestampMs": 3368,
+    "confidence": null
+  },
+  {
+    "text": " sister.",
+    "startMs": 3464,
+    "endMs": 3847,
+    "timestampMs": 3655,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

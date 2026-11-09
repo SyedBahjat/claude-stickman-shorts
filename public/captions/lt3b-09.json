@@ -1,0 +1,67 @@
+[
+  {
+    "text": "That's",
+    "startMs": 207,
+    "endMs": 413,
+    "timestampMs": 310,
+    "confidence": null
+  },
+  {
+    "text": " my",
+    "startMs": 413,
+    "endMs": 620,
+    "timestampMs": 516,
+    "confidence": null
+  },
+  {
+    "text": " husband's",
+    "startMs": 620,
+    "endMs": 1033,
+    "timestampMs": 826,
+    "confidence": null
+  },
+  {
+    "text": " case.",
+    "startMs": 1033,
+    "endMs": 1239,
+    "timestampMs": 1136,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Where",
+    "startMs": 1239,
+    "endMs": 1446,
+    "timestampMs": 1343,
+    "confidence": null
+  },
+  {
+    "text": " did",
+    "startMs": 1587,
+    "endMs": 1806,
+    "timestampMs": 1697,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 1806,
+    "endMs": 2025,
+    "timestampMs": 1915,
+    "confidence": null
+  },
+  {
+    "text": " get",
+    "startMs": 2025,
+    "endMs": 2244,
+    "timestampMs": 2134,
+    "confidence": null
+  },
+  {
+    "text": " it?",
+    "startMs": 2244,
+    "endMs": 2462,
+    "timestampMs": 2353,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

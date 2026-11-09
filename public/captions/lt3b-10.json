@@ -1,0 +1,53 @@
+[
+  {
+    "text": "So",
+    "startMs": 139,
+    "endMs": 323,
+    "timestampMs": 231,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 323,
+    "endMs": 507,
+    "timestampMs": 415,
+    "confidence": null
+  },
+  {
+    "text": " tell",
+    "startMs": 507,
+    "endMs": 691,
+    "timestampMs": 599,
+    "confidence": null
+  },
+  {
+    "text": " her",
+    "startMs": 691,
+    "endMs": 875,
+    "timestampMs": 783,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 875,
+    "endMs": 1059,
+    "timestampMs": 967,
+    "confidence": null
+  },
+  {
+    "text": " truth.",
+    "startMs": 1059,
+    "endMs": 1243,
+    "timestampMs": 1151,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Again.",
+    "startMs": 1409,
+    "endMs": 1821,
+    "timestampMs": 1615,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

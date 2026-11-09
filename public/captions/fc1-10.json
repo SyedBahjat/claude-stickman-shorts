@@ -1,0 +1,89 @@
+[
+  {
+    "text": "Nobody",
+    "startMs": 0,
+    "endMs": 695,
+    "timestampMs": 347,
+    "confidence": null
+  },
+  {
+    "text": " notices",
+    "startMs": 695,
+    "endMs": 1388,
+    "timestampMs": 1041,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1388,
+    "endMs": 1620,
+    "timestampMs": 1504,
+    "confidence": null
+  },
+  {
+    "text": " one",
+    "startMs": 1620,
+    "endMs": 1851,
+    "timestampMs": 1736,
+    "confidence": null
+  },
+  {
+    "text": " by",
+    "startMs": 1851,
+    "endMs": 2083,
+    "timestampMs": 1967,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 2083,
+    "endMs": 2314,
+    "timestampMs": 2198,
+    "confidence": null
+  },
+  {
+    "text": " ice",
+    "startMs": 2314,
+    "endMs": 2546,
+    "timestampMs": 2429,
+    "confidence": null
+  },
+  {
+    "text": " chest.",
+    "startMs": 2546,
+    "endMs": 2777,
+    "timestampMs": 2662,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " It",
+    "startMs": 3460,
+    "endMs": 3780,
+    "timestampMs": 3620,
+    "confidence": null
+  },
+  {
+    "text": " just...",
+    "startMs": 3780,
+    "endMs": 4100,
+    "timestampMs": 3940,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " stops",
+    "startMs": 4512,
+    "endMs": 4819,
+    "timestampMs": 4665,
+    "confidence": null
+  },
+  {
+    "text": " moving.",
+    "startMs": 4819,
+    "endMs": 5432,
+    "timestampMs": 5125,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

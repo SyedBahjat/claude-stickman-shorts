@@ -1,0 +1,130 @@
+[
+  {
+    "text": "Want",
+    "startMs": 175,
+    "endMs": 369,
+    "timestampMs": 272,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 369,
+    "endMs": 564,
+    "timestampMs": 467,
+    "confidence": null
+  },
+  {
+    "text": " see",
+    "startMs": 564,
+    "endMs": 758,
+    "timestampMs": 661,
+    "confidence": null
+  },
+  {
+    "text": " what",
+    "startMs": 758,
+    "endMs": 952,
+    "timestampMs": 855,
+    "confidence": null
+  },
+  {
+    "text": " happens",
+    "startMs": 952,
+    "endMs": 1341,
+    "timestampMs": 1147,
+    "confidence": null
+  },
+  {
+    "text": " if",
+    "startMs": 1341,
+    "endMs": 1535,
+    "timestampMs": 1438,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 1535,
+    "endMs": 1729,
+    "timestampMs": 1632,
+    "confidence": null
+  },
+  {
+    "text": " tell",
+    "startMs": 1729,
+    "endMs": 1924,
+    "timestampMs": 1827,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1924,
+    "endMs": 2118,
+    "timestampMs": 2021,
+    "confidence": null
+  },
+  {
+    "text": " truth?",
+    "startMs": 2118,
+    "endMs": 2312,
+    "timestampMs": 2215,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Comment",
+    "startMs": 2681,
+    "endMs": 3083,
+    "timestampMs": 2882,
+    "confidence": null
+  },
+  {
+    "text": " truth,",
+    "startMs": 3083,
+    "endMs": 3284,
+    "timestampMs": 3184,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 3284,
+    "endMs": 3485,
+    "timestampMs": 3385,
+    "confidence": null
+  },
+  {
+    "text": " follow",
+    "startMs": 3485,
+    "endMs": 3887,
+    "timestampMs": 3686,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 3887,
+    "endMs": 4088,
+    "timestampMs": 3987,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 4088,
+    "endMs": 4289,
+    "timestampMs": 4188,
+    "confidence": null
+  },
+  {
+    "text": " next",
+    "startMs": 4289,
+    "endMs": 4490,
+    "timestampMs": 4389,
+    "confidence": null
+  },
+  {
+    "text": " story.",
+    "startMs": 4490,
+    "endMs": 4892,
+    "timestampMs": 4691,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

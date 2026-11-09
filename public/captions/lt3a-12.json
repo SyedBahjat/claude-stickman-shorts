@@ -1,0 +1,95 @@
+[
+  {
+    "text": "Vale",
+    "startMs": 168,
+    "endMs": 349,
+    "timestampMs": 258,
+    "confidence": null
+  },
+  {
+    "text": " was",
+    "startMs": 349,
+    "endMs": 530,
+    "timestampMs": 439,
+    "confidence": null
+  },
+  {
+    "text": " never",
+    "startMs": 530,
+    "endMs": 892,
+    "timestampMs": 711,
+    "confidence": null
+  },
+  {
+    "text": " his",
+    "startMs": 892,
+    "endMs": 1073,
+    "timestampMs": 982,
+    "confidence": null
+  },
+  {
+    "text": " brother.",
+    "startMs": 1073,
+    "endMs": 1434,
+    "timestampMs": 1253,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Just",
+    "startMs": 1664,
+    "endMs": 1865,
+    "timestampMs": 1765,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 1865,
+    "endMs": 2066,
+    "timestampMs": 1966,
+    "confidence": null
+  },
+  {
+    "text": " stranger",
+    "startMs": 2066,
+    "endMs": 2468,
+    "timestampMs": 2267,
+    "confidence": null
+  },
+  {
+    "text": " who",
+    "startMs": 2468,
+    "endMs": 2669,
+    "timestampMs": 2568,
+    "confidence": null
+  },
+  {
+    "text": " gave",
+    "startMs": 2669,
+    "endMs": 2869,
+    "timestampMs": 2769,
+    "confidence": null
+  },
+  {
+    "text": " him",
+    "startMs": 2869,
+    "endMs": 3070,
+    "timestampMs": 2970,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 3070,
+    "endMs": 3271,
+    "timestampMs": 3171,
+    "confidence": null
+  },
+  {
+    "text": " chance.",
+    "startMs": 3271,
+    "endMs": 3472,
+    "timestampMs": 3372,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

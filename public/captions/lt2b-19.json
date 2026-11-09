@@ -1,0 +1,52 @@
+[
+  {
+    "text": "He",
+    "startMs": 462,
+    "endMs": 613,
+    "timestampMs": 538,
+    "confidence": null
+  },
+  {
+    "text": " says",
+    "startMs": 613,
+    "endMs": 765,
+    "timestampMs": 689,
+    "confidence": null
+  },
+  {
+    "text": " it",
+    "startMs": 765,
+    "endMs": 916,
+    "timestampMs": 840,
+    "confidence": null
+  },
+  {
+    "text": " like",
+    "startMs": 916,
+    "endMs": 1068,
+    "timestampMs": 992,
+    "confidence": null
+  },
+  {
+    "text": " he's",
+    "startMs": 1068,
+    "endMs": 1219,
+    "timestampMs": 1143,
+    "confidence": null
+  },
+  {
+    "text": " practiced",
+    "startMs": 1219,
+    "endMs": 1673,
+    "timestampMs": 1446,
+    "confidence": null
+  },
+  {
+    "text": " it.",
+    "startMs": 1673,
+    "endMs": 1825,
+    "timestampMs": 1749,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

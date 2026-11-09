@@ -1,0 +1,67 @@
+[
+  {
+    "text": "This",
+    "startMs": 189,
+    "endMs": 378,
+    "timestampMs": 283,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 378,
+    "endMs": 566,
+    "timestampMs": 472,
+    "confidence": null
+  },
+  {
+    "text": " Doctor",
+    "startMs": 566,
+    "endMs": 943,
+    "timestampMs": 755,
+    "confidence": null
+  },
+  {
+    "text": " Vale's",
+    "startMs": 943,
+    "endMs": 1320,
+    "timestampMs": 1132,
+    "confidence": null
+  },
+  {
+    "text": " card.",
+    "startMs": 1320,
+    "endMs": 1509,
+    "timestampMs": 1414,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Where",
+    "startMs": 1795,
+    "endMs": 2005,
+    "timestampMs": 1900,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 2005,
+    "endMs": 2215,
+    "timestampMs": 2110,
+    "confidence": null
+  },
+  {
+    "text": " Doctor",
+    "startMs": 2215,
+    "endMs": 2636,
+    "timestampMs": 2426,
+    "confidence": null
+  },
+  {
+    "text": " Vale?",
+    "startMs": 2636,
+    "endMs": 2847,
+    "timestampMs": 2741,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

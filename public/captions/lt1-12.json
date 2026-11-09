@@ -1,0 +1,97 @@
+[
+  {
+    "text": "Only",
+    "startMs": 164,
+    "endMs": 534,
+    "timestampMs": 349,
+    "confidence": null
+  },
+  {
+    "text": " one",
+    "startMs": 534,
+    "endMs": 718,
+    "timestampMs": 626,
+    "confidence": null
+  },
+  {
+    "text": " passenger",
+    "startMs": 718,
+    "endMs": 1273,
+    "timestampMs": 996,
+    "confidence": null
+  },
+  {
+    "text": " hasn't",
+    "startMs": 1273,
+    "endMs": 1458,
+    "timestampMs": 1365,
+    "confidence": null
+  },
+  {
+    "text": " moved.",
+    "startMs": 1458,
+    "endMs": 1827,
+    "timestampMs": 1643,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Grey",
+    "startMs": 1997,
+    "endMs": 2185,
+    "timestampMs": 2091,
+    "confidence": null
+  },
+  {
+    "text": " hoodie.",
+    "startMs": 2185,
+    "endMs": 2560,
+    "timestampMs": 2372,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Silver",
+    "startMs": 2684,
+    "endMs": 3097,
+    "timestampMs": 2890,
+    "confidence": null
+  },
+  {
+    "text": " case.",
+    "startMs": 3097,
+    "endMs": 3303,
+    "timestampMs": 3200,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " And",
+    "startMs": 3303,
+    "endMs": 3510,
+    "timestampMs": 3406,
+    "confidence": null
+  },
+  {
+    "text": " he's",
+    "startMs": 3510,
+    "endMs": 3716,
+    "timestampMs": 3613,
+    "confidence": null
+  },
+  {
+    "text": " watching",
+    "startMs": 3716,
+    "endMs": 4129,
+    "timestampMs": 3922,
+    "confidence": null
+  },
+  {
+    "text": " you.",
+    "startMs": 4129,
+    "endMs": 4335,
+    "timestampMs": 4232,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

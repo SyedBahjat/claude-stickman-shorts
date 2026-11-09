@@ -1,0 +1,145 @@
+[
+  {
+    "text": "You",
+    "startMs": 0,
+    "endMs": 289,
+    "timestampMs": 144,
+    "confidence": null
+  },
+  {
+    "text": " crawl",
+    "startMs": 289,
+    "endMs": 577,
+    "timestampMs": 433,
+    "confidence": null
+  },
+  {
+    "text": " out.",
+    "startMs": 577,
+    "endMs": 866,
+    "timestampMs": 721,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " The",
+    "startMs": 866,
+    "endMs": 1154,
+    "timestampMs": 1010,
+    "confidence": null
+  },
+  {
+    "text": " one",
+    "startMs": 1697,
+    "endMs": 2002,
+    "timestampMs": 1850,
+    "confidence": null
+  },
+  {
+    "text": " by",
+    "startMs": 2002,
+    "endMs": 2307,
+    "timestampMs": 2155,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 2307,
+    "endMs": 2613,
+    "timestampMs": 2460,
+    "confidence": null
+  },
+  {
+    "text": " van",
+    "startMs": 2613,
+    "endMs": 2918,
+    "timestampMs": 2765,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 3215,
+    "endMs": 3501,
+    "timestampMs": 3358,
+    "confidence": null
+  },
+  {
+    "text": " Doctor",
+    "startMs": 3501,
+    "endMs": 4074,
+    "timestampMs": 3787,
+    "confidence": null
+  },
+  {
+    "text": " Hale.",
+    "startMs": 4074,
+    "endMs": 4360,
+    "timestampMs": 4217,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " And",
+    "startMs": 5219,
+    "endMs": 5480,
+    "timestampMs": 5350,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 5480,
+    "endMs": 5740,
+    "timestampMs": 5610,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 5740,
+    "endMs": 6001,
+    "timestampMs": 5871,
+    "confidence": null
+  },
+  {
+    "text": " frozen",
+    "startMs": 6001,
+    "endMs": 6522,
+    "timestampMs": 6261,
+    "confidence": null
+  },
+  {
+    "text": " ground,",
+    "startMs": 6522,
+    "endMs": 6782,
+    "timestampMs": 6652,
+    "confidence": null
+  },
+  {
+    "text": " he",
+    "startMs": 7017,
+    "endMs": 7262,
+    "timestampMs": 7140,
+    "confidence": null
+  },
+  {
+    "text": " can",
+    "startMs": 7262,
+    "endMs": 7508,
+    "timestampMs": 7385,
+    "confidence": null
+  },
+  {
+    "text": " barely",
+    "startMs": 7508,
+    "endMs": 8243,
+    "timestampMs": 7876,
+    "confidence": null
+  },
+  {
+    "text": " move.",
+    "startMs": 8243,
+    "endMs": 8489,
+    "timestampMs": 8366,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

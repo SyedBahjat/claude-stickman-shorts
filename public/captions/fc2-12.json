@@ -1,0 +1,74 @@
+[
+  {
+    "text": "And",
+    "startMs": 337,
+    "endMs": 551,
+    "timestampMs": 444,
+    "confidence": null
+  },
+  {
+    "text": " as",
+    "startMs": 551,
+    "endMs": 765,
+    "timestampMs": 658,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 765,
+    "endMs": 978,
+    "timestampMs": 872,
+    "confidence": null
+  },
+  {
+    "text": " sun",
+    "startMs": 978,
+    "endMs": 1192,
+    "timestampMs": 1085,
+    "confidence": null
+  },
+  {
+    "text": " comes",
+    "startMs": 1192,
+    "endMs": 1620,
+    "timestampMs": 1406,
+    "confidence": null
+  },
+  {
+    "text": " up...",
+    "startMs": 1620,
+    "endMs": 1834,
+    "timestampMs": 1727,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " they",
+    "startMs": 2567,
+    "endMs": 2817,
+    "timestampMs": 2692,
+    "confidence": null
+  },
+  {
+    "text": " start",
+    "startMs": 2817,
+    "endMs": 3068,
+    "timestampMs": 2942,
+    "confidence": null
+  },
+  {
+    "text": " moving",
+    "startMs": 3068,
+    "endMs": 3568,
+    "timestampMs": 3318,
+    "confidence": null
+  },
+  {
+    "text": " faster.",
+    "startMs": 3568,
+    "endMs": 4069,
+    "timestampMs": 3819,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

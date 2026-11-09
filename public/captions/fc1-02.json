@@ -1,0 +1,96 @@
+[
+  {
+    "text": "Midnight.",
+    "startMs": 221,
+    "endMs": 847,
+    "timestampMs": 535,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " A",
+    "startMs": 1295,
+    "endMs": 1549,
+    "timestampMs": 1421,
+    "confidence": null
+  },
+  {
+    "text": " cashier,",
+    "startMs": 1549,
+    "endMs": 2058,
+    "timestampMs": 1804,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 2174,
+    "endMs": 2429,
+    "timestampMs": 2302,
+    "confidence": null
+  },
+  {
+    "text": " manager,",
+    "startMs": 2429,
+    "endMs": 3192,
+    "timestampMs": 2810,
+    "confidence": null
+  },
+  {
+    "text": " an",
+    "startMs": 3192,
+    "endMs": 3446,
+    "timestampMs": 3319,
+    "confidence": null
+  },
+  {
+    "text": " old",
+    "startMs": 3446,
+    "endMs": 3700,
+    "timestampMs": 3573,
+    "confidence": null
+  },
+  {
+    "text": " man",
+    "startMs": 3700,
+    "endMs": 3954,
+    "timestampMs": 3828,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 3954,
+    "endMs": 4209,
+    "timestampMs": 4081,
+    "confidence": null
+  },
+  {
+    "text": " his",
+    "startMs": 4209,
+    "endMs": 4463,
+    "timestampMs": 4336,
+    "confidence": null
+  },
+  {
+    "text": " dog.",
+    "startMs": 4463,
+    "endMs": 4717,
+    "timestampMs": 4590,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " That's",
+    "startMs": 5383,
+    "endMs": 5638,
+    "timestampMs": 5511,
+    "confidence": null
+  },
+  {
+    "text": " everyone.",
+    "startMs": 5638,
+    "endMs": 6404,
+    "timestampMs": 6021,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

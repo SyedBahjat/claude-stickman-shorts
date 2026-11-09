@@ -1,0 +1,74 @@
+[
+  {
+    "text": "There's",
+    "startMs": 152,
+    "endMs": 479,
+    "timestampMs": 315,
+    "confidence": null
+  },
+  {
+    "text": " no",
+    "startMs": 479,
+    "endMs": 643,
+    "timestampMs": 561,
+    "confidence": null
+  },
+  {
+    "text": " basement",
+    "startMs": 643,
+    "endMs": 1134,
+    "timestampMs": 888,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 1134,
+    "endMs": 1297,
+    "timestampMs": 1215,
+    "confidence": null
+  },
+  {
+    "text": " my",
+    "startMs": 1297,
+    "endMs": 1461,
+    "timestampMs": 1379,
+    "confidence": null
+  },
+  {
+    "text": " building.",
+    "startMs": 1461,
+    "endMs": 1788,
+    "timestampMs": 1625,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " What",
+    "startMs": 1788,
+    "endMs": 1952,
+    "timestampMs": 1870,
+    "confidence": null
+  },
+  {
+    "text": " do",
+    "startMs": 1952,
+    "endMs": 2116,
+    "timestampMs": 2034,
+    "confidence": null
+  },
+  {
+    "text": " I",
+    "startMs": 2116,
+    "endMs": 2279,
+    "timestampMs": 2197,
+    "confidence": null
+  },
+  {
+    "text": " do?",
+    "startMs": 2279,
+    "endMs": 2443,
+    "timestampMs": 2361,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

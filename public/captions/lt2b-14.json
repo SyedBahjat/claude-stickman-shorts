@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Do",
+    "startMs": 206,
+    "endMs": 385,
+    "timestampMs": 296,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 385,
+    "endMs": 564,
+    "timestampMs": 475,
+    "confidence": null
+  },
+  {
+    "text": " lie",
+    "startMs": 564,
+    "endMs": 744,
+    "timestampMs": 654,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 744,
+    "endMs": 923,
+    "timestampMs": 833,
+    "confidence": null
+  },
+  {
+    "text": " him,",
+    "startMs": 923,
+    "endMs": 1102,
+    "timestampMs": 1012,
+    "confidence": null
+  },
+  {
+    "text": " or",
+    "startMs": 1248,
+    "endMs": 1439,
+    "timestampMs": 1344,
+    "confidence": null
+  },
+  {
+    "text": " tell",
+    "startMs": 1439,
+    "endMs": 1631,
+    "timestampMs": 1535,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1631,
+    "endMs": 1822,
+    "timestampMs": 1727,
+    "confidence": null
+  },
+  {
+    "text": " soldier",
+    "startMs": 1822,
+    "endMs": 2206,
+    "timestampMs": 2014,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 2206,
+    "endMs": 2397,
+    "timestampMs": 2301,
+    "confidence": null
+  },
+  {
+    "text": " truth?",
+    "startMs": 2397,
+    "endMs": 2589,
+    "timestampMs": 2493,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Twenty-four",
+    "startMs": 197,
+    "endMs": 795,
+    "timestampMs": 496,
+    "confidence": null
+  },
+  {
+    "text": " hours",
+    "startMs": 795,
+    "endMs": 994,
+    "timestampMs": 894,
+    "confidence": null
+  },
+  {
+    "text": " later,",
+    "startMs": 994,
+    "endMs": 1392,
+    "timestampMs": 1193,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1575,
+    "endMs": 1743,
+    "timestampMs": 1659,
+    "confidence": null
+  },
+  {
+    "text": " door",
+    "startMs": 1743,
+    "endMs": 1911,
+    "timestampMs": 1827,
+    "confidence": null
+  },
+  {
+    "text": " opens",
+    "startMs": 1911,
+    "endMs": 2247,
+    "timestampMs": 2079,
+    "confidence": null
+  },
+  {
+    "text": " again.",
+    "startMs": 2247,
+    "endMs": 2583,
+    "timestampMs": 2415,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

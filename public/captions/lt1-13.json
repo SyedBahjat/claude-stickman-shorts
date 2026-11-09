@@ -1,0 +1,104 @@
+[
+  {
+    "text": "There's",
+    "startMs": 181,
+    "endMs": 668,
+    "timestampMs": 424,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 668,
+    "endMs": 911,
+    "timestampMs": 789,
+    "confidence": null
+  },
+  {
+    "text": " door",
+    "startMs": 911,
+    "endMs": 1154,
+    "timestampMs": 1032,
+    "confidence": null
+  },
+  {
+    "text": " two",
+    "startMs": 1154,
+    "endMs": 1397,
+    "timestampMs": 1276,
+    "confidence": null
+  },
+  {
+    "text": " hundred",
+    "startMs": 1397,
+    "endMs": 1884,
+    "timestampMs": 1640,
+    "confidence": null
+  },
+  {
+    "text": " meters",
+    "startMs": 1884,
+    "endMs": 2370,
+    "timestampMs": 2127,
+    "confidence": null
+  },
+  {
+    "text": " back.",
+    "startMs": 2370,
+    "endMs": 2613,
+    "timestampMs": 2491,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " A",
+    "startMs": 2613,
+    "endMs": 2856,
+    "timestampMs": 2735,
+    "confidence": null
+  },
+  {
+    "text": " real",
+    "startMs": 2856,
+    "endMs": 3099,
+    "timestampMs": 2978,
+    "confidence": null
+  },
+  {
+    "text": " shelter.",
+    "startMs": 3099,
+    "endMs": 3586,
+    "timestampMs": 3343,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Blast",
+    "startMs": 3586,
+    "endMs": 3829,
+    "timestampMs": 3707,
+    "confidence": null
+  },
+  {
+    "text": " doors.",
+    "startMs": 3829,
+    "endMs": 4072,
+    "timestampMs": 3951,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Clean",
+    "startMs": 4072,
+    "endMs": 4315,
+    "timestampMs": 4194,
+    "confidence": null
+  },
+  {
+    "text": " air.",
+    "startMs": 4315,
+    "endMs": 4559,
+    "timestampMs": 4437,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

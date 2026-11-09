@@ -1,0 +1,129 @@
+[
+  {
+    "text": "On",
+    "startMs": 202,
+    "endMs": 390,
+    "timestampMs": 296,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 390,
+    "endMs": 577,
+    "timestampMs": 484,
+    "confidence": null
+  },
+  {
+    "text": " door",
+    "startMs": 577,
+    "endMs": 765,
+    "timestampMs": 671,
+    "confidence": null
+  },
+  {
+    "text": " camera,",
+    "startMs": 765,
+    "endMs": 1328,
+    "timestampMs": 1046,
+    "confidence": null
+  },
+  {
+    "text": " Eli",
+    "startMs": 1328,
+    "endMs": 1703,
+    "timestampMs": 1515,
+    "confidence": null
+  },
+  {
+    "text": " gets",
+    "startMs": 1703,
+    "endMs": 1890,
+    "timestampMs": 1796,
+    "confidence": null
+  },
+  {
+    "text": " up,",
+    "startMs": 1890,
+    "endMs": 2078,
+    "timestampMs": 1984,
+    "confidence": null
+  },
+  {
+    "text": " walks",
+    "startMs": 2078,
+    "endMs": 2265,
+    "timestampMs": 2171,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 2265,
+    "endMs": 2453,
+    "timestampMs": 2359,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 2453,
+    "endMs": 2640,
+    "timestampMs": 2546,
+    "confidence": null
+  },
+  {
+    "text": " old",
+    "startMs": 2640,
+    "endMs": 2828,
+    "timestampMs": 2734,
+    "confidence": null
+  },
+  {
+    "text": " wall",
+    "startMs": 2828,
+    "endMs": 3015,
+    "timestampMs": 2922,
+    "confidence": null
+  },
+  {
+    "text": " phone,",
+    "startMs": 3015,
+    "endMs": 3203,
+    "timestampMs": 3109,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 3203,
+    "endMs": 3390,
+    "timestampMs": 3297,
+    "confidence": null
+  },
+  {
+    "text": " makes",
+    "startMs": 3390,
+    "endMs": 3765,
+    "timestampMs": 3578,
+    "confidence": null
+  },
+  {
+    "text": " one",
+    "startMs": 3765,
+    "endMs": 3953,
+    "timestampMs": 3859,
+    "confidence": null
+  },
+  {
+    "text": " more",
+    "startMs": 3953,
+    "endMs": 4140,
+    "timestampMs": 4047,
+    "confidence": null
+  },
+  {
+    "text": " call.",
+    "startMs": 4140,
+    "endMs": 4328,
+    "timestampMs": 4234,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

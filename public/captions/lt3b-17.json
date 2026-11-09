@@ -1,0 +1,46 @@
+[
+  {
+    "text": "Your",
+    "startMs": 138,
+    "endMs": 386,
+    "timestampMs": 262,
+    "confidence": null
+  },
+  {
+    "text": " sister's",
+    "startMs": 386,
+    "endMs": 881,
+    "timestampMs": 633,
+    "confidence": null
+  },
+  {
+    "text": " safe.",
+    "startMs": 881,
+    "endMs": 1128,
+    "timestampMs": 1005,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Go",
+    "startMs": 1128,
+    "endMs": 1376,
+    "timestampMs": 1252,
+    "confidence": null
+  },
+  {
+    "text": " find",
+    "startMs": 1376,
+    "endMs": 1623,
+    "timestampMs": 1500,
+    "confidence": null
+  },
+  {
+    "text": " her.",
+    "startMs": 1623,
+    "endMs": 1871,
+    "timestampMs": 1747,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "claude-stickman-shorts",
+  "owner": { "name": "Syed Bahjat", "url": "https://github.com/SyedBahjat" },
+  "metadata": { "description": "Stick-figure story shorts for Claude Code", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "stickman-shorts",
+      "source": "./",
+      "description": "Make 2D stick-figure 'You Decide' story shorts (YouTube Shorts, TikTok, Reels) with Remotion.",
+      "version": "1.0.0",
+      "category": "productivity"
+    }
+  ]
+}

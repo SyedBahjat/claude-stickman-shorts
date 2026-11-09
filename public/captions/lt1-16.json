@@ -1,0 +1,74 @@
+[
+  {
+    "text": "There's",
+    "startMs": 200,
+    "endMs": 587,
+    "timestampMs": 394,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 587,
+    "endMs": 781,
+    "timestampMs": 684,
+    "confidence": null
+  },
+  {
+    "text": " phone",
+    "startMs": 781,
+    "endMs": 975,
+    "timestampMs": 878,
+    "confidence": null
+  },
+  {
+    "text": " line",
+    "startMs": 975,
+    "endMs": 1169,
+    "timestampMs": 1072,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 1169,
+    "endMs": 1363,
+    "timestampMs": 1266,
+    "confidence": null
+  },
+  {
+    "text": " there.",
+    "startMs": 1363,
+    "endMs": 1556,
+    "timestampMs": 1460,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " You",
+    "startMs": 1713,
+    "endMs": 1953,
+    "timestampMs": 1833,
+    "confidence": null
+  },
+  {
+    "text": " could",
+    "startMs": 1953,
+    "endMs": 2192,
+    "timestampMs": 2072,
+    "confidence": null
+  },
+  {
+    "text": " call",
+    "startMs": 2192,
+    "endMs": 2431,
+    "timestampMs": 2311,
+    "confidence": null
+  },
+  {
+    "text": " Nora.",
+    "startMs": 2431,
+    "endMs": 2909,
+    "timestampMs": 2670,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

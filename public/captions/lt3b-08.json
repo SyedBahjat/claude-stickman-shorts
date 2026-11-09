@@ -1,0 +1,68 @@
+[
+  {
+    "text": "You",
+    "startMs": 208,
+    "endMs": 430,
+    "timestampMs": 319,
+    "confidence": null
+  },
+  {
+    "text": " hand",
+    "startMs": 430,
+    "endMs": 652,
+    "timestampMs": 541,
+    "confidence": null
+  },
+  {
+    "text": " out",
+    "startMs": 652,
+    "endMs": 874,
+    "timestampMs": 763,
+    "confidence": null
+  },
+  {
+    "text": " his",
+    "startMs": 874,
+    "endMs": 1095,
+    "timestampMs": 985,
+    "confidence": null
+  },
+  {
+    "text": " pills.",
+    "startMs": 1095,
+    "endMs": 1317,
+    "timestampMs": 1206,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Forty",
+    "startMs": 1317,
+    "endMs": 1761,
+    "timestampMs": 1539,
+    "confidence": null
+  },
+  {
+    "text": " packets.",
+    "startMs": 1761,
+    "endMs": 2205,
+    "timestampMs": 1983,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Forty",
+    "startMs": 2205,
+    "endMs": 2648,
+    "timestampMs": 2426,
+    "confidence": null
+  },
+  {
+    "text": " kids.",
+    "startMs": 2648,
+    "endMs": 2870,
+    "timestampMs": 2759,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

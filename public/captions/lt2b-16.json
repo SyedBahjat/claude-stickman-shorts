@@ -1,0 +1,46 @@
+[
+  {
+    "text": "Get",
+    "startMs": 196,
+    "endMs": 449,
+    "timestampMs": 323,
+    "confidence": null
+  },
+  {
+    "text": " back",
+    "startMs": 449,
+    "endMs": 701,
+    "timestampMs": 575,
+    "confidence": null
+  },
+  {
+    "text": " here!",
+    "startMs": 701,
+    "endMs": 954,
+    "timestampMs": 828,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Both",
+    "startMs": 954,
+    "endMs": 1206,
+    "timestampMs": 1080,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 1206,
+    "endMs": 1459,
+    "timestampMs": 1333,
+    "confidence": null
+  },
+  {
+    "text": " you!",
+    "startMs": 1459,
+    "endMs": 1711,
+    "timestampMs": 1585,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

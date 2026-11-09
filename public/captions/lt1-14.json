@@ -1,0 +1,67 @@
+[
+  {
+    "text": "It",
+    "startMs": 0,
+    "endMs": 219,
+    "timestampMs": 110,
+    "confidence": null
+  },
+  {
+    "text": " seals",
+    "startMs": 219,
+    "endMs": 439,
+    "timestampMs": 329,
+    "confidence": null
+  },
+  {
+    "text": " at",
+    "startMs": 439,
+    "endMs": 658,
+    "timestampMs": 548,
+    "confidence": null
+  },
+  {
+    "text": " impact.",
+    "startMs": 658,
+    "endMs": 1097,
+    "timestampMs": 877,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " I",
+    "startMs": 1097,
+    "endMs": 1316,
+    "timestampMs": 1206,
+    "confidence": null
+  },
+  {
+    "text": " can't",
+    "startMs": 1316,
+    "endMs": 1535,
+    "timestampMs": 1426,
+    "confidence": null
+  },
+  {
+    "text": " carry",
+    "startMs": 1535,
+    "endMs": 1974,
+    "timestampMs": 1755,
+    "confidence": null
+  },
+  {
+    "text": " this",
+    "startMs": 1974,
+    "endMs": 2193,
+    "timestampMs": 2084,
+    "confidence": null
+  },
+  {
+    "text": " alone.",
+    "startMs": 2193,
+    "endMs": 2632,
+    "timestampMs": 2413,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "text": "You",
+    "startMs": 204,
+    "endMs": 412,
+    "timestampMs": 308,
+    "confidence": null
+  },
+  {
+    "text": " jump",
+    "startMs": 412,
+    "endMs": 620,
+    "timestampMs": 516,
+    "confidence": null
+  },
+  {
+    "text": " down",
+    "startMs": 620,
+    "endMs": 828,
+    "timestampMs": 724,
+    "confidence": null
+  },
+  {
+    "text": " onto",
+    "startMs": 828,
+    "endMs": 1244,
+    "timestampMs": 1036,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1244,
+    "endMs": 1452,
+    "timestampMs": 1348,
+    "confidence": null
+  },
+  {
+    "text": " tracks.",
+    "startMs": 1452,
+    "endMs": 1660,
+    "timestampMs": 1556,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Behind",
+    "startMs": 1816,
+    "endMs": 2192,
+    "timestampMs": 2004,
+    "confidence": null
+  },
+  {
+    "text": " you,",
+    "startMs": 2192,
+    "endMs": 2379,
+    "timestampMs": 2285,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 2517,
+    "endMs": 2684,
+    "timestampMs": 2600,
+    "confidence": null
+  },
+  {
+    "text": " conductor",
+    "startMs": 2684,
+    "endMs": 3184,
+    "timestampMs": 2934,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 3184,
+    "endMs": 3351,
+    "timestampMs": 3268,
+    "confidence": null
+  },
+  {
+    "text": " still",
+    "startMs": 3351,
+    "endMs": 3518,
+    "timestampMs": 3434,
+    "confidence": null
+  },
+  {
+    "text": " shouting.",
+    "startMs": 3518,
+    "endMs": 3851,
+    "timestampMs": 3685,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "text": "Lock",
+    "startMs": 0,
+    "endMs": 306,
+    "timestampMs": 154,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 505,
+    "endMs": 954,
+    "timestampMs": 729,
+    "confidence": null
+  },
+  {
+    "text": " doors!",
+    "startMs": 954,
+    "endMs": 1401,
+    "timestampMs": 1177,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Lock",
+    "startMs": 1401,
+    "endMs": 1848,
+    "timestampMs": 1625,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1985,
+    "endMs": 2386,
+    "timestampMs": 2185,
+    "confidence": null
+  },
+  {
+    "text": " doors,",
+    "startMs": 2386,
+    "endMs": 2787,
+    "timestampMs": 2587,
+    "confidence": null
+  },
+  {
+    "text": " now!",
+    "startMs": 2787,
+    "endMs": 3188,
+    "timestampMs": 2987,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

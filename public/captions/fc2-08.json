@@ -1,0 +1,68 @@
+[
+  {
+    "text": "Fifty",
+    "startMs": 0,
+    "endMs": 498,
+    "timestampMs": 249,
+    "confidence": null
+  },
+  {
+    "text": " seats.",
+    "startMs": 498,
+    "endMs": 746,
+    "timestampMs": 622,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " I",
+    "startMs": 746,
+    "endMs": 995,
+    "timestampMs": 871,
+    "confidence": null
+  },
+  {
+    "text": " was",
+    "startMs": 2396,
+    "endMs": 2665,
+    "timestampMs": 2531,
+    "confidence": null
+  },
+  {
+    "text": " going",
+    "startMs": 2665,
+    "endMs": 2934,
+    "timestampMs": 2800,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 2934,
+    "endMs": 3203,
+    "timestampMs": 3069,
+    "confidence": null
+  },
+  {
+    "text": " tell",
+    "startMs": 3203,
+    "endMs": 3472,
+    "timestampMs": 3338,
+    "confidence": null
+  },
+  {
+    "text": " you.",
+    "startMs": 3472,
+    "endMs": 3741,
+    "timestampMs": 3607,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Eventually.",
+    "startMs": 3995,
+    "endMs": 4967,
+    "timestampMs": 4481,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "text": "And",
+    "startMs": 193,
+    "endMs": 440,
+    "timestampMs": 316,
+    "confidence": null
+  },
+  {
+    "text": " when",
+    "startMs": 440,
+    "endMs": 687,
+    "timestampMs": 563,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 687,
+    "endMs": 934,
+    "timestampMs": 811,
+    "confidence": null
+  },
+  {
+    "text": " countdown",
+    "startMs": 934,
+    "endMs": 1428,
+    "timestampMs": 1181,
+    "confidence": null
+  },
+  {
+    "text": " hits",
+    "startMs": 1428,
+    "endMs": 1676,
+    "timestampMs": 1552,
+    "confidence": null
+  },
+  {
+    "text": " zero,",
+    "startMs": 1676,
+    "endMs": 2170,
+    "timestampMs": 1923,
+    "confidence": null
+  },
+  {
+    "text": " this",
+    "startMs": 2170,
+    "endMs": 2417,
+    "timestampMs": 2293,
+    "confidence": null
+  },
+  {
+    "text": " door",
+    "startMs": 2417,
+    "endMs": 2664,
+    "timestampMs": 2541,
+    "confidence": null
+  },
+  {
+    "text": " seals.",
+    "startMs": 2664,
+    "endMs": 2911,
+    "timestampMs": 2788,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " For",
+    "startMs": 3257,
+    "endMs": 3484,
+    "timestampMs": 3370,
+    "confidence": null
+  },
+  {
+    "text": " twenty-four",
+    "startMs": 3484,
+    "endMs": 4163,
+    "timestampMs": 3823,
+    "confidence": null
+  },
+  {
+    "text": " hours.",
+    "startMs": 4163,
+    "endMs": 4390,
+    "timestampMs": 4276,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

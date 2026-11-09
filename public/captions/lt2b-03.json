@@ -1,0 +1,67 @@
+[
+  {
+    "text": "He",
+    "startMs": 170,
+    "endMs": 396,
+    "timestampMs": 283,
+    "confidence": null
+  },
+  {
+    "text": " walks",
+    "startMs": 396,
+    "endMs": 623,
+    "timestampMs": 510,
+    "confidence": null
+  },
+  {
+    "text": " fast.",
+    "startMs": 623,
+    "endMs": 850,
+    "timestampMs": 736,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " He",
+    "startMs": 850,
+    "endMs": 1076,
+    "timestampMs": 963,
+    "confidence": null
+  },
+  {
+    "text": " doesn't",
+    "startMs": 1076,
+    "endMs": 1303,
+    "timestampMs": 1190,
+    "confidence": null
+  },
+  {
+    "text": " even",
+    "startMs": 1303,
+    "endMs": 1757,
+    "timestampMs": 1530,
+    "confidence": null
+  },
+  {
+    "text": " need",
+    "startMs": 1757,
+    "endMs": 1983,
+    "timestampMs": 1870,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1983,
+    "endMs": 2210,
+    "timestampMs": 2097,
+    "confidence": null
+  },
+  {
+    "text": " light.",
+    "startMs": 2210,
+    "endMs": 2437,
+    "timestampMs": 2323,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

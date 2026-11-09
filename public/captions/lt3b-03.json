@@ -1,0 +1,53 @@
+[
+  {
+    "text": "Then",
+    "startMs": 156,
+    "endMs": 350,
+    "timestampMs": 253,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 350,
+    "endMs": 545,
+    "timestampMs": 448,
+    "confidence": null
+  },
+  {
+    "text": " go",
+    "startMs": 545,
+    "endMs": 740,
+    "timestampMs": 642,
+    "confidence": null
+  },
+  {
+    "text": " in.",
+    "startMs": 740,
+    "endMs": 934,
+    "timestampMs": 837,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " He",
+    "startMs": 1132,
+    "endMs": 1387,
+    "timestampMs": 1260,
+    "confidence": null
+  },
+  {
+    "text": " stays",
+    "startMs": 1387,
+    "endMs": 1642,
+    "timestampMs": 1515,
+    "confidence": null
+  },
+  {
+    "text": " out.",
+    "startMs": 1642,
+    "endMs": 1897,
+    "timestampMs": 1770,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

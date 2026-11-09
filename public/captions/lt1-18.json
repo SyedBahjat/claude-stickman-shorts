@@ -1,0 +1,52 @@
+[
+  {
+    "text": "He's",
+    "startMs": 162,
+    "endMs": 327,
+    "timestampMs": 245,
+    "confidence": null
+  },
+  {
+    "text": " already",
+    "startMs": 327,
+    "endMs": 820,
+    "timestampMs": 574,
+    "confidence": null
+  },
+  {
+    "text": " cranking",
+    "startMs": 820,
+    "endMs": 1149,
+    "timestampMs": 985,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1149,
+    "endMs": 1314,
+    "timestampMs": 1232,
+    "confidence": null
+  },
+  {
+    "text": " emergency",
+    "startMs": 1314,
+    "endMs": 1972,
+    "timestampMs": 1643,
+    "confidence": null
+  },
+  {
+    "text": " door",
+    "startMs": 1972,
+    "endMs": 2136,
+    "timestampMs": 2054,
+    "confidence": null
+  },
+  {
+    "text": " open.",
+    "startMs": 2136,
+    "endMs": 2465,
+    "timestampMs": 2301,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

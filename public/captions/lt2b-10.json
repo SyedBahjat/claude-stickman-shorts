@@ -1,0 +1,31 @@
+[
+  {
+    "text": "And",
+    "startMs": 173,
+    "endMs": 491,
+    "timestampMs": 332,
+    "confidence": null
+  },
+  {
+    "text": " who",
+    "startMs": 491,
+    "endMs": 810,
+    "timestampMs": 650,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 810,
+    "endMs": 1128,
+    "timestampMs": 969,
+    "confidence": null
+  },
+  {
+    "text": " this?",
+    "startMs": 1128,
+    "endMs": 1446,
+    "timestampMs": 1287,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

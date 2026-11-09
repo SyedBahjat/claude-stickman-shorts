@@ -1,0 +1,131 @@
+[
+  {
+    "text": "You",
+    "startMs": 0,
+    "endMs": 309,
+    "timestampMs": 155,
+    "confidence": null
+  },
+  {
+    "text": " roll",
+    "startMs": 448,
+    "endMs": 772,
+    "timestampMs": 610,
+    "confidence": null
+  },
+  {
+    "text": " up",
+    "startMs": 772,
+    "endMs": 1095,
+    "timestampMs": 933,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1230,
+    "endMs": 1483,
+    "timestampMs": 1356,
+    "confidence": null
+  },
+  {
+    "text": " loading",
+    "startMs": 1483,
+    "endMs": 1989,
+    "timestampMs": 1736,
+    "confidence": null
+  },
+  {
+    "text": " door.",
+    "startMs": 1989,
+    "endMs": 2242,
+    "timestampMs": 2115,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " He",
+    "startMs": 2662,
+    "endMs": 2931,
+    "timestampMs": 2797,
+    "confidence": null
+  },
+  {
+    "text": " doesn't",
+    "startMs": 2931,
+    "endMs": 3200,
+    "timestampMs": 3066,
+    "confidence": null
+  },
+  {
+    "text": " fight",
+    "startMs": 3200,
+    "endMs": 3470,
+    "timestampMs": 3335,
+    "confidence": null
+  },
+  {
+    "text": " you.",
+    "startMs": 3470,
+    "endMs": 3739,
+    "timestampMs": 3604,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " He",
+    "startMs": 4486,
+    "endMs": 4854,
+    "timestampMs": 4670,
+    "confidence": null
+  },
+  {
+    "text": " just",
+    "startMs": 4854,
+    "endMs": 5221,
+    "timestampMs": 5037,
+    "confidence": null
+  },
+  {
+    "text": " won't",
+    "startMs": 5221,
+    "endMs": 5588,
+    "timestampMs": 5405,
+    "confidence": null
+  },
+  {
+    "text": " let",
+    "startMs": 5588,
+    "endMs": 5956,
+    "timestampMs": 5772,
+    "confidence": null
+  },
+  {
+    "text": " go",
+    "startMs": 5956,
+    "endMs": 6323,
+    "timestampMs": 6139,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 6323,
+    "endMs": 6690,
+    "timestampMs": 6507,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 6690,
+    "endMs": 7058,
+    "timestampMs": 6874,
+    "confidence": null
+  },
+  {
+    "text": " bag.",
+    "startMs": 7058,
+    "endMs": 7425,
+    "timestampMs": 7241,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

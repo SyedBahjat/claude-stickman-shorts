@@ -1,0 +1,67 @@
+[
+  {
+    "text": "So",
+    "startMs": 137,
+    "endMs": 310,
+    "timestampMs": 223,
+    "confidence": null
+  },
+  {
+    "text": " where",
+    "startMs": 310,
+    "endMs": 482,
+    "timestampMs": 396,
+    "confidence": null
+  },
+  {
+    "text": " did",
+    "startMs": 482,
+    "endMs": 655,
+    "timestampMs": 569,
+    "confidence": null
+  },
+  {
+    "text": " he",
+    "startMs": 655,
+    "endMs": 828,
+    "timestampMs": 742,
+    "confidence": null
+  },
+  {
+    "text": " go?",
+    "startMs": 828,
+    "endMs": 1001,
+    "timestampMs": 915,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Follow",
+    "startMs": 1001,
+    "endMs": 1347,
+    "timestampMs": 1174,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 1347,
+    "endMs": 1520,
+    "timestampMs": 1433,
+    "confidence": null
+  },
+  {
+    "text": " season",
+    "startMs": 1520,
+    "endMs": 1866,
+    "timestampMs": 1693,
+    "confidence": null
+  },
+  {
+    "text": " two.",
+    "startMs": 1866,
+    "endMs": 2038,
+    "timestampMs": 1952,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

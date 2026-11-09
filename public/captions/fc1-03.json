@@ -1,0 +1,109 @@
+[
+  {
+    "text": "Then",
+    "startMs": 0,
+    "endMs": 231,
+    "timestampMs": 115,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 231,
+    "endMs": 462,
+    "timestampMs": 346,
+    "confidence": null
+  },
+  {
+    "text": " doors",
+    "startMs": 679,
+    "endMs": 977,
+    "timestampMs": 828,
+    "confidence": null
+  },
+  {
+    "text": " slide",
+    "startMs": 977,
+    "endMs": 1275,
+    "timestampMs": 1126,
+    "confidence": null
+  },
+  {
+    "text": " open...",
+    "startMs": 1275,
+    "endMs": 1871,
+    "timestampMs": 1572,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " and",
+    "startMs": 2299,
+    "endMs": 2545,
+    "timestampMs": 2421,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 2545,
+    "endMs": 2790,
+    "timestampMs": 2667,
+    "confidence": null
+  },
+  {
+    "text": " man",
+    "startMs": 2790,
+    "endMs": 3036,
+    "timestampMs": 2912,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 3036,
+    "endMs": 3281,
+    "timestampMs": 3158,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 3281,
+    "endMs": 3527,
+    "timestampMs": 3404,
+    "confidence": null
+  },
+  {
+    "text": " lab",
+    "startMs": 3527,
+    "endMs": 3772,
+    "timestampMs": 3649,
+    "confidence": null
+  },
+  {
+    "text": " coat",
+    "startMs": 3772,
+    "endMs": 4018,
+    "timestampMs": 3895,
+    "confidence": null
+  },
+  {
+    "text": " falls",
+    "startMs": 4018,
+    "endMs": 4262,
+    "timestampMs": 4140,
+    "confidence": null
+  },
+  {
+    "text": " through",
+    "startMs": 4262,
+    "endMs": 4508,
+    "timestampMs": 4386,
+    "confidence": null
+  },
+  {
+    "text": " them.",
+    "startMs": 4508,
+    "endMs": 4754,
+    "timestampMs": 4631,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "text": "Then",
+    "startMs": 159,
+    "endMs": 469,
+    "timestampMs": 314,
+    "confidence": null
+  },
+  {
+    "text": " your",
+    "startMs": 469,
+    "endMs": 778,
+    "timestampMs": 624,
+    "confidence": null
+  },
+  {
+    "text": " sister",
+    "startMs": 778,
+    "endMs": 1397,
+    "timestampMs": 1088,
+    "confidence": null
+  },
+  {
+    "text": " texts.",
+    "startMs": 1397,
+    "endMs": 1707,
+    "timestampMs": 1552,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

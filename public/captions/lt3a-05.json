@@ -1,0 +1,60 @@
+[
+  {
+    "text": "I'm",
+    "startMs": 206,
+    "endMs": 375,
+    "timestampMs": 291,
+    "confidence": null
+  },
+  {
+    "text": " Doctor",
+    "startMs": 375,
+    "endMs": 714,
+    "timestampMs": 544,
+    "confidence": null
+  },
+  {
+    "text": " Vale's",
+    "startMs": 714,
+    "endMs": 1052,
+    "timestampMs": 883,
+    "confidence": null
+  },
+  {
+    "text": " wife.",
+    "startMs": 1052,
+    "endMs": 1221,
+    "timestampMs": 1136,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " He",
+    "startMs": 1221,
+    "endMs": 1390,
+    "timestampMs": 1305,
+    "confidence": null
+  },
+  {
+    "text": " has",
+    "startMs": 1390,
+    "endMs": 1559,
+    "timestampMs": 1475,
+    "confidence": null
+  },
+  {
+    "text": " no",
+    "startMs": 1559,
+    "endMs": 1728,
+    "timestampMs": 1644,
+    "confidence": null
+  },
+  {
+    "text": " brother.",
+    "startMs": 1728,
+    "endMs": 2066,
+    "timestampMs": 1897,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

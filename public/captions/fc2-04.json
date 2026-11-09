@@ -1,0 +1,82 @@
+[
+  {
+    "text": "Day",
+    "startMs": 0,
+    "endMs": 303,
+    "timestampMs": 151,
+    "confidence": null
+  },
+  {
+    "text": " two.",
+    "startMs": 303,
+    "endMs": 606,
+    "timestampMs": 454,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Three",
+    "startMs": 606,
+    "endMs": 909,
+    "timestampMs": 757,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 1763,
+    "endMs": 2097,
+    "timestampMs": 1930,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 2097,
+    "endMs": 2431,
+    "timestampMs": 2264,
+    "confidence": null
+  },
+  {
+    "text": " morning.",
+    "startMs": 2431,
+    "endMs": 3099,
+    "timestampMs": 2765,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " The",
+    "startMs": 3099,
+    "endMs": 3433,
+    "timestampMs": 3266,
+    "confidence": null
+  },
+  {
+    "text": " music",
+    "startMs": 3996,
+    "endMs": 4636,
+    "timestampMs": 4316,
+    "confidence": null
+  },
+  {
+    "text": " starts",
+    "startMs": 4636,
+    "endMs": 4956,
+    "timestampMs": 4796,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 4956,
+    "endMs": 5277,
+    "timestampMs": 5117,
+    "confidence": null
+  },
+  {
+    "text": " stutter.",
+    "startMs": 5277,
+    "endMs": 5917,
+    "timestampMs": 5597,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

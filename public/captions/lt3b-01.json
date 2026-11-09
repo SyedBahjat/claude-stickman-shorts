@@ -1,0 +1,81 @@
+[
+  {
+    "text": "You",
+    "startMs": 206,
+    "endMs": 395,
+    "timestampMs": 301,
+    "confidence": null
+  },
+  {
+    "text": " asked",
+    "startMs": 395,
+    "endMs": 773,
+    "timestampMs": 584,
+    "confidence": null
+  },
+  {
+    "text": " for",
+    "startMs": 773,
+    "endMs": 962,
+    "timestampMs": 868,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 962,
+    "endMs": 1151,
+    "timestampMs": 1057,
+    "confidence": null
+  },
+  {
+    "text": " truth.",
+    "startMs": 1151,
+    "endMs": 1340,
+    "timestampMs": 1246,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " So",
+    "startMs": 1340,
+    "endMs": 1529,
+    "timestampMs": 1435,
+    "confidence": null
+  },
+  {
+    "text": " this",
+    "startMs": 1529,
+    "endMs": 1718,
+    "timestampMs": 1624,
+    "confidence": null
+  },
+  {
+    "text": " time,",
+    "startMs": 1718,
+    "endMs": 1907,
+    "timestampMs": 1813,
+    "confidence": null
+  },
+  {
+    "text": " you",
+    "startMs": 1907,
+    "endMs": 2096,
+    "timestampMs": 2002,
+    "confidence": null
+  },
+  {
+    "text": " tell",
+    "startMs": 2096,
+    "endMs": 2285,
+    "timestampMs": 2191,
+    "confidence": null
+  },
+  {
+    "text": " it.",
+    "startMs": 2285,
+    "endMs": 2474,
+    "timestampMs": 2380,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]
