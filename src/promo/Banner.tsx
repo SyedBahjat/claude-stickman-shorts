@@ -29,12 +29,17 @@ export const Banner: React.FC = () => {
         <div style={{ fontFamily: FONT.title, fontSize: 112, color: "white", lineHeight: 1.02, marginTop: 10, textShadow: "0 6px 18px rgba(0,0,0,0.7)" }}>
           STICKMAN <span style={{ color: C.capYellow }}>SHORTS</span>
         </div>
-        <div style={{ fontFamily: FONT.caption, fontWeight: 900, fontSize: 28, color: "white", marginTop: 8, maxWidth: 560, lineHeight: 1.25 }}>
-          "YOU DECIDE" STORY VIDEOS FOR <span style={{ color: C.capYellow }}>SHORTS, TIKTOK</span> AND <span style={{ color: C.capYellow }}>REELS</span>
+        <div style={{ fontFamily: FONT.caption, fontWeight: 900, fontSize: 27, color: "white", marginTop: 8, maxWidth: 640, lineHeight: 1.25 }}>
+          CLONE <span style={{ color: C.capYellow }}>ANY VIDEO FORMAT</span> WITH CLAUDE<br />FOR SHORTS, TIKTOK, REELS &amp; YOUTUBE
         </div>
         <div style={{ marginTop: 26 }}>
-          {choice("A", "WRITE IT YOURSELF", C.alertRed)}
-          {choice("B", "JUST ASK CLAUDE", C.optionGreen)}
+          {choice("A", "GIVE IT A STORY", C.alertRed)}
+          {choice("B", "GIVE IT ANY VIDEO", C.optionGreen)}
+          <div style={{ display: "flex", gap: 10, marginTop: 22 }}>
+            {["EXPLAINERS", "TOP 10S", "STORIES", "QUIZZES", "LONG-FORM"].map((t) => (
+              <div key={t} style={{ fontFamily: FONT.mono, fontWeight: 800, fontSize: 15, color: "#c9c4b4", border: "2px solid #4a4238", borderRadius: 6, padding: "6px 10px", letterSpacing: 1 }}>{t}</div>
+            ))}
+          </div>
         </div>
       </div>
     </AbsoluteFill>
