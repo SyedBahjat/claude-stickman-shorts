@@ -12,6 +12,7 @@ src/
             WallMap), ZombieHud.tsx, Dog.tsx, mix.ts (makeDuck)
   sets/     Sets.tsx (Bedroom, City, Hallway, Stairwell, BoilerRoom, Bunker…), Train.tsx, Tunnel.tsx, Store.tsx
   stories/<story>/<Story>P<N>.tsx     one file per part
+  templates/Starter.tsx               any-aspect starter for non-"You Decide" formats (FORMATS.md)
   Root.tsx  registers every part as a 1080×1920, 30 fps <Composition>
 stories/<story>/   script.md, continuity.md, voices.md, partN-lines.tsv
 public/audio/{voice,sfx,music}/   public/captions/<line>.json

@@ -5,7 +5,8 @@
 # Stickman Shorts
 
 **A Claude Code skill that writes, animates, voices and renders 2D stick-figure "You Decide" story shorts
-for YouTube Shorts, TikTok and Instagram Reels. Just tell Claude the story.**
+for YouTube Shorts, TikTok and Instagram Reels, and clones the format of any video you show it.
+Just tell Claude the story.**
 
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-skill-d97757?logo=anthropic&logoColor=white)](https://docs.claude.com/en/docs/claude-code/skills)
 [![Remotion](https://img.shields.io/badge/Remotion-4-0b84f3)](https://www.remotion.dev)
@@ -43,8 +44,10 @@ the winning path.
   take picking, automatic word timing, and a clean audio chain with no time-stretch "robot" artifacts.
 - **Copyright-free sound:** every SFX and music bed is synthesized from code, so there are no samples and no
   Content ID claims.
-- **Copy any example video:** give it a short you like and it measures the cuts, pacing, palette, loudness and
-  sound design, then rebuilds that format with an original story.
+- **Clone any video format:** explainers, top-5 lists, story narrations, history facts, quizzes, chat stories,
+  skits, kinetic text, whiteboard, horizontal long-form. Show it a video you like; it measures the cuts, pacing,
+  palette, captions, loudness and sound design, then rebuilds that format with original content, in vertical,
+  horizontal or square.
 
 ## Example videos
 
@@ -115,20 +118,43 @@ with our own story.
 ```
 
 ```text
+Make a 60-second explainer like this one, but about how black holes form: ~/Downloads/explainer.mp4
+```
+
+```text
+Turn my blog post into a horizontal 5-minute YouTube video with a stick-figure host.
+```
+
+```text
 Render all FreshCo parts vertical and give me YouTube + TikTok titles, descriptions and hashtags.
 ```
 
-## Copy any example video
+## Clone any video, not just "You Decide"
 
 ```bash
 python scripts/analyze_reference.py ~/Downloads/example.mp4
 ```
 
-This writes `reference/example/report.md` with the resolution, cut count, average shot length, loudness,
+It works on any type of video. This writes `reference/example/report.md` with the resolution, cut count, average shot length, loudness,
 dominant palette (with hex values) and words per second, plus contact sheets, the first frame of every shot,
 a spectrogram and a transcript. Claude reads all of it, fills the
-[style checklist](skills/stickman-shorts/references/COPY-A-REFERENCE.md), adjusts the palette, rig, captions,
-HUD and cards, shows you a side-by-side still, then builds the episode with **your own story**.
+[clone checklist](skills/stickman-shorts/references/CLONE-ANY-VIDEO.md), picks the matching recipe from the
+[format catalog](skills/stickman-shorts/references/FORMATS.md), restyles palette, characters, captions and
+cards, shows you a side-by-side still, then builds the video with **your own content**.
+
+| Format | Format | Format |
+| --- | --- | --- |
+| You Decide stories | Explainers | Top-N / listicles |
+| Narrated storytime | History / "this really happened" | Quizzes / would-you-rather |
+| Dialogue skits / memes | Chat / text-message stories | Kinetic text / quotes |
+| Whiteboard / doodle | Stats / comparisons | Horizontal YouTube long-form |
+
+New formats start from [`src/templates/Starter.tsx`](src/templates/Starter.tsx), a template that renders in any
+aspect ratio:
+
+```bash
+npx remotion render src/index.ts Starter out/starter.mp4 --props='{"format":"horizontal"}'   # or vertical / square
+```
 
 > Copy formats, not content. Don't re-upload other creators' videos, stories or audio.
 
@@ -155,6 +181,7 @@ flowchart LR
 | Voice line + captions | [`scripts/voiceover.mjs`](scripts/voiceover.mjs) |
 | Best-of-N voice takes | [`scripts/audio/voice_takes.py`](scripts/audio/voice_takes.py) |
 | SFX and music synthesis | [`scripts/audio/`](scripts/audio) |
+| Any-format starter template | [`src/templates/Starter.tsx`](src/templates/Starter.tsx) |
 | Reference video analyzer | [`scripts/analyze_reference.py`](scripts/analyze_reference.py) |
 
 ## Commands
@@ -177,7 +204,11 @@ The only model is the TTS, and VoiceStudio runs free on your own machine.
 **Can I change the art style?** Yes. Palette tokens live in `src/kit/style.ts`; proportions, line width and face
 live in `src/kit/Stick.tsx`. The copy-a-reference workflow walks Claude through changing them in order.
 
-**Horizontal videos?** Change `width`/`height` in `src/Root.tsx`. The kit assumes 9:16, so expect to re-frame sets.
+**Horizontal or square videos?** Yes. Start from the `Starter` template with `--props='{"format":"horizontal"}'`.
+The rig, captions, camera and overlays scale to any size; the ready-made story sets are drawn for 9:16.
+
+**Can it clone live-action or 3D videos?** It rebuilds their layout, pacing, text and sound as 2D animation.
+It never reuses the original footage. You can drop your own clips or images into `public/` and use them.
 
 **Will my uploads get copyright claims?** Not for the audio or art from this repo: it's all generated here.
 Your voices are as safe as the TTS license you use.

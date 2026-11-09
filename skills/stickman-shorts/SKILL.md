@@ -1,13 +1,17 @@
 ---
 name: stickman-shorts
-description: Make 2D stick-figure "You Decide" story shorts (9:16 YouTube Shorts, TikTok, Instagram Reels) with Remotion - choose-your-path survival series where viewers vote A or B in the comments and each part continues the winning path. Covers story scripting, a stick-figure SVG rig, sets, HUD, word-synced captions, choice cards, natural-sounding TTS voices, synthesized copyright-free SFX and music, mixing and rendering. Also recreates the format and look of an example video the user provides, with an original story. Use when the user asks for a stickman / stick figure animation, a "you decide" or choose-your-own-adventure short, a story series part, the next part after a vote, or to copy the style of a reference short.
+description: Make and clone short-form and YouTube videos with Remotion and 2D animation. Built-in format is stick-figure "You Decide" story shorts (9:16 YouTube Shorts, TikTok, Instagram Reels) where viewers vote A or B and the next part follows the winning path. Also recreates ANY example video the user provides (explainers, top-N lists, story narrations, history/fact videos, quizzes, would-you-rather, skits, chat stories, kinetic text, whiteboard, horizontal long-form) by analyzing its cuts, pacing, palette, captions and sound, then rebuilding the format with original content. Covers scripts, stick-figure rig, sets, captions, natural TTS voices, copyright-free synthesized SFX and music, mixing and rendering in vertical, horizontal or square. Use for stickman/stick figure animation, "you decide" or choose-your-own-adventure shorts, the next part after a vote, faceless channel videos, or "make a video like this one".
 ---
 
 # Stickman Shorts
 
-Vertical (1080×1920, 30 fps) flat-2D stick-figure story shorts, built as SVG React components in Remotion.
-Each part is ~75–90 s, told in second person ("you…"), and ends on an A/B choice the audience votes on.
-The next part opens with "Most of you said…" and follows the winning path.
+Flat-2D animated videos built as SVG React components in Remotion, in any aspect ratio.
+
+- **Built-in format:** vertical (1080×1920, 30 fps) stick-figure "You Decide" story shorts. Each part is ~75–90 s,
+  told in second person ("you…"), ends on an A/B choice the audience votes on; the next part opens with
+  "Most of you said…" and follows the winning path.
+- **Any other format:** give it an example video and it rebuilds that format (layout, pacing, captions, sound)
+  with original content. See `references/CLONE-ANY-VIDEO.md` and `references/FORMATS.md`.
 
 ## 0. Find or set up the engine
 
@@ -26,7 +30,8 @@ The engine is the Remotion project from https://github.com/SyedBahjat/claude-sti
 | --- | --- |
 | A new series from an idea | Pitch 3 loglines → write the whole branching season in `stories/<story>/script.md` (`references/STORY.md`) → build Part 1 |
 | The next part ("people chose B") | Read `stories/<story>/script.md` + `continuity.md`, build Part N for that path, open with `MostOfYouSaid` |
-| To copy an example video | `references/COPY-A-REFERENCE.md`: analyze it, match the look and sound, write an original story |
+| To copy an example video (any type) | `references/CLONE-ANY-VIDEO.md`: analyze it, classify it, match the look and sound, write original content |
+| A different kind of video (explainer, top-5, quiz, chat story, horizontal…) | `references/FORMATS.md` → start from `src/templates/Starter.tsx` (`--props='{"format":"horizontal"}'`) |
 | To change voices / sound | `references/AUDIO.md` |
 
 ## 2. Build (details in `references/WORKFLOW.md`)
@@ -41,7 +46,7 @@ The engine is the Remotion project from https://github.com/SyedBahjat/claude-sti
 6. Hand over the MP4 plus a title, description (with the A/B question and "comment A or B"), and hashtags
    for YouTube Shorts / TikTok / Reels.
 
-## 3. Rules that matter most
+## 3. Rules that matter most (for the house style; cloned formats follow the reference instead)
 
 - **Look:** follow `references/STYLE.md` exactly: muted dark palette, ink outlines, dot eyes, no mouths,
   identity = body colour + one accessory, the viewer's character `YOU` always wears a red arm band.
@@ -61,4 +66,5 @@ The engine is the Remotion project from https://github.com/SyedBahjat/claude-sti
 - `references/STORY.md`: part structure, writing rules, shot sheet, branching
 - `references/AUDIO.md`: TTS options, human-sounding voices, SFX list, mix levels
 - `references/WORKFLOW.md`: code layout, rig API, motion rules, render + final checklist
-- `references/COPY-A-REFERENCE.md`: recreate an example video's format
+- `references/CLONE-ANY-VIDEO.md`: recreate any example video's format
+- `references/FORMATS.md`: beat structures and build notes for 12 common video formats

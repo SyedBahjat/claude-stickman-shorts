@@ -1,10 +1,26 @@
 {
   "name": "stickman-shorts",
-  "version": "1.0.0",
-  "description": "Make 2D stick-figure 'You Decide' story shorts (YouTube Shorts, TikTok, Reels) with Claude Code + Remotion: scripts, rig, captions, voices, copyright-free SFX, render.",
-  "author": { "name": "Syed Bahjat", "url": "https://github.com/SyedBahjat" },
+  "version": "1.1.0",
+  "description": "Claude Code + Remotion: make stick-figure 'You Decide' story shorts and clone any video format (explainers, lists, quizzes, stories, long-form) for YouTube, TikTok and Reels.",
+  "author": {
+    "name": "Syed Bahjat",
+    "url": "https://github.com/SyedBahjat"
+  },
   "homepage": "https://github.com/SyedBahjat/claude-stickman-shorts",
   "repository": "https://github.com/SyedBahjat/claude-stickman-shorts",
   "license": "MIT",
-  "keywords": ["claude-skill", "remotion", "stick-figure", "animation", "youtube-shorts", "tiktok", "reels", "ai-video", "choose-your-own-adventure"]
+  "keywords": [
+    "claude-skill",
+    "remotion",
+    "stick-figure",
+    "animation",
+    "youtube-shorts",
+    "tiktok",
+    "reels",
+    "ai-video",
+    "choose-your-own-adventure",
+    "video-cloning",
+    "explainer-video",
+    "faceless-youtube"
+  ]
 }

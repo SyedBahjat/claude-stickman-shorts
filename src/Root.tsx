@@ -1,5 +1,6 @@
 import { Composition, Still } from "remotion";
 import { Banner } from "./promo/Banner";
+import { Starter, STARTER_TOTAL, starterMetadata } from "./templates/Starter";
 import { FreshCoP1, FC1_TOTAL } from "./stories/freshco/FreshCoP1";
 import { FreshCoP2B, FC2B_TOTAL } from "./stories/freshco/FreshCoP2B";
 import { LastTrainP1, LT1_TOTAL } from "./stories/last-train/LastTrainP1";
@@ -18,6 +19,8 @@ export const RemotionRoot: React.FC = () => (
     <Composition id="LastTrain-P3B" component={LastTrainP3B} durationInFrames={LT3B_TOTAL} {...SHORT} />
     <Composition id="FreshCo-P1" component={FreshCoP1} durationInFrames={FC1_TOTAL} {...SHORT} />
     <Composition id="FreshCo-P2B" component={FreshCoP2B} durationInFrames={FC2B_TOTAL} {...SHORT} />
+    {/* Format-agnostic starter: --props='{"format":"horizontal"}' or "square" */}
+    <Composition id="Starter" component={Starter} durationInFrames={STARTER_TOTAL} fps={30} width={1080} height={1920} defaultProps={{ format: "vertical" as const }} calculateMetadata={starterMetadata} />
     <Still id="Banner" component={Banner} width={1280} height={640} />
   </>
 );

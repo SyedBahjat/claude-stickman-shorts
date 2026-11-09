@@ -119,7 +119,7 @@ def main() -> None:
         "## Next",
         "",
         "Open the sheets, cut frames, palette and spectrogram, then fill the checklist in",
-        "`skills/stickman-shorts/references/COPY-A-REFERENCE.md`.",
+        "`skills/stickman-shorts/references/CLONE-ANY-VIDEO.md`.",
     ]
     (out / "report.md").write_text("\n".join(lines) + "\n")
     print(f"wrote {out}/report.md ({len(times)} cuts, {len(pal)} colours, transcript {'yes' if text else 'no'})")
