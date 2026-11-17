@@ -1,0 +1,58 @@
+[
+ {
+  "text": "and",
+  "startMs": 0,
+  "endMs": 174,
+  "timestampMs": 87,
+  "confidence": null
+ },
+ {
+  "text": " even",
+  "startMs": 174,
+  "endMs": 521,
+  "timestampMs": 347,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 521,
+  "endMs": 695,
+  "timestampMs": 608,
+  "confidence": null
+ },
+ {
+  "text": " ventilation",
+  "startMs": 695,
+  "endMs": 1389,
+  "timestampMs": 1042,
+  "confidence": null
+ },
+ {
+  "text": " system",
+  "startMs": 1639,
+  "endMs": 1921,
+  "timestampMs": 1780,
+  "confidence": null
+ },
+ {
+  "text": " uses",
+  "startMs": 1921,
+  "endMs": 2203,
+  "timestampMs": 2062,
+  "confidence": null
+ },
+ {
+  "text": " acoustic",
+  "startMs": 2203,
+  "endMs": 2626,
+  "timestampMs": 2414,
+  "confidence": null
+ },
+ {
+  "text": " silencers.",
+  "startMs": 2626,
+  "endMs": 3049,
+  "timestampMs": 2837,
+  "confidence": null
+ }
+]

@@ -1,0 +1,107 @@
+[
+ {
+  "text": "The",
+  "startMs": 0,
+  "endMs": 157,
+  "timestampMs": 78,
+  "confidence": null
+ },
+ {
+  "text": " Silent",
+  "startMs": 157,
+  "endMs": 472,
+  "timestampMs": 314,
+  "confidence": null
+ },
+ {
+  "text": " Field",
+  "startMs": 472,
+  "endMs": 630,
+  "timestampMs": 551,
+  "confidence": null
+ },
+ {
+  "text": " costs",
+  "startMs": 630,
+  "endMs": 787,
+  "timestampMs": 708,
+  "confidence": null
+ },
+ {
+  "text": " \u20ac225,000",
+  "startMs": 787,
+  "endMs": 1260,
+  "timestampMs": 1023,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 1260,
+  "endMs": 1417,
+  "timestampMs": 1338,
+  "confidence": null
+ },
+ {
+  "text": " creates",
+  "startMs": 1417,
+  "endMs": 1889,
+  "timestampMs": 1653,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 1889,
+  "endMs": 2204,
+  "timestampMs": 2046,
+  "confidence": null
+ },
+ {
+  "text": " zone",
+  "startMs": 2204,
+  "endMs": 2519,
+  "timestampMs": 2361,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 2519,
+  "endMs": 2677,
+  "timestampMs": 2598,
+  "confidence": null
+ },
+ {
+  "text": " absolute",
+  "startMs": 3024,
+  "endMs": 3357,
+  "timestampMs": 3190,
+  "confidence": null
+ },
+ {
+  "text": " silence",
+  "startMs": 3357,
+  "endMs": 3524,
+  "timestampMs": 3440,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 3524,
+  "endMs": 3690,
+  "timestampMs": 3607,
+  "confidence": null
+ },
+ {
+  "text": " sixty",
+  "startMs": 3690,
+  "endMs": 3857,
+  "timestampMs": 3773,
+  "confidence": null
+ },
+ {
+  "text": " seconds.",
+  "startMs": 3857,
+  "endMs": 4356,
+  "timestampMs": 4106,
+  "confidence": null
+ }
+]

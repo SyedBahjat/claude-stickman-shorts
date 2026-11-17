@@ -1,0 +1,93 @@
+[
+ {
+  "text": "But",
+  "startMs": 0,
+  "endMs": 136,
+  "timestampMs": 68,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 136,
+  "endMs": 273,
+  "timestampMs": 204,
+  "confidence": null
+ },
+ {
+  "text": " have",
+  "startMs": 273,
+  "endMs": 409,
+  "timestampMs": 341,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 409,
+  "endMs": 545,
+  "timestampMs": 477,
+  "confidence": null
+ },
+ {
+  "text": " advantage:",
+  "startMs": 545,
+  "endMs": 954,
+  "timestampMs": 749,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 954,
+  "endMs": 1091,
+  "timestampMs": 1022,
+  "confidence": null
+ },
+ {
+  "text": " know",
+  "startMs": 1406,
+  "endMs": 1539,
+  "timestampMs": 1472,
+  "confidence": null
+ },
+ {
+  "text": " exactly",
+  "startMs": 1539,
+  "endMs": 1937,
+  "timestampMs": 1738,
+  "confidence": null
+ },
+ {
+  "text": " when",
+  "startMs": 1937,
+  "endMs": 2070,
+  "timestampMs": 2003,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 2070,
+  "endMs": 2202,
+  "timestampMs": 2136,
+  "confidence": null
+ },
+ {
+  "text": " apocalypse",
+  "startMs": 2202,
+  "endMs": 2733,
+  "timestampMs": 2467,
+  "confidence": null
+ },
+ {
+  "text": " will",
+  "startMs": 2733,
+  "endMs": 2866,
+  "timestampMs": 2799,
+  "confidence": null
+ },
+ {
+  "text": " arrive.",
+  "startMs": 2866,
+  "endMs": 3131,
+  "timestampMs": 2998,
+  "confidence": null
+ }
+]

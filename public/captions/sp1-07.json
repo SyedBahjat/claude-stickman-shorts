@@ -1,0 +1,37 @@
+[
+ {
+  "text": "And",
+  "startMs": 0,
+  "endMs": 155,
+  "timestampMs": 77,
+  "confidence": null
+ },
+ {
+  "text": " every",
+  "startMs": 155,
+  "endMs": 621,
+  "timestampMs": 388,
+  "confidence": null
+ },
+ {
+  "text": " single",
+  "startMs": 621,
+  "endMs": 776,
+  "timestampMs": 698,
+  "confidence": null
+ },
+ {
+  "text": " detail",
+  "startMs": 776,
+  "endMs": 1087,
+  "timestampMs": 931,
+  "confidence": null
+ },
+ {
+  "text": " matters.",
+  "startMs": 1087,
+  "endMs": 1397,
+  "timestampMs": 1242,
+  "confidence": null
+ }
+]

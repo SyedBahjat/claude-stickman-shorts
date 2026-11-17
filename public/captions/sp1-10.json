@@ -1,0 +1,44 @@
+[
+ {
+  "text": "the",
+  "startMs": 0,
+  "endMs": 184,
+  "timestampMs": 92,
+  "confidence": null
+ },
+ {
+  "text": " entrance",
+  "startMs": 184,
+  "endMs": 551,
+  "timestampMs": 367,
+  "confidence": null
+ },
+ {
+  "text": " has",
+  "startMs": 551,
+  "endMs": 735,
+  "timestampMs": 643,
+  "confidence": null
+ },
+ {
+  "text": " two",
+  "startMs": 735,
+  "endMs": 918,
+  "timestampMs": 826,
+  "confidence": null
+ },
+ {
+  "text": " reinforced",
+  "startMs": 918,
+  "endMs": 1469,
+  "timestampMs": 1193,
+  "confidence": null
+ },
+ {
+  "text": " doors,",
+  "startMs": 1469,
+  "endMs": 1653,
+  "timestampMs": 1561,
+  "confidence": null
+ }
+]

@@ -1,0 +1,79 @@
+[
+ {
+  "text": "Enough",
+  "startMs": 0,
+  "endMs": 286,
+  "timestampMs": 143,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 286,
+  "endMs": 429,
+  "timestampMs": 357,
+  "confidence": null
+ },
+ {
+  "text": " purchase",
+  "startMs": 429,
+  "endMs": 715,
+  "timestampMs": 572,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 715,
+  "endMs": 858,
+  "timestampMs": 786,
+  "confidence": null
+ },
+ {
+  "text": " special",
+  "startMs": 858,
+  "endMs": 1145,
+  "timestampMs": 1001,
+  "confidence": null
+ },
+ {
+  "text": " piece",
+  "startMs": 1145,
+  "endMs": 1288,
+  "timestampMs": 1216,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 1288,
+  "endMs": 1431,
+  "timestampMs": 1359,
+  "confidence": null
+ },
+ {
+  "text": " technology.",
+  "startMs": 1431,
+  "endMs": 2003,
+  "timestampMs": 1717,
+  "confidence": null
+ },
+ {
+  "text": " But",
+  "startMs": 2345,
+  "endMs": 2538,
+  "timestampMs": 2441,
+  "confidence": null
+ },
+ {
+  "text": " which",
+  "startMs": 2538,
+  "endMs": 2731,
+  "timestampMs": 2634,
+  "confidence": null
+ },
+ {
+  "text": " one?",
+  "startMs": 2731,
+  "endMs": 2924,
+  "timestampMs": 2827,
+  "confidence": null
+ }
+]

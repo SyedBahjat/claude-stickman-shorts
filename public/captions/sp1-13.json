@@ -1,0 +1,37 @@
+[
+ {
+  "text": "water",
+  "startMs": 0,
+  "endMs": 306,
+  "timestampMs": 153,
+  "confidence": null
+ },
+ {
+  "text": " tanks",
+  "startMs": 306,
+  "endMs": 459,
+  "timestampMs": 382,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 459,
+  "endMs": 612,
+  "timestampMs": 535,
+  "confidence": null
+ },
+ {
+  "text": " purification",
+  "startMs": 612,
+  "endMs": 1378,
+  "timestampMs": 995,
+  "confidence": null
+ },
+ {
+  "text": " systems.",
+  "startMs": 1378,
+  "endMs": 1684,
+  "timestampMs": 1531,
+  "confidence": null
+ }
+]

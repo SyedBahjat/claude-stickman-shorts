@@ -1,0 +1,30 @@
+[
+ {
+  "text": "You",
+  "startMs": 0,
+  "endMs": 169,
+  "timestampMs": 84,
+  "confidence": null
+ },
+ {
+  "text": " have",
+  "startMs": 169,
+  "endMs": 337,
+  "timestampMs": 253,
+  "confidence": null
+ },
+ {
+  "text": " \u20ac260,000",
+  "startMs": 337,
+  "endMs": 2022,
+  "timestampMs": 1179,
+  "confidence": null
+ },
+ {
+  "text": " left.",
+  "startMs": 2022,
+  "endMs": 2191,
+  "timestampMs": 2106,
+  "confidence": null
+ }
+]

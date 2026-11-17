@@ -1,0 +1,65 @@
+[
+ {
+  "text": "And",
+  "startMs": 0,
+  "endMs": 147,
+  "timestampMs": 73,
+  "confidence": null
+ },
+ {
+  "text": " once",
+  "startMs": 147,
+  "endMs": 294,
+  "timestampMs": 220,
+  "confidence": null
+ },
+ {
+  "text": " infected,",
+  "startMs": 294,
+  "endMs": 734,
+  "timestampMs": 514,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 935,
+  "endMs": 1072,
+  "timestampMs": 1003,
+  "confidence": null
+ },
+ {
+  "text": " own",
+  "startMs": 1072,
+  "endMs": 1209,
+  "timestampMs": 1140,
+  "confidence": null
+ },
+ {
+  "text": " voice",
+  "startMs": 1209,
+  "endMs": 1346,
+  "timestampMs": 1277,
+  "confidence": null
+ },
+ {
+  "text": " becomes",
+  "startMs": 1346,
+  "endMs": 1757,
+  "timestampMs": 1551,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 1757,
+  "endMs": 1894,
+  "timestampMs": 1825,
+  "confidence": null
+ },
+ {
+  "text": " weapon.",
+  "startMs": 1894,
+  "endMs": 2168,
+  "timestampMs": 2031,
+  "confidence": null
+ }
+]

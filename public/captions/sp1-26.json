@@ -1,0 +1,121 @@
+[
+ {
+  "text": "It's",
+  "startMs": 0,
+  "endMs": 152,
+  "timestampMs": 76,
+  "confidence": null
+ },
+ {
+  "text": " an",
+  "startMs": 152,
+  "endMs": 305,
+  "timestampMs": 228,
+  "confidence": null
+ },
+ {
+  "text": " autonomous",
+  "startMs": 305,
+  "endMs": 914,
+  "timestampMs": 609,
+  "confidence": null
+ },
+ {
+  "text": " drone",
+  "startMs": 914,
+  "endMs": 1066,
+  "timestampMs": 990,
+  "confidence": null
+ },
+ {
+  "text": " capable",
+  "startMs": 1066,
+  "endMs": 1370,
+  "timestampMs": 1218,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 1370,
+  "endMs": 1523,
+  "timestampMs": 1446,
+  "confidence": null
+ },
+ {
+  "text": " reproducing",
+  "startMs": 1523,
+  "endMs": 2132,
+  "timestampMs": 1827,
+  "confidence": null
+ },
+ {
+  "text": " infected",
+  "startMs": 2132,
+  "endMs": 2589,
+  "timestampMs": 2360,
+  "confidence": null
+ },
+ {
+  "text": " voices",
+  "startMs": 2589,
+  "endMs": 2893,
+  "timestampMs": 2741,
+  "confidence": null
+ },
+ {
+  "text": " from",
+  "startMs": 2893,
+  "endMs": 3046,
+  "timestampMs": 2969,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 3046,
+  "endMs": 3198,
+  "timestampMs": 3122,
+  "confidence": null
+ },
+ {
+  "text": " distance,",
+  "startMs": 3198,
+  "endMs": 3502,
+  "timestampMs": 3350,
+  "confidence": null
+ },
+ {
+  "text": " attracting",
+  "startMs": 3750,
+  "endMs": 4199,
+  "timestampMs": 3974,
+  "confidence": null
+ },
+ {
+  "text": " them",
+  "startMs": 4199,
+  "endMs": 4349,
+  "timestampMs": 4274,
+  "confidence": null
+ },
+ {
+  "text": " away",
+  "startMs": 4349,
+  "endMs": 4649,
+  "timestampMs": 4499,
+  "confidence": null
+ },
+ {
+  "text": " from",
+  "startMs": 4649,
+  "endMs": 4799,
+  "timestampMs": 4724,
+  "confidence": null
+ },
+ {
+  "text": " you.",
+  "startMs": 4799,
+  "endMs": 4949,
+  "timestampMs": 4874,
+  "confidence": null
+ }
+]

@@ -1,0 +1,79 @@
+[
+ {
+  "text": "You",
+  "startMs": 0,
+  "endMs": 182,
+  "timestampMs": 91,
+  "confidence": null
+ },
+ {
+  "text": " install",
+  "startMs": 182,
+  "endMs": 546,
+  "timestampMs": 364,
+  "confidence": null
+ },
+ {
+  "text": " battery",
+  "startMs": 546,
+  "endMs": 1092,
+  "timestampMs": 819,
+  "confidence": null
+ },
+ {
+  "text": " storage,",
+  "startMs": 1092,
+  "endMs": 1456,
+  "timestampMs": 1274,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 1754,
+  "endMs": 1919,
+  "timestampMs": 1836,
+  "confidence": null
+ },
+ {
+  "text": " generator",
+  "startMs": 1919,
+  "endMs": 2577,
+  "timestampMs": 2248,
+  "confidence": null
+ },
+ {
+  "text": " inside",
+  "startMs": 2577,
+  "endMs": 2906,
+  "timestampMs": 2741,
+  "confidence": null
+ },
+ {
+  "text": " an",
+  "startMs": 2906,
+  "endMs": 3070,
+  "timestampMs": 2988,
+  "confidence": null
+ },
+ {
+  "text": " isolated",
+  "startMs": 3070,
+  "endMs": 3728,
+  "timestampMs": 3399,
+  "confidence": null
+ },
+ {
+  "text": " technical",
+  "startMs": 3728,
+  "endMs": 4222,
+  "timestampMs": 3975,
+  "confidence": null
+ },
+ {
+  "text": " room,",
+  "startMs": 4222,
+  "endMs": 4386,
+  "timestampMs": 4304,
+  "confidence": null
+ }
+]

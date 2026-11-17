@@ -1,0 +1,44 @@
+[
+ {
+  "text": "But",
+  "startMs": 0,
+  "endMs": 165,
+  "timestampMs": 82,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 165,
+  "endMs": 330,
+  "timestampMs": 247,
+  "confidence": null
+ },
+ {
+  "text": " are",
+  "startMs": 330,
+  "endMs": 495,
+  "timestampMs": 412,
+  "confidence": null
+ },
+ {
+  "text": " not",
+  "startMs": 495,
+  "endMs": 661,
+  "timestampMs": 578,
+  "confidence": null
+ },
+ {
+  "text": " safe",
+  "startMs": 661,
+  "endMs": 826,
+  "timestampMs": 743,
+  "confidence": null
+ },
+ {
+  "text": " yet.",
+  "startMs": 826,
+  "endMs": 991,
+  "timestampMs": 908,
+  "confidence": null
+ }
+]

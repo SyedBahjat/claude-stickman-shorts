@@ -1,0 +1,58 @@
+[
+ {
+  "text": "First,",
+  "startMs": 0,
+  "endMs": 183,
+  "timestampMs": 91,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 183,
+  "endMs": 365,
+  "timestampMs": 274,
+  "confidence": null
+ },
+ {
+  "text": " build",
+  "startMs": 365,
+  "endMs": 548,
+  "timestampMs": 456,
+  "confidence": null
+ },
+ {
+  "text": " an",
+  "startMs": 548,
+  "endMs": 731,
+  "timestampMs": 639,
+  "confidence": null
+ },
+ {
+  "text": " underground",
+  "startMs": 731,
+  "endMs": 1279,
+  "timestampMs": 1005,
+  "confidence": null
+ },
+ {
+  "text": " reinforced",
+  "startMs": 1279,
+  "endMs": 1827,
+  "timestampMs": 1553,
+  "confidence": null
+ },
+ {
+  "text": " concrete",
+  "startMs": 1827,
+  "endMs": 2193,
+  "timestampMs": 2010,
+  "confidence": null
+ },
+ {
+  "text": " bunker.",
+  "startMs": 2193,
+  "endMs": 2558,
+  "timestampMs": 2375,
+  "confidence": null
+ }
+]

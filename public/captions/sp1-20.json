@@ -1,0 +1,93 @@
+[
+ {
+  "text": "This",
+  "startMs": 0,
+  "endMs": 148,
+  "timestampMs": 74,
+  "confidence": null
+ },
+ {
+  "text": " allows",
+  "startMs": 148,
+  "endMs": 443,
+  "timestampMs": 295,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 443,
+  "endMs": 591,
+  "timestampMs": 517,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 591,
+  "endMs": 739,
+  "timestampMs": 665,
+  "confidence": null
+ },
+ {
+  "text": " understand",
+  "startMs": 739,
+  "endMs": 1182,
+  "timestampMs": 960,
+  "confidence": null
+ },
+ {
+  "text": " what",
+  "startMs": 1182,
+  "endMs": 1330,
+  "timestampMs": 1256,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 1330,
+  "endMs": 1478,
+  "timestampMs": 1404,
+  "confidence": null
+ },
+ {
+  "text": " happening",
+  "startMs": 1478,
+  "endMs": 1921,
+  "timestampMs": 1699,
+  "confidence": null
+ },
+ {
+  "text": " outside",
+  "startMs": 1921,
+  "endMs": 2217,
+  "timestampMs": 2069,
+  "confidence": null
+ },
+ {
+  "text": " without",
+  "startMs": 2549,
+  "endMs": 2831,
+  "timestampMs": 2690,
+  "confidence": null
+ },
+ {
+  "text": " actually",
+  "startMs": 2831,
+  "endMs": 3254,
+  "timestampMs": 3042,
+  "confidence": null
+ },
+ {
+  "text": " hearing",
+  "startMs": 3254,
+  "endMs": 3536,
+  "timestampMs": 3395,
+  "confidence": null
+ },
+ {
+  "text": " anyone.",
+  "startMs": 3536,
+  "endMs": 3818,
+  "timestampMs": 3677,
+  "confidence": null
+ }
+]

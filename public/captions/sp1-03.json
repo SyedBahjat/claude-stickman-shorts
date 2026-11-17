@@ -1,0 +1,65 @@
+[
+ {
+  "text": "Hearing",
+  "startMs": 0,
+  "endMs": 292,
+  "timestampMs": 146,
+  "confidence": null
+ },
+ {
+  "text": " just",
+  "startMs": 292,
+  "endMs": 438,
+  "timestampMs": 365,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 438,
+  "endMs": 584,
+  "timestampMs": 511,
+  "confidence": null
+ },
+ {
+  "text": " word",
+  "startMs": 584,
+  "endMs": 730,
+  "timestampMs": 657,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 730,
+  "endMs": 876,
+  "timestampMs": 803,
+  "confidence": null
+ },
+ {
+  "text": " enough",
+  "startMs": 1076,
+  "endMs": 1335,
+  "timestampMs": 1205,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 1335,
+  "endMs": 1465,
+  "timestampMs": 1400,
+  "confidence": null
+ },
+ {
+  "text": " become",
+  "startMs": 1465,
+  "endMs": 1724,
+  "timestampMs": 1594,
+  "confidence": null
+ },
+ {
+  "text": " infected.",
+  "startMs": 1724,
+  "endMs": 2113,
+  "timestampMs": 1918,
+  "confidence": null
+ }
+]

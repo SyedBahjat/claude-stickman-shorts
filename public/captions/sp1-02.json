@@ -1,0 +1,79 @@
+[
+ {
+  "text": "A",
+  "startMs": 0,
+  "endMs": 171,
+  "timestampMs": 85,
+  "confidence": null
+ },
+ {
+  "text": " deadly",
+  "startMs": 171,
+  "endMs": 514,
+  "timestampMs": 342,
+  "confidence": null
+ },
+ {
+  "text": " virus",
+  "startMs": 514,
+  "endMs": 857,
+  "timestampMs": 685,
+  "confidence": null
+ },
+ {
+  "text": " will",
+  "startMs": 857,
+  "endMs": 1029,
+  "timestampMs": 943,
+  "confidence": null
+ },
+ {
+  "text": " spread",
+  "startMs": 1029,
+  "endMs": 1200,
+  "timestampMs": 1114,
+  "confidence": null
+ },
+ {
+  "text": " through",
+  "startMs": 1200,
+  "endMs": 1371,
+  "timestampMs": 1285,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 1371,
+  "endMs": 1543,
+  "timestampMs": 1457,
+  "confidence": null
+ },
+ {
+  "text": " voices",
+  "startMs": 1543,
+  "endMs": 1886,
+  "timestampMs": 1714,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 1886,
+  "endMs": 2057,
+  "timestampMs": 1971,
+  "confidence": null
+ },
+ {
+  "text": " infected",
+  "startMs": 2057,
+  "endMs": 2572,
+  "timestampMs": 2314,
+  "confidence": null
+ },
+ {
+  "text": " people.",
+  "startMs": 2572,
+  "endMs": 2743,
+  "timestampMs": 2657,
+  "confidence": null
+ }
+]

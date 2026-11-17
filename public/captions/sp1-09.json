@@ -1,0 +1,58 @@
+[
+ {
+  "text": "Its",
+  "startMs": 0,
+  "endMs": 189,
+  "timestampMs": 94,
+  "confidence": null
+ },
+ {
+  "text": " walls",
+  "startMs": 189,
+  "endMs": 377,
+  "timestampMs": 283,
+  "confidence": null
+ },
+ {
+  "text": " feature",
+  "startMs": 377,
+  "endMs": 754,
+  "timestampMs": 565,
+  "confidence": null
+ },
+ {
+  "text": " multiple",
+  "startMs": 754,
+  "endMs": 1131,
+  "timestampMs": 942,
+  "confidence": null
+ },
+ {
+  "text": " layers",
+  "startMs": 1131,
+  "endMs": 1320,
+  "timestampMs": 1225,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 1320,
+  "endMs": 1508,
+  "timestampMs": 1414,
+  "confidence": null
+ },
+ {
+  "text": " acoustic",
+  "startMs": 1508,
+  "endMs": 2074,
+  "timestampMs": 1791,
+  "confidence": null
+ },
+ {
+  "text": " insulation,",
+  "startMs": 2074,
+  "endMs": 2828,
+  "timestampMs": 2451,
+  "confidence": null
+ }
+]

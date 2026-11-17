@@ -1,0 +1,51 @@
+[
+ {
+  "text": "Your",
+  "startMs": 0,
+  "endMs": 147,
+  "timestampMs": 73,
+  "confidence": null
+ },
+ {
+  "text": " decision",
+  "startMs": 147,
+  "endMs": 589,
+  "timestampMs": 368,
+  "confidence": null
+ },
+ {
+  "text": " will",
+  "startMs": 589,
+  "endMs": 737,
+  "timestampMs": 663,
+  "confidence": null
+ },
+ {
+  "text": " determine",
+  "startMs": 737,
+  "endMs": 1179,
+  "timestampMs": 958,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 1179,
+  "endMs": 1326,
+  "timestampMs": 1252,
+  "confidence": null
+ },
+ {
+  "text": " next",
+  "startMs": 1326,
+  "endMs": 1473,
+  "timestampMs": 1399,
+  "confidence": null
+ },
+ {
+  "text": " chapter.",
+  "startMs": 1473,
+  "endMs": 1768,
+  "timestampMs": 1620,
+  "confidence": null
+ }
+]
