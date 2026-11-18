@@ -1,0 +1,100 @@
+[
+ {
+  "text": "You",
+  "startMs": 0,
+  "endMs": 203,
+  "timestampMs": 101,
+  "confidence": null
+ },
+ {
+  "text": " have",
+  "startMs": 203,
+  "endMs": 406,
+  "timestampMs": 304,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 406,
+  "endMs": 608,
+  "timestampMs": 507,
+  "confidence": null
+ },
+ {
+  "text": " year",
+  "startMs": 608,
+  "endMs": 811,
+  "timestampMs": 709,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 1047,
+  "endMs": 1221,
+  "timestampMs": 1134,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 1221,
+  "endMs": 1396,
+  "timestampMs": 1308,
+  "confidence": null
+ },
+ {
+  "text": " million",
+  "startMs": 1396,
+  "endMs": 1746,
+  "timestampMs": 1571,
+  "confidence": null
+ },
+ {
+  "text": " euros",
+  "startMs": 1746,
+  "endMs": 2095,
+  "timestampMs": 1920,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 2095,
+  "endMs": 2270,
+  "timestampMs": 2182,
+  "confidence": null
+ },
+ {
+  "text": " build",
+  "startMs": 2417,
+  "endMs": 2605,
+  "timestampMs": 2511,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 2605,
+  "endMs": 2793,
+  "timestampMs": 2699,
+  "confidence": null
+ },
+ {
+  "text": " perfect",
+  "startMs": 2793,
+  "endMs": 3168,
+  "timestampMs": 2980,
+  "confidence": null
+ },
+ {
+  "text": " survival",
+  "startMs": 3168,
+  "endMs": 3732,
+  "timestampMs": 3450,
+  "confidence": null
+ },
+ {
+  "text": " shelter.",
+  "startMs": 3732,
+  "endMs": 4108,
+  "timestampMs": 3920,
+  "confidence": null
+ }
+]

@@ -1,0 +1,93 @@
+[
+ {
+  "text": "Inside,",
+  "startMs": 0,
+  "endMs": 351,
+  "timestampMs": 175,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 351,
+  "endMs": 526,
+  "timestampMs": 438,
+  "confidence": null
+ },
+ {
+  "text": " stockpile",
+  "startMs": 526,
+  "endMs": 877,
+  "timestampMs": 701,
+  "confidence": null
+ },
+ {
+  "text": " medicine",
+  "startMs": 877,
+  "endMs": 1403,
+  "timestampMs": 1140,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 1403,
+  "endMs": 1579,
+  "timestampMs": 1491,
+  "confidence": null
+ },
+ {
+  "text": " enough",
+  "startMs": 1912,
+  "endMs": 2289,
+  "timestampMs": 2100,
+  "confidence": null
+ },
+ {
+  "text": " food",
+  "startMs": 2289,
+  "endMs": 2478,
+  "timestampMs": 2383,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 2478,
+  "endMs": 2666,
+  "timestampMs": 2572,
+  "confidence": null
+ },
+ {
+  "text": " survive",
+  "startMs": 2666,
+  "endMs": 3043,
+  "timestampMs": 2854,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 3043,
+  "endMs": 3231,
+  "timestampMs": 3137,
+  "confidence": null
+ },
+ {
+  "text": " an",
+  "startMs": 3231,
+  "endMs": 3420,
+  "timestampMs": 3325,
+  "confidence": null
+ },
+ {
+  "text": " entire",
+  "startMs": 3420,
+  "endMs": 3797,
+  "timestampMs": 3608,
+  "confidence": null
+ },
+ {
+  "text": " year.",
+  "startMs": 3797,
+  "endMs": 3985,
+  "timestampMs": 3891,
+  "confidence": null
+ }
+]

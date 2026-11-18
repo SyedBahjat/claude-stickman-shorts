@@ -1,0 +1,51 @@
+[
+ {
+  "text": "Most",
+  "startMs": 0,
+  "endMs": 209,
+  "timestampMs": 104,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 209,
+  "endMs": 419,
+  "timestampMs": 314,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 419,
+  "endMs": 628,
+  "timestampMs": 523,
+  "confidence": null
+ },
+ {
+  "text": " chose",
+  "startMs": 628,
+  "endMs": 837,
+  "timestampMs": 732,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 837,
+  "endMs": 1046,
+  "timestampMs": 941,
+  "confidence": null
+ },
+ {
+  "text": " Silent",
+  "startMs": 1046,
+  "endMs": 1465,
+  "timestampMs": 1255,
+  "confidence": null
+ },
+ {
+  "text": " Field.",
+  "startMs": 1465,
+  "endMs": 1674,
+  "timestampMs": 1569,
+  "confidence": null
+ }
+]

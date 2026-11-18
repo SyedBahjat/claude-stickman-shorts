@@ -1,0 +1,37 @@
+[
+ {
+  "text": "Now,",
+  "startMs": 0,
+  "endMs": 180,
+  "timestampMs": 90,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 180,
+  "endMs": 359,
+  "timestampMs": 269,
+  "confidence": null
+ },
+ {
+  "text": " time",
+  "startMs": 359,
+  "endMs": 539,
+  "timestampMs": 449,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 539,
+  "endMs": 718,
+  "timestampMs": 628,
+  "confidence": null
+ },
+ {
+  "text": " up.",
+  "startMs": 718,
+  "endMs": 898,
+  "timestampMs": 808,
+  "confidence": null
+ }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "text": "Which",
+  "startMs": 0,
+  "endMs": 223,
+  "timestampMs": 111,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 223,
+  "endMs": 446,
+  "timestampMs": 334,
+  "confidence": null
+ },
+ {
+  "text": " would",
+  "startMs": 446,
+  "endMs": 669,
+  "timestampMs": 557,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 669,
+  "endMs": 893,
+  "timestampMs": 781,
+  "confidence": null
+ },
+ {
+  "text": " choose?",
+  "startMs": 893,
+  "endMs": 1116,
+  "timestampMs": 1004,
+  "confidence": null
+ },
+ {
+  "text": " A",
+  "startMs": 1116,
+  "endMs": 1339,
+  "timestampMs": 1227,
+  "confidence": null
+ },
+ {
+  "text": " or",
+  "startMs": 1339,
+  "endMs": 1562,
+  "timestampMs": 1450,
+  "confidence": null
+ },
+ {
+  "text": " B?",
+  "startMs": 1562,
+  "endMs": 1785,
+  "timestampMs": 1673,
+  "confidence": null
+ }
+]

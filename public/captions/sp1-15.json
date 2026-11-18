@@ -1,0 +1,86 @@
+[
+ {
+  "text": "Now",
+  "startMs": 0,
+  "endMs": 173,
+  "timestampMs": 86,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 173,
+  "endMs": 345,
+  "timestampMs": 259,
+  "confidence": null
+ },
+ {
+  "text": " have",
+  "startMs": 345,
+  "endMs": 518,
+  "timestampMs": 431,
+  "confidence": null
+ },
+ {
+  "text": " 365",
+  "startMs": 518,
+  "endMs": 1726,
+  "timestampMs": 1122,
+  "confidence": null
+ },
+ {
+  "text": " days",
+  "startMs": 1726,
+  "endMs": 1899,
+  "timestampMs": 1812,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 1899,
+  "endMs": 2071,
+  "timestampMs": 1985,
+  "confidence": null
+ },
+ {
+  "text": " food,",
+  "startMs": 2071,
+  "endMs": 2244,
+  "timestampMs": 2157,
+  "confidence": null
+ },
+ {
+  "text": " 3,600",
+  "startMs": 2576,
+  "endMs": 3461,
+  "timestampMs": 3018,
+  "confidence": null
+ },
+ {
+  "text": " liters",
+  "startMs": 3461,
+  "endMs": 3756,
+  "timestampMs": 3608,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 3756,
+  "endMs": 3903,
+  "timestampMs": 3829,
+  "confidence": null
+ },
+ {
+  "text": " drinking",
+  "startMs": 3903,
+  "endMs": 4198,
+  "timestampMs": 4050,
+  "confidence": null
+ },
+ {
+  "text": " water",
+  "startMs": 4198,
+  "endMs": 4493,
+  "timestampMs": 4345,
+  "confidence": null
+ }
+]

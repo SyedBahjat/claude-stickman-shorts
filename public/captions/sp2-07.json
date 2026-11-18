@@ -1,0 +1,58 @@
+[
+ {
+  "text": "The",
+  "startMs": 0,
+  "endMs": 143,
+  "timestampMs": 71,
+  "confidence": null
+ },
+ {
+  "text": " first",
+  "startMs": 143,
+  "endMs": 285,
+  "timestampMs": 214,
+  "confidence": null
+ },
+ {
+  "text": " infection",
+  "startMs": 285,
+  "endMs": 713,
+  "timestampMs": 499,
+  "confidence": null
+ },
+ {
+  "text": " was",
+  "startMs": 713,
+  "endMs": 855,
+  "timestampMs": 784,
+  "confidence": null
+ },
+ {
+  "text": " reported",
+  "startMs": 855,
+  "endMs": 1283,
+  "timestampMs": 1069,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 1283,
+  "endMs": 1425,
+  "timestampMs": 1354,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 1425,
+  "endMs": 1568,
+  "timestampMs": 1496,
+  "confidence": null
+ },
+ {
+  "text": " hospital.",
+  "startMs": 1568,
+  "endMs": 1995,
+  "timestampMs": 1781,
+  "confidence": null
+ }
+]

@@ -1,0 +1,72 @@
+[
+ {
+  "text": "60",
+  "startMs": 0,
+  "endMs": 279,
+  "timestampMs": 139,
+  "confidence": null
+ },
+ {
+  "text": " seconds",
+  "startMs": 279,
+  "endMs": 559,
+  "timestampMs": 419,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 559,
+  "endMs": 698,
+  "timestampMs": 628,
+  "confidence": null
+ },
+ {
+  "text": " absolute",
+  "startMs": 698,
+  "endMs": 1117,
+  "timestampMs": 907,
+  "confidence": null
+ },
+ {
+  "text": " silence,",
+  "startMs": 1117,
+  "endMs": 1396,
+  "timestampMs": 1256,
+  "confidence": null
+ },
+ {
+  "text": " ready",
+  "startMs": 1576,
+  "endMs": 1810,
+  "timestampMs": 1693,
+  "confidence": null
+ },
+ {
+  "text": " when",
+  "startMs": 1810,
+  "endMs": 1926,
+  "timestampMs": 1868,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 1926,
+  "endMs": 2043,
+  "timestampMs": 1984,
+  "confidence": null
+ },
+ {
+  "text": " need",
+  "startMs": 2043,
+  "endMs": 2159,
+  "timestampMs": 2101,
+  "confidence": null
+ },
+ {
+  "text": " it.",
+  "startMs": 2159,
+  "endMs": 2276,
+  "timestampMs": 2217,
+  "confidence": null
+ }
+]

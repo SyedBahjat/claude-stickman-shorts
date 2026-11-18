@@ -1,0 +1,79 @@
+[
+ {
+  "text": "Then",
+  "startMs": 0,
+  "endMs": 135,
+  "timestampMs": 67,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 135,
+  "endMs": 269,
+  "timestampMs": 202,
+  "confidence": null
+ },
+ {
+  "text": " broadcast",
+  "startMs": 269,
+  "endMs": 538,
+  "timestampMs": 403,
+  "confidence": null
+ },
+ {
+  "text": " dies,",
+  "startMs": 538,
+  "endMs": 673,
+  "timestampMs": 605,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 673,
+  "endMs": 807,
+  "timestampMs": 740,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 807,
+  "endMs": 942,
+  "timestampMs": 874,
+  "confidence": null
+ },
+ {
+  "text": " are",
+  "startMs": 1113,
+  "endMs": 1261,
+  "timestampMs": 1187,
+  "confidence": null
+ },
+ {
+  "text": " alone",
+  "startMs": 1261,
+  "endMs": 1557,
+  "timestampMs": 1409,
+  "confidence": null
+ },
+ {
+  "text": " with",
+  "startMs": 1557,
+  "endMs": 1705,
+  "timestampMs": 1631,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 1705,
+  "endMs": 1852,
+  "timestampMs": 1778,
+  "confidence": null
+ },
+ {
+  "text": " warning.",
+  "startMs": 1852,
+  "endMs": 2148,
+  "timestampMs": 2000,
+  "confidence": null
+ }
+]

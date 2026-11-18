@@ -1,0 +1,51 @@
+[
+ {
+  "text": "B:",
+  "startMs": 0,
+  "endMs": 148,
+  "timestampMs": 74,
+  "confidence": null
+ },
+ {
+  "text": " disconnect",
+  "startMs": 148,
+  "endMs": 594,
+  "timestampMs": 371,
+  "confidence": null
+ },
+ {
+  "text": " BLACK-7",
+  "startMs": 594,
+  "endMs": 1039,
+  "timestampMs": 816,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 1039,
+  "endMs": 1188,
+  "timestampMs": 1113,
+  "confidence": null
+ },
+ {
+  "text": " protect",
+  "startMs": 1188,
+  "endMs": 1485,
+  "timestampMs": 1336,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 1485,
+  "endMs": 1633,
+  "timestampMs": 1559,
+  "confidence": null
+ },
+ {
+  "text": " bunker.",
+  "startMs": 1633,
+  "endMs": 1930,
+  "timestampMs": 1781,
+  "confidence": null
+ }
+]

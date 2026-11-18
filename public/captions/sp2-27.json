@@ -1,0 +1,30 @@
+[
+ {
+  "text": "What",
+  "startMs": 0,
+  "endMs": 171,
+  "timestampMs": 85,
+  "confidence": null
+ },
+ {
+  "text": " will",
+  "startMs": 171,
+  "endMs": 342,
+  "timestampMs": 256,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 342,
+  "endMs": 513,
+  "timestampMs": 427,
+  "confidence": null
+ },
+ {
+  "text": " do?",
+  "startMs": 513,
+  "endMs": 684,
+  "timestampMs": 598,
+  "confidence": null
+ }
+]

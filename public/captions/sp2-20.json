@@ -1,0 +1,51 @@
+[
+ {
+  "text": "Minutes",
+  "startMs": 0,
+  "endMs": 559,
+  "timestampMs": 279,
+  "confidence": null
+ },
+ {
+  "text": " later,",
+  "startMs": 692,
+  "endMs": 988,
+  "timestampMs": 840,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 988,
+  "endMs": 1136,
+  "timestampMs": 1062,
+  "confidence": null
+ },
+ {
+  "text": " console",
+  "startMs": 1136,
+  "endMs": 1432,
+  "timestampMs": 1284,
+  "confidence": null
+ },
+ {
+  "text": " lights",
+  "startMs": 1432,
+  "endMs": 1581,
+  "timestampMs": 1506,
+  "confidence": null
+ },
+ {
+  "text": " up",
+  "startMs": 1581,
+  "endMs": 1729,
+  "timestampMs": 1655,
+  "confidence": null
+ },
+ {
+  "text": " again.",
+  "startMs": 1729,
+  "endMs": 2025,
+  "timestampMs": 1877,
+  "confidence": null
+ }
+]

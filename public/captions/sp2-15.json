@@ -1,0 +1,100 @@
+[
+ {
+  "text": "Day",
+  "startMs": 0,
+  "endMs": 171,
+  "timestampMs": 85,
+  "confidence": null
+ },
+ {
+  "text": " 7",
+  "startMs": 171,
+  "endMs": 513,
+  "timestampMs": 342,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 513,
+  "endMs": 684,
+  "timestampMs": 598,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 684,
+  "endMs": 855,
+  "timestampMs": 769,
+  "confidence": null
+ },
+ {
+  "text": " outbreak.",
+  "startMs": 855,
+  "endMs": 1197,
+  "timestampMs": 1026,
+  "confidence": null
+ },
+ {
+  "text": " Down",
+  "startMs": 1492,
+  "endMs": 1685,
+  "timestampMs": 1588,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 1685,
+  "endMs": 1878,
+  "timestampMs": 1781,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 1878,
+  "endMs": 2071,
+  "timestampMs": 1974,
+  "confidence": null
+ },
+ {
+  "text": " bunker,",
+  "startMs": 2071,
+  "endMs": 2456,
+  "timestampMs": 2263,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 2456,
+  "endMs": 2649,
+  "timestampMs": 2552,
+  "confidence": null
+ },
+ {
+  "text": " lights",
+  "startMs": 2649,
+  "endMs": 2842,
+  "timestampMs": 2745,
+  "confidence": null
+ },
+ {
+  "text": " are",
+  "startMs": 2842,
+  "endMs": 3034,
+  "timestampMs": 2938,
+  "confidence": null
+ },
+ {
+  "text": " still",
+  "startMs": 3034,
+  "endMs": 3227,
+  "timestampMs": 3130,
+  "confidence": null
+ },
+ {
+  "text": " on.",
+  "startMs": 3227,
+  "endMs": 3420,
+  "timestampMs": 3323,
+  "confidence": null
+ }
+]

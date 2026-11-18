@@ -1,0 +1,37 @@
+[
+ {
+  "text": "And",
+  "startMs": 0,
+  "endMs": 137,
+  "timestampMs": 68,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 137,
+  "endMs": 274,
+  "timestampMs": 205,
+  "confidence": null
+ },
+ {
+  "text": " messages",
+  "startMs": 274,
+  "endMs": 684,
+  "timestampMs": 479,
+  "confidence": null
+ },
+ {
+  "text": " keep",
+  "startMs": 684,
+  "endMs": 821,
+  "timestampMs": 752,
+  "confidence": null
+ },
+ {
+  "text": " coming.",
+  "startMs": 821,
+  "endMs": 1094,
+  "timestampMs": 957,
+  "confidence": null
+ }
+]

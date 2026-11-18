@@ -1,0 +1,30 @@
+[
+ {
+  "text": "Airports",
+  "startMs": 0,
+  "endMs": 379,
+  "timestampMs": 189,
+  "confidence": null
+ },
+ {
+  "text": " closed.",
+  "startMs": 379,
+  "endMs": 759,
+  "timestampMs": 569,
+  "confidence": null
+ },
+ {
+  "text": " Hospitals",
+  "startMs": 881,
+  "endMs": 1329,
+  "timestampMs": 1105,
+  "confidence": null
+ },
+ {
+  "text": " overflowed.",
+  "startMs": 1329,
+  "endMs": 1927,
+  "timestampMs": 1628,
+  "confidence": null
+ }
+]

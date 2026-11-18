@@ -1,0 +1,72 @@
+[
+ {
+  "text": "The",
+  "startMs": 0,
+  "endMs": 131,
+  "timestampMs": 65,
+  "confidence": null
+ },
+ {
+  "text": " government",
+  "startMs": 131,
+  "endMs": 524,
+  "timestampMs": 327,
+  "confidence": null
+ },
+ {
+  "text": " warned",
+  "startMs": 524,
+  "endMs": 786,
+  "timestampMs": 655,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 1032,
+  "endMs": 1148,
+  "timestampMs": 1090,
+  "confidence": null
+ },
+ {
+  "text": " never",
+  "startMs": 1148,
+  "endMs": 1379,
+  "timestampMs": 1263,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 1379,
+  "endMs": 1494,
+  "timestampMs": 1436,
+  "confidence": null
+ },
+ {
+  "text": " respond",
+  "startMs": 1494,
+  "endMs": 1726,
+  "timestampMs": 1610,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 1726,
+  "endMs": 1841,
+  "timestampMs": 1783,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 1841,
+  "endMs": 1957,
+  "timestampMs": 1899,
+  "confidence": null
+ },
+ {
+  "text": " frequency.",
+  "startMs": 1957,
+  "endMs": 2304,
+  "timestampMs": 2130,
+  "confidence": null
+ }
+]

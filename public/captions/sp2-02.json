@@ -1,0 +1,86 @@
+[
+ {
+  "text": "\u20ac225,000.",
+  "startMs": 0,
+  "endMs": 1665,
+  "timestampMs": 832,
+  "confidence": null
+ },
+ {
+  "text": " You",
+  "startMs": 2014,
+  "endMs": 2166,
+  "timestampMs": 2090,
+  "confidence": null
+ },
+ {
+  "text": " have",
+  "startMs": 2166,
+  "endMs": 2318,
+  "timestampMs": 2242,
+  "confidence": null
+ },
+ {
+  "text": " \u20ac35,000",
+  "startMs": 2318,
+  "endMs": 3381,
+  "timestampMs": 2849,
+  "confidence": null
+ },
+ {
+  "text": " left,",
+  "startMs": 3381,
+  "endMs": 3533,
+  "timestampMs": 3457,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 3730,
+  "endMs": 3870,
+  "timestampMs": 3800,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 3870,
+  "endMs": 4011,
+  "timestampMs": 3940,
+  "confidence": null
+ },
+ {
+  "text": " device",
+  "startMs": 4011,
+  "endMs": 4291,
+  "timestampMs": 4151,
+  "confidence": null
+ },
+ {
+  "text": " never",
+  "startMs": 4291,
+  "endMs": 4571,
+  "timestampMs": 4431,
+  "confidence": null
+ },
+ {
+  "text": " leaves",
+  "startMs": 4571,
+  "endMs": 4852,
+  "timestampMs": 4711,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 4852,
+  "endMs": 4992,
+  "timestampMs": 4922,
+  "confidence": null
+ },
+ {
+  "text": " side.",
+  "startMs": 4992,
+  "endMs": 5132,
+  "timestampMs": 5062,
+  "confidence": null
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "text": "You",
+  "startMs": 0,
+  "endMs": 188,
+  "timestampMs": 94,
+  "confidence": null
+ },
+ {
+  "text": " have",
+  "startMs": 188,
+  "endMs": 377,
+  "timestampMs": 282,
+  "confidence": null
+ },
+ {
+  "text": " installed",
+  "startMs": 377,
+  "endMs": 941,
+  "timestampMs": 659,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 941,
+  "endMs": 1130,
+  "timestampMs": 1035,
+  "confidence": null
+ },
+ {
+  "text": " system",
+  "startMs": 1364,
+  "endMs": 1673,
+  "timestampMs": 1518,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 1673,
+  "endMs": 1827,
+  "timestampMs": 1750,
+  "confidence": null
+ },
+ {
+  "text": " automatically",
+  "startMs": 1827,
+  "endMs": 2752,
+  "timestampMs": 2289,
+  "confidence": null
+ },
+ {
+  "text": " converts",
+  "startMs": 2752,
+  "endMs": 3060,
+  "timestampMs": 2906,
+  "confidence": null
+ },
+ {
+  "text": " external",
+  "startMs": 3060,
+  "endMs": 3522,
+  "timestampMs": 3291,
+  "confidence": null
+ },
+ {
+  "text": " voices",
+  "startMs": 3522,
+  "endMs": 3831,
+  "timestampMs": 3676,
+  "confidence": null
+ },
+ {
+  "text": " into",
+  "startMs": 3831,
+  "endMs": 4139,
+  "timestampMs": 3985,
+  "confidence": null
+ },
+ {
+  "text": " text.",
+  "startMs": 4139,
+  "endMs": 4293,
+  "timestampMs": 4216,
+  "confidence": null
+ }
+]

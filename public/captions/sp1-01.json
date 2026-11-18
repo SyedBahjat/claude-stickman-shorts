@@ -1,0 +1,86 @@
+[
+ {
+  "text": "In",
+  "startMs": 0,
+  "endMs": 203,
+  "timestampMs": 101,
+  "confidence": null
+ },
+ {
+  "text": " exactly",
+  "startMs": 203,
+  "endMs": 811,
+  "timestampMs": 507,
+  "confidence": null
+ },
+ {
+  "text": " 365",
+  "startMs": 811,
+  "endMs": 2231,
+  "timestampMs": 1521,
+  "confidence": null
+ },
+ {
+  "text": " days,",
+  "startMs": 2231,
+  "endMs": 2434,
+  "timestampMs": 2332,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 2773,
+  "endMs": 2944,
+  "timestampMs": 2858,
+  "confidence": null
+ },
+ {
+  "text": " world",
+  "startMs": 2944,
+  "endMs": 3114,
+  "timestampMs": 3029,
+  "confidence": null
+ },
+ {
+  "text": " as",
+  "startMs": 3114,
+  "endMs": 3284,
+  "timestampMs": 3199,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 3284,
+  "endMs": 3454,
+  "timestampMs": 3369,
+  "confidence": null
+ },
+ {
+  "text": " know",
+  "startMs": 3454,
+  "endMs": 3624,
+  "timestampMs": 3539,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 3624,
+  "endMs": 3795,
+  "timestampMs": 3709,
+  "confidence": null
+ },
+ {
+  "text": " will",
+  "startMs": 3795,
+  "endMs": 3965,
+  "timestampMs": 3880,
+  "confidence": null
+ },
+ {
+  "text": " end.",
+  "startMs": 3965,
+  "endMs": 4135,
+  "timestampMs": 4050,
+  "confidence": null
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "text": "The",
+  "startMs": 0,
+  "endMs": 168,
+  "timestampMs": 84,
+  "confidence": null
+ },
+ {
+  "text": " Ghost",
+  "startMs": 168,
+  "endMs": 336,
+  "timestampMs": 252,
+  "confidence": null
+ },
+ {
+  "text": " Echo",
+  "startMs": 336,
+  "endMs": 672,
+  "timestampMs": 504,
+  "confidence": null
+ },
+ {
+  "text": " costs",
+  "startMs": 672,
+  "endMs": 840,
+  "timestampMs": 756,
+  "confidence": null
+ },
+ {
+  "text": " \u20ac220,000.",
+  "startMs": 840,
+  "endMs": 2519,
+  "timestampMs": 1679,
+  "confidence": null
+ }
+]

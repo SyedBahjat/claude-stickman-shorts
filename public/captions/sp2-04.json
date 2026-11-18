@@ -1,0 +1,44 @@
+[
+ {
+  "text": "You",
+  "startMs": 0,
+  "endMs": 152,
+  "timestampMs": 76,
+  "confidence": null
+ },
+ {
+  "text": " had",
+  "startMs": 152,
+  "endMs": 304,
+  "timestampMs": 228,
+  "confidence": null
+ },
+ {
+  "text": " 365",
+  "startMs": 304,
+  "endMs": 1367,
+  "timestampMs": 835,
+  "confidence": null
+ },
+ {
+  "text": " days",
+  "startMs": 1367,
+  "endMs": 1518,
+  "timestampMs": 1442,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 1518,
+  "endMs": 1670,
+  "timestampMs": 1594,
+  "confidence": null
+ },
+ {
+  "text": " prepare.",
+  "startMs": 1670,
+  "endMs": 1974,
+  "timestampMs": 1822,
+  "confidence": null
+ }
+]

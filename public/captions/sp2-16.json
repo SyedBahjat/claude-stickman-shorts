@@ -1,0 +1,100 @@
+[
+ {
+  "text": "Then,",
+  "startMs": 0,
+  "endMs": 168,
+  "timestampMs": 84,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 168,
+  "endMs": 337,
+  "timestampMs": 252,
+  "confidence": null
+ },
+ {
+  "text": " final",
+  "startMs": 337,
+  "endMs": 673,
+  "timestampMs": 505,
+  "confidence": null
+ },
+ {
+  "text": " government",
+  "startMs": 673,
+  "endMs": 1178,
+  "timestampMs": 925,
+  "confidence": null
+ },
+ {
+  "text": " broadcast",
+  "startMs": 1178,
+  "endMs": 1514,
+  "timestampMs": 1346,
+  "confidence": null
+ },
+ {
+  "text": " reaches",
+  "startMs": 1514,
+  "endMs": 1851,
+  "timestampMs": 1682,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 1851,
+  "endMs": 2019,
+  "timestampMs": 1935,
+  "confidence": null
+ },
+ {
+  "text": " console.",
+  "startMs": 2019,
+  "endMs": 2356,
+  "timestampMs": 2187,
+  "confidence": null
+ },
+ {
+  "text": " As",
+  "startMs": 2356,
+  "endMs": 2524,
+  "timestampMs": 2440,
+  "confidence": null
+ },
+ {
+  "text": " always,",
+  "startMs": 2910,
+  "endMs": 3301,
+  "timestampMs": 3105,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 3301,
+  "endMs": 3497,
+  "timestampMs": 3399,
+  "confidence": null
+ },
+ {
+  "text": " only",
+  "startMs": 3624,
+  "endMs": 3970,
+  "timestampMs": 3797,
+  "confidence": null
+ },
+ {
+  "text": " read",
+  "startMs": 3970,
+  "endMs": 4144,
+  "timestampMs": 4057,
+  "confidence": null
+ },
+ {
+  "text": " it.",
+  "startMs": 4144,
+  "endMs": 4317,
+  "timestampMs": 4230,
+  "confidence": null
+ }
+]

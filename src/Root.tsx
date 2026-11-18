@@ -3,6 +3,8 @@ import { Banner } from "./promo/Banner";
 import { Starter, STARTER_TOTAL, starterMetadata } from "./templates/Starter";
 import { FreshCoP1, FC1_TOTAL } from "./stories/freshco/FreshCoP1";
 import { FreshCoP2B, FC2B_TOTAL } from "./stories/freshco/FreshCoP2B";
+import { SilenceP1, SP1_TOTAL } from "./stories/silence-protocol/SilenceP1";
+import { SilenceP2, SP2_TOTAL } from "./stories/silence-protocol/SilenceP2";
 import { LastTrainP1, LT1_TOTAL } from "./stories/last-train/LastTrainP1";
 import { LastTrainP2B, LT2B_TOTAL } from "./stories/last-train/LastTrainP2B";
 import { LastTrainP3A, LT3A_TOTAL } from "./stories/last-train/LastTrainP3A";
@@ -13,6 +15,8 @@ const SHORT = { fps: 30, width: 1080, height: 1920 } as const;
 
 export const RemotionRoot: React.FC = () => (
   <>
+    <Composition id="SilenceProtocol-EP01" component={SilenceP1} durationInFrames={SP1_TOTAL} {...SHORT} />
+    <Composition id="SilenceProtocol-EP02" component={SilenceP2} durationInFrames={SP2_TOTAL} {...SHORT} />
     <Composition id="LastTrain-P1" component={LastTrainP1} durationInFrames={LT1_TOTAL} {...SHORT} />
     <Composition id="LastTrain-P2B" component={LastTrainP2B} durationInFrames={LT2B_TOTAL} {...SHORT} />
     <Composition id="LastTrain-P3A" component={LastTrainP3A} durationInFrames={LT3A_TOTAL} {...SHORT} />

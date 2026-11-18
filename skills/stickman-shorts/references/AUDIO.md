@@ -17,6 +17,9 @@ anywhere (`--from`).
 | Any OpenAI-compatible server (Kokoro-FastAPI, openedai-speech, OpenAI) | free / paid | Set `TTS_URL`, `TTS_MODEL`, `TTS_API_KEY`. |
 | ElevenLabs, your own mic, anything else | varies | Export a WAV, then `node scripts/voiceover.mjs <name> "<text>" --from take.wav --trim --loud -16`. |
 
+**SILENCE PROTOCOL** has one official narrator, defined only in `scripts/tts/narrator.json` (voice id `narrator`,
+see `01_SERIES_BIBLE/AUDIO_STYLE.md` §1). Use it for that series and don't redefine it here.
+
 ### Roles
 
 | Role | Sound |

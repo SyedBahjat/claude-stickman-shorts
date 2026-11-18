@@ -1,0 +1,65 @@
+[
+ {
+  "text": "But",
+  "startMs": 0,
+  "endMs": 158,
+  "timestampMs": 79,
+  "confidence": null
+ },
+ {
+  "text": " there",
+  "startMs": 158,
+  "endMs": 316,
+  "timestampMs": 237,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 316,
+  "endMs": 474,
+  "timestampMs": 395,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 474,
+  "endMs": 632,
+  "timestampMs": 553,
+  "confidence": null
+ },
+ {
+  "text": " rule",
+  "startMs": 632,
+  "endMs": 790,
+  "timestampMs": 711,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 790,
+  "endMs": 947,
+  "timestampMs": 868,
+  "confidence": null
+ },
+ {
+  "text": " must",
+  "startMs": 947,
+  "endMs": 1105,
+  "timestampMs": 1026,
+  "confidence": null
+ },
+ {
+  "text": " never",
+  "startMs": 1105,
+  "endMs": 1421,
+  "timestampMs": 1263,
+  "confidence": null
+ },
+ {
+  "text": " forget.",
+  "startMs": 1421,
+  "endMs": 1737,
+  "timestampMs": 1579,
+  "confidence": null
+ }
+]

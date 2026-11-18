@@ -1,0 +1,58 @@
+[
+ {
+  "text": "Your",
+  "startMs": 0,
+  "endMs": 141,
+  "timestampMs": 70,
+  "confidence": null
+ },
+ {
+  "text": " bunker",
+  "startMs": 141,
+  "endMs": 423,
+  "timestampMs": 282,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 423,
+  "endMs": 565,
+  "timestampMs": 494,
+  "confidence": null
+ },
+ {
+  "text": " designed",
+  "startMs": 565,
+  "endMs": 988,
+  "timestampMs": 776,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 988,
+  "endMs": 1129,
+  "timestampMs": 1058,
+  "confidence": null
+ },
+ {
+  "text": " keep",
+  "startMs": 1129,
+  "endMs": 1270,
+  "timestampMs": 1199,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 1270,
+  "endMs": 1411,
+  "timestampMs": 1340,
+  "confidence": null
+ },
+ {
+  "text": " alive.",
+  "startMs": 1411,
+  "endMs": 1694,
+  "timestampMs": 1552,
+  "confidence": null
+ }
+]

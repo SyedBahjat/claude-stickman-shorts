@@ -1,0 +1,44 @@
+[
+ {
+  "text": "Within",
+  "startMs": 0,
+  "endMs": 381,
+  "timestampMs": 190,
+  "confidence": null
+ },
+ {
+  "text": " hours,",
+  "startMs": 381,
+  "endMs": 571,
+  "timestampMs": 476,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 571,
+  "endMs": 762,
+  "timestampMs": 666,
+  "confidence": null
+ },
+ {
+  "text": " outbreak",
+  "startMs": 762,
+  "endMs": 1143,
+  "timestampMs": 952,
+  "confidence": null
+ },
+ {
+  "text": " had",
+  "startMs": 1143,
+  "endMs": 1333,
+  "timestampMs": 1238,
+  "confidence": null
+ },
+ {
+  "text": " begun.",
+  "startMs": 1333,
+  "endMs": 1714,
+  "timestampMs": 1523,
+  "confidence": null
+ }
+]

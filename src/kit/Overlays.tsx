@@ -172,7 +172,9 @@ export const Blurred: React.FC<{ px?: number; dim?: number; children: React.Reac
  * Title pops, cards A/B slide in (upper half), at `decideAt` the losing card greys out and
  * tumbles off the bottom while the winner slides to center, grows, glows and throws sparks.
  */
-export const MostOfYouSaid: React.FC<{ a: string; b: string; winner: "A" | "B"; decideAt: number; title?: [string, string] }> = ({ a, b, winner, decideAt, title: words = ["MOST OF YOU", "SAID"] }) => {
+export const MostOfYouSaid: React.FC<{ a: string; b: string; winner: "A" | "B"; decideAt: number; title?: [string, string]; colors?: [string, string] }> = ({
+  a, b, winner, decideAt, title: words = ["MOST OF YOU", "SAID"], colors = [C.alertRed, C.optionGreen],
+}) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const pop = (at: number, k = 280, d = 15) => (frame < at ? 0 : spring({ frame: frame - at, fps, config: { stiffness: k, damping: d } }));
@@ -206,15 +208,15 @@ export const MostOfYouSaid: React.FC<{ a: string; b: string; winner: "A" | "B"; 
       </div>
     );
   };
-  const winColor = winner === "A" ? C.alertRed : C.optionGreen;
+  const winColor = winner === "A" ? colors[0] : colors[1];
   const sparkT = frame - decideAt - 6;
   return (
     <AbsoluteFill style={{ pointerEvents: "none" }}>
       <div style={{ position: "absolute", top: 420, width: "100%", textAlign: "center", fontFamily: FONT.title, fontSize: 118, color: "white", transform: `scale(${title})`, textShadow: "0 6px 16px rgba(0,0,0,0.8)" }}>
         {words[0]} <span style={{ color: C.capYellow }}>{words[1]}</span>
       </div>
-      {card("A", a, C.alertRed, TOP_A, 5)}
-      {card("B", b, C.optionGreen, TOP_B, 10)}
+      {card("A", a, colors[0], TOP_A, 5)}
+      {card("B", b, colors[1], TOP_B, 10)}
       {sparkT > 0 && sparkT < 30
         ? Array.from({ length: 26 }).map((_, i) => {
             const ang = random(`spa${i}`) * Math.PI * 2;

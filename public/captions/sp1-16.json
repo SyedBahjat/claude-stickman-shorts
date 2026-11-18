@@ -1,0 +1,93 @@
+[
+ {
+  "text": "and",
+  "startMs": 0,
+  "endMs": 134,
+  "timestampMs": 67,
+  "confidence": null
+ },
+ {
+  "text": " another",
+  "startMs": 134,
+  "endMs": 536,
+  "timestampMs": 335,
+  "confidence": null
+ },
+ {
+  "text": " 12,000",
+  "startMs": 536,
+  "endMs": 937,
+  "timestampMs": 736,
+  "confidence": null
+ },
+ {
+  "text": " liters",
+  "startMs": 937,
+  "endMs": 1205,
+  "timestampMs": 1071,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 1205,
+  "endMs": 1339,
+  "timestampMs": 1272,
+  "confidence": null
+ },
+ {
+  "text": " technical",
+  "startMs": 1339,
+  "endMs": 1741,
+  "timestampMs": 1540,
+  "confidence": null
+ },
+ {
+  "text": " water",
+  "startMs": 1741,
+  "endMs": 2008,
+  "timestampMs": 1874,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 2298,
+  "endMs": 2430,
+  "timestampMs": 2364,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 2430,
+  "endMs": 2561,
+  "timestampMs": 2495,
+  "confidence": null
+ },
+ {
+  "text": " be",
+  "startMs": 2561,
+  "endMs": 2693,
+  "timestampMs": 2627,
+  "confidence": null
+ },
+ {
+  "text": " treated",
+  "startMs": 2693,
+  "endMs": 2956,
+  "timestampMs": 2824,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 2956,
+  "endMs": 3088,
+  "timestampMs": 3022,
+  "confidence": null
+ },
+ {
+  "text": " filtered.",
+  "startMs": 3088,
+  "endMs": 3483,
+  "timestampMs": 3285,
+  "confidence": null
+ }
+]
