@@ -1,0 +1,79 @@
+[
+ {
+  "text": "Channel",
+  "startMs": 0,
+  "endMs": 286,
+  "timestampMs": 143,
+  "confidence": null
+ },
+ {
+  "text": " BLACK-7.",
+  "startMs": 286,
+  "endMs": 716,
+  "timestampMs": 501,
+  "confidence": null
+ },
+ {
+  "text": " The",
+  "startMs": 994,
+  "endMs": 1118,
+  "timestampMs": 1056,
+  "confidence": null
+ },
+ {
+  "text": " exact",
+  "startMs": 1118,
+  "endMs": 1365,
+  "timestampMs": 1241,
+  "confidence": null
+ },
+ {
+  "text": " channel",
+  "startMs": 1365,
+  "endMs": 1613,
+  "timestampMs": 1489,
+  "confidence": null
+ },
+ {
+  "text": " you",
+  "startMs": 1613,
+  "endMs": 1737,
+  "timestampMs": 1675,
+  "confidence": null
+ },
+ {
+  "text": " were",
+  "startMs": 1737,
+  "endMs": 1861,
+  "timestampMs": 1799,
+  "confidence": null
+ },
+ {
+  "text": " told",
+  "startMs": 1861,
+  "endMs": 1985,
+  "timestampMs": 1923,
+  "confidence": null
+ },
+ {
+  "text": " never",
+  "startMs": 1985,
+  "endMs": 2232,
+  "timestampMs": 2108,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 2232,
+  "endMs": 2356,
+  "timestampMs": 2294,
+  "confidence": null
+ },
+ {
+  "text": " answer.",
+  "startMs": 2356,
+  "endMs": 2604,
+  "timestampMs": 2480,
+  "confidence": null
+ }
+]

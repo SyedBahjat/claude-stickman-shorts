@@ -1,0 +1,44 @@
+[
+ {
+  "text": "Ten",
+  "startMs": 0,
+  "endMs": 150,
+  "timestampMs": 75,
+  "confidence": null
+ },
+ {
+  "text": " voices",
+  "startMs": 150,
+  "endMs": 450,
+  "timestampMs": 300,
+  "confidence": null
+ },
+ {
+  "text": " became",
+  "startMs": 450,
+  "endMs": 751,
+  "timestampMs": 600,
+  "confidence": null
+ },
+ {
+  "text": " hundreds.",
+  "startMs": 751,
+  "endMs": 1051,
+  "timestampMs": 901,
+  "confidence": null
+ },
+ {
+  "text": " Then",
+  "startMs": 1273,
+  "endMs": 1509,
+  "timestampMs": 1391,
+  "confidence": null
+ },
+ {
+  "text": " thousands.",
+  "startMs": 1509,
+  "endMs": 1981,
+  "timestampMs": 1745,
+  "confidence": null
+ }
+]

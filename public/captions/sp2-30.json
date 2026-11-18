@@ -1,0 +1,58 @@
+[
+ {
+  "text": "Comment",
+  "startMs": 0,
+  "endMs": 328,
+  "timestampMs": 164,
+  "confidence": null
+ },
+ {
+  "text": " A",
+  "startMs": 328,
+  "endMs": 492,
+  "timestampMs": 410,
+  "confidence": null
+ },
+ {
+  "text": " or",
+  "startMs": 492,
+  "endMs": 656,
+  "timestampMs": 574,
+  "confidence": null
+ },
+ {
+  "text": " B",
+  "startMs": 902,
+  "endMs": 1067,
+  "timestampMs": 984,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 1067,
+  "endMs": 1232,
+  "timestampMs": 1149,
+  "confidence": null
+ },
+ {
+  "text": " decide",
+  "startMs": 1232,
+  "endMs": 1562,
+  "timestampMs": 1397,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 1562,
+  "endMs": 1727,
+  "timestampMs": 1644,
+  "confidence": null
+ },
+ {
+  "text": " survival.",
+  "startMs": 1727,
+  "endMs": 2222,
+  "timestampMs": 1974,
+  "confidence": null
+ }
+]

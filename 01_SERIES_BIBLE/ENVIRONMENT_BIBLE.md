@@ -62,6 +62,14 @@ med→pantry pan `[608→841, 1000, 3.0]`; final pull-back `[540, 1000, 1.7] →
 | `Blueprint({x,y,w,t})` | holographic blue blueprint that draws itself: "PROJECT: SILENCE · SUBLEVEL 1", rooms labelled AIRLOCK, COMMAND, VENT, LIVING, MED, FOOD, POWER, GENERATOR, WATER, "GROUND LEVEL" |
 | EchoDemo hatch (inline in `SilenceP1.tsx`) | street-level bunker hatch hut at x 60–240, y 1400–1480 labelled **"YOU"** in red |
 
+## 3b. Outbreak sets (added in EP02, `src/sets/Silence.tsx`)
+| Component | Use |
+|---|---|
+| `Hospital({sign})` | same ward; `sign` default "ICU · FULL"; EP02 Patient Zero uses "ISOLATION WARD" (patient lying in the right bed: rig rotated 90°, scale 0.42, hip at (800,1342)) |
+| `Street({fire, lights})` | `lights` 0..1 switches the tower windows off (cities going dark); default 1 = EP01 look |
+| `WorldMap({x,y,w,spread})` | dark world map (1000×500 at w 1000), grid, scanlines, red infection clusters on every continent growing with `spread`; **no single origin marked** |
+| `Airport({t})` | night terminal, tall windows with red glow, DEPARTURES board (8 flights flip to blinking CANCELLED with `t`), "ALL GATES CLOSED", abandoned luggage, floor 1640 |
+
 ## 4. Rules for environments
 - **Reuse** these components; never redraw the bunker. New rooms/areas = new components in `Silence.tsx` that match
   this palette and line weight, plus an entry here.

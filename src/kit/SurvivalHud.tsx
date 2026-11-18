@@ -40,8 +40,12 @@ const Cell: React.FC<{ label: string; value: string; fill: number; color: string
   </div>
 );
 
-export const SurvivalHud: React.FC<{ state: HudState; show?: number; mode?: "full" | "min"; flash?: number; alert?: number; pulse?: number }> = ({
-  state, show = 1, mode = "full", flash = 0, alert = 0, pulse = 0,
+export const SurvivalHud: React.FC<{
+  state: HudState; show?: number; mode?: "full" | "min"; flash?: number; alert?: number; pulse?: number;
+  /** EP02+: relabel the day counter (default = EP01 "DAYS UNTIL OUTBREAK"); `daysValue` replaces the number text, e.g. "DAY 7". */
+  daysLabel?: string; daysValue?: string;
+}> = ({
+  state, show = 1, mode = "full", flash = 0, alert = 0, pulse = 0, daysLabel = "DAYS UNTIL OUTBREAK", daysValue,
 }) => {
   const frame = useCurrentFrame();
   if (show <= 0) return null;
@@ -65,8 +69,8 @@ export const SurvivalHud: React.FC<{ state: HudState; show?: number; mode?: "ful
             </div>
           </div>
           <div style={{ textAlign: "right" }}>
-            <div style={{ fontFamily: FONT.mono, fontWeight: 800, fontSize: 14, letterSpacing: 2, color: SP.mute }}>DAYS UNTIL OUTBREAK</div>
-            <div style={{ fontFamily: FONT.mono, fontWeight: 800, fontSize: 36, color: SP.red, lineHeight: 1, textShadow: `0 0 14px ${SP.redDim}` }}>{days}</div>
+            <div style={{ fontFamily: FONT.mono, fontWeight: 800, fontSize: 14, letterSpacing: 2, color: SP.mute }}>{daysLabel}</div>
+            <div style={{ fontFamily: FONT.mono, fontWeight: 800, fontSize: 36, color: SP.red, lineHeight: 1, textShadow: `0 0 14px ${SP.redDim}` }}>{daysValue ?? days}</div>
           </div>
         </div>
         {mode === "full" ? (
@@ -97,7 +101,7 @@ export const spendFlash = (purchases: Purchase[], frame: number) =>
   purchases.reduce((m, p) => Math.max(m, interpolate(frame, [p.at + 6, p.at + 10, p.at + 30], [0, 1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" })), 0);
 
 /** Purchase receipt toast under the HUD: slides in, shows item + −€cost, then shrinks toward the budget. */
-export const PurchaseToasts: React.FC<{ purchases: Purchase[]; top?: number }> = ({ purchases, top = 262 }) => {
+export const PurchaseToasts: React.FC<{ purchases: Purchase[]; top?: number; stamp?: string }> = ({ purchases, top = 262, stamp = "■ INSTALLED" }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
   const idx = purchases.findIndex((p, i) => frame >= p.at && (i === purchases.length - 1 || frame < purchases[i + 1].at));
@@ -110,7 +114,7 @@ export const PurchaseToasts: React.FC<{ purchases: Purchase[]; top?: number }> =
   const s = spring({ frame: age, fps, config: { stiffness: 260, damping: 18 } });
   const out = interpolate(age, [life - 8, life], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
   const x = interpolate(s, [0, 1], [700, 0]);
-  const stamp = interpolate(age, [5, 11], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const stampIn = interpolate(age, [5, 11], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
   return (
     <AbsoluteFill style={{ pointerEvents: "none" }}>
       <div
@@ -121,7 +125,7 @@ export const PurchaseToasts: React.FC<{ purchases: Purchase[]; top?: number }> =
       >
         <div style={{ display: "flex", justifyContent: "space-between", fontFamily: FONT.mono, fontWeight: 800, fontSize: 15, letterSpacing: 2, color: SP.mute }}>
           <span>PURCHASE {String(idx + 1).padStart(2, "0")}/{purchases.length}</span>
-          <span style={{ color: SP.green, opacity: stamp }}>■ INSTALLED</span>
+          <span style={{ color: SP.green, opacity: stampIn }}>{stamp}</span>
         </div>
         <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline", marginTop: 4 }}>
           <div style={{ fontFamily: FONT.title, fontSize: 40, color: "white", letterSpacing: 1, lineHeight: 1.05, maxWidth: 380 }}>{p.item.toUpperCase()}</div>

@@ -1,0 +1,44 @@
+[
+ {
+  "text": "But",
+  "startMs": 0,
+  "endMs": 142,
+  "timestampMs": 71,
+  "confidence": null
+ },
+ {
+  "text": " someone",
+  "startMs": 142,
+  "endMs": 426,
+  "timestampMs": 284,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 426,
+  "endMs": 568,
+  "timestampMs": 497,
+  "confidence": null
+ },
+ {
+  "text": " asking",
+  "startMs": 568,
+  "endMs": 852,
+  "timestampMs": 710,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 852,
+  "endMs": 994,
+  "timestampMs": 923,
+  "confidence": null
+ },
+ {
+  "text": " help.",
+  "startMs": 994,
+  "endMs": 1136,
+  "timestampMs": 1065,
+  "confidence": null
+ }
+]

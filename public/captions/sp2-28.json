@@ -1,0 +1,65 @@
+[
+ {
+  "text": "A:",
+  "startMs": 0,
+  "endMs": 246,
+  "timestampMs": 123,
+  "confidence": null
+ },
+ {
+  "text": " investigate",
+  "startMs": 366,
+  "endMs": 967,
+  "timestampMs": 666,
+  "confidence": null
+ },
+ {
+  "text": " BLACK-7",
+  "startMs": 967,
+  "endMs": 1418,
+  "timestampMs": 1192,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 1418,
+  "endMs": 1568,
+  "timestampMs": 1493,
+  "confidence": null
+ },
+ {
+  "text": " try",
+  "startMs": 1568,
+  "endMs": 1719,
+  "timestampMs": 1643,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 1719,
+  "endMs": 1869,
+  "timestampMs": 1794,
+  "confidence": null
+ },
+ {
+  "text": " find",
+  "startMs": 1869,
+  "endMs": 2019,
+  "timestampMs": 1944,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 2019,
+  "endMs": 2170,
+  "timestampMs": 2094,
+  "confidence": null
+ },
+ {
+  "text": " source.",
+  "startMs": 2170,
+  "endMs": 2320,
+  "timestampMs": 2245,
+  "confidence": null
+ }
+]

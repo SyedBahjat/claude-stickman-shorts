@@ -1,7 +1,7 @@
 # ASSET REGISTRY: SILENCE PROTOCOL
 
 Original assets of the series. **Reuse these files; never regenerate a replacement for an existing asset.**
-Integrity: `bible/ASSET_CHECKSUMS.sha256` (108 files, SHA-256). Verify any time:
+Integrity: `bible/ASSET_CHECKSUMS.sha256` (179 files after EP02, SHA-256). Verify any time:
 ```bash
 sha256sum -c --quiet stories/silence-protocol/bible/ASSET_CHECKSUMS.sha256 && echo "originals intact"
 ```
@@ -13,7 +13,9 @@ sha256sum -c --quiet stories/silence-protocol/bible/ASSET_CHECKSUMS.sha256 && ec
 | `src/kit/SurvivalHud.tsx` | HUD, UI palette `SP`, money helpers, purchase toasts | series |
 | `src/sets/Silence.tsx` | all series sets, bunker, gadgets, sound rings | series |
 | `src/stories/silence-protocol/SilenceP1.tsx` | EP01 (read-only) | EP01 |
-| `src/Root.tsx` | composition registry (`SilenceProtocol-EP01`) | engine |
+| `src/stories/silence-protocol/SilenceP2.tsx` | EP02 | EP02 |
+| `src/kit/SilenceUI.tsx` | shared series UI copied from EP01 locals (EP02+) | series |
+| `src/Root.tsx` | composition registry (`SilenceProtocol-EP01`, `SilenceProtocol-EP02`) | engine |
 | `src/kit/Stick.tsx`, `Overlays.tsx` (`Cam`, `Captions`, `Vignette`, `Blurred`, `MostOfYouSaid`), `style.ts` (`C`, `FONT`), `mix.ts` (`makeDuck`) | house engine (unchanged) | engine |
 | `src/sets/Sets.tsx` (`Svg` wrapper) | house engine | engine |
 
@@ -39,15 +41,19 @@ Whisper `https://github.com/k2-fsa/sherpa-onnx/releases/download/asr-models/sher
 |---|---|
 | `public/audio/voice/sp1-01…28.wav` | EP01 narration v2 (`af_heart`), 24 kHz mono |
 | `public/captions/sp1-01…28.json` | EP01 word timings (drive EP01's cut timeline) |
+| `public/audio/voice/sp2-01…30.wav` | EP02 narration (`af_heart`), −20 LUFS each |
+| `public/captions/sp2-01…30.json` | EP02 word timings (drive EP02's cut timeline) |
 | `public/audio/music/sp-bed.wav` | series music bed (95 s) |
 | `public/audio/music/drone.wav` | house drone |
 | `public/audio/sfx/sp-*.wav` (21) | series SFX (see AUDIO_STYLE §3) |
 | `public/audio/sfx/{sub-hit,card-slam,whoosh,sirens,murmur,heartbeat,tinnitus,footsteps,gravel-steps,light-buzz,blast-hum,fc-groan-1,fc-groans,fc-generator,fc-radio-static}.wav` | house SFX used by EP01 |
+| `public/audio/sfx/{ding,alert-beeps}.wav` | house SFX first used by EP02 |
 
 ## Final renders (outside git!)
 | File | SHA-256 |
 |---|---|
 | `out/SILENCE_PROTOCOL_EP01_THE_COUNTDOWN.mp4` (v2, approved, 49 MB) | `14a8fa0f55227a70afde10719da10f7797305f2aec5e768f8316c495ab07acf8` |
+| `out/SILENCE_PROTOCOL_EP02_THE_FIRST_CONTACT.mp4` (v1.1, pending approval, 44.5 MB) | `e2ca01669d91eaa5b08ebbacfadb6744f5229f883a3ff46e539c09767ab2ed67` |
 | `out/SILENCE_PROTOCOL_EP01_THE_COUNTDOWN_v1_original.mp4` | `4b4363efe6c232f34becbd190aa7a96ca00bb887e61267a95999b26946863fb4` |
 
 `out/` is in `.gitignore`. These MP4s exist only where the producer saved them. Use them as the visual and audio

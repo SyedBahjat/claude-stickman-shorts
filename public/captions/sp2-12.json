@@ -1,0 +1,65 @@
+[
+ {
+  "text": "The",
+  "startMs": 0,
+  "endMs": 175,
+  "timestampMs": 87,
+  "confidence": null
+ },
+ {
+  "text": " map",
+  "startMs": 175,
+  "endMs": 351,
+  "timestampMs": 263,
+  "confidence": null
+ },
+ {
+  "text": " turned",
+  "startMs": 351,
+  "endMs": 702,
+  "timestampMs": 526,
+  "confidence": null
+ },
+ {
+  "text": " red,",
+  "startMs": 702,
+  "endMs": 877,
+  "timestampMs": 789,
+  "confidence": null
+ },
+ {
+  "text": " one",
+  "startMs": 1078,
+  "endMs": 1272,
+  "timestampMs": 1175,
+  "confidence": null
+ },
+ {
+  "text": " country",
+  "startMs": 1272,
+  "endMs": 1661,
+  "timestampMs": 1466,
+  "confidence": null
+ },
+ {
+  "text": " at",
+  "startMs": 1661,
+  "endMs": 1855,
+  "timestampMs": 1758,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 1855,
+  "endMs": 2050,
+  "timestampMs": 1952,
+  "confidence": null
+ },
+ {
+  "text": " time.",
+  "startMs": 2050,
+  "endMs": 2244,
+  "timestampMs": 2147,
+  "confidence": null
+ }
+]

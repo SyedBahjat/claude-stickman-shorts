@@ -1,0 +1,72 @@
+[
+ {
+  "text": "Never",
+  "startMs": 0,
+  "endMs": 284,
+  "timestampMs": 142,
+  "confidence": null
+ },
+ {
+  "text": " listen",
+  "startMs": 284,
+  "endMs": 567,
+  "timestampMs": 425,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 567,
+  "endMs": 709,
+  "timestampMs": 638,
+  "confidence": null
+ },
+ {
+  "text": " unverified",
+  "startMs": 709,
+  "endMs": 1276,
+  "timestampMs": 992,
+  "confidence": null
+ },
+ {
+  "text": " transmissions.",
+  "startMs": 1276,
+  "endMs": 1701,
+  "timestampMs": 1488,
+  "confidence": null
+ },
+ {
+  "text": " Never",
+  "startMs": 2027,
+  "endMs": 2290,
+  "timestampMs": 2158,
+  "confidence": null
+ },
+ {
+  "text": " respond",
+  "startMs": 2290,
+  "endMs": 2553,
+  "timestampMs": 2421,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 2553,
+  "endMs": 2684,
+  "timestampMs": 2618,
+  "confidence": null
+ },
+ {
+  "text": " channel",
+  "startMs": 2684,
+  "endMs": 2947,
+  "timestampMs": 2815,
+  "confidence": null
+ },
+ {
+  "text": " BLACK-7.",
+  "startMs": 2947,
+  "endMs": 3341,
+  "timestampMs": 3144,
+  "confidence": null
+ }
+]

@@ -44,7 +44,7 @@ works); machines are quiet and vibration-isolated.
   "PURCHASE 0N/NN", "■ INSTALLED", item in Anton 40, "−€X" mono 38 red).
 - **Hidden** only during Rule title cards.
 
-## 4. Gadgets: the EP01 choice (NOT purchased; audience decides)
+## 4. Gadgets: the EP01 choice *(resolved in EP02: A bought)*
 ### A: THE SILENT FIELD · €225,000 (`SilentFieldDevice` in `src/sets/Silence.tsx`)
 - Look: grey cylinder emitter, 3 glowing **blue rings** (`#5fb4ff`), translucent blue core on top, model label
   **"SF-60"**, blue halo. Displayed on platform A.
@@ -52,6 +52,13 @@ works); machines are quiet and vibration-isolated.
 - Visual: blue dome (`spDome` gradient, r ≈ 330 around YOU) with bright rim; red sound rings **vanish at the dome
   surface**; countdown badge above the dome from 60. Activation SFX `sp-field`.
 - If bought: budget €260,000 → **€35,000**.
+- **EP02: BOUGHT (audience vote A). Owned by YOU.** Producer's working name: "Campo Muto" (on screen always THE SILENT FIELD).
+  - **Portable, hand-carried**, never installed in the bunker. Drawn with the original `SilentFieldDevice` at
+    **`scale 0.5`** held in YOU's front hand (`SilenceP2.tsx` `Carried`: offset 62 px below the hand). Seated at the
+    console, YOU holds it upright on the desk.
+  - **Standby look** (not activated): `on ≈ 0.25–0.4`, rings dim and pulsing, **no dome**. The dome (`spDome`, r ≈ 330,
+    countdown from 60, SFX `sp-field`) is shown **only** on a real activation.
+  - Status after EP02: **never activated.** Single-use vs rechargeable: not established.
 
 ### B: THE GHOST ECHO · €220,000 (`GhostEchoDrone`)
 - Look: dark grey quadcopter (2 visible arms/rotors), front **speaker array** with 7 green LEDs, green status light,
@@ -60,6 +67,7 @@ works); machines are quiet and vibration-isolated.
 - Visual: green rings (`#58d68d`) from the drone; the infected turn and shamble after it, away from the hatch.
   SFX `sp-rotor`, broadcast = `sp-echo-voice` (wordless synthetic warble).
 - If bought: budget €260,000 → **€40,000**.
+- *(EP02: not bought.)*
 
 **Mutually exclusive:** A + B = €445,000 > €260,000 (shown on screen as "A + B = €445,000 ✕ ONLY €260,000").
 
@@ -78,3 +86,21 @@ import from there; **do not edit EP01's file**.
 | `Compare` | two columns A/B with price and "€35,000 LEFT" / "€40,000 LEFT" + red "A + B" warning |
 | `FinalChoice` | final cards "A THE SILENT FIELD — €225,000" (blue) / "B THE GHOST ECHO — €220,000" (green), **COMMENT A OR B** (Anton 120), red transcript cliffhanger box |
 | `FinalReceipt` | stacked last purchases + TOTAL INVESTED €740,000 / REMAINING €260,000 |
+
+## 6. Communications (EP02)
+- The command-room console also **receives transmissions** (government emergency broadcasts, radio channels). They follow
+  the same chain as EXT MIC 01: shown with chips **GOV BROADCAST › SPEECH-TO-TEXT › SCREEN ONLY** and the transcript
+  monitor with **AUDIO PLAYBACK: DISABLED — TEXT ONLY**. YOU never hears a transmission.
+- Transcript header format for channels: `CHANNEL BLACK-7 · LIVE TRANSCRIPT` / `SOURCE: UNKNOWN`; line meta
+  `[HH:MM:SS] CHANNEL BLACK-7 · SENDER UNKNOWN`. Government: `EMERGENCY BROADCAST · GOVERNMENT`, meta `[DAY 7 · HH:MM:SS] GOVERNMENT · FINAL BROADCAST`.
+- Incoming alert panel (ResourceConsole look, alert state): **INCOMING TRANSMISSION · CHANNEL: BLACK-7 · SOURCE: UNKNOWN ·
+  ⚠ WARNING: RESTRICTED CHANNEL**.
+- Signal degradation look: red border + jitter, characters replaced by block glyphs `█▓▒░` (never other letters/digits),
+  then NO SIGNAL.
+- **Channel BLACK-7** (exact spelling, the only named channel): prohibited by the government's final broadcast (DAY 7).
+  The government warning is kept on the console ("SAVED · GOVERNMENT WARNING").
+
+## 7. Shared UI for EP02+
+`src/kit/SilenceUI.tsx` holds copies of EP01's local UI (`SlamTitle`, `FlowChips`, `MonitorTranscript`, `SpecCard`, `Chip`,
+`WorldCam`, `SEATED`, `zPose`, `infectedLook`). Use these instead of copying from `SilenceP1.tsx` again.
+HUD counter after the preparation year: `SurvivalHud daysLabel="OUTBREAK" daysValue="DAY N"`.

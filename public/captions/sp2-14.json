@@ -1,0 +1,30 @@
+[
+ {
+  "text": "Governments",
+  "startMs": 0,
+  "endMs": 441,
+  "timestampMs": 220,
+  "confidence": null
+ },
+ {
+  "text": " were",
+  "startMs": 441,
+  "endMs": 588,
+  "timestampMs": 514,
+  "confidence": null
+ },
+ {
+  "text": " losing",
+  "startMs": 588,
+  "endMs": 882,
+  "timestampMs": 735,
+  "confidence": null
+ },
+ {
+  "text": " control.",
+  "startMs": 882,
+  "endMs": 1176,
+  "timestampMs": 1029,
+  "confidence": null
+ }
+]

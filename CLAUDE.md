@@ -8,7 +8,7 @@ earlier chat history: the documents below are the source of truth.
 ## Before any SILENCE PROTOCOL work
 1. Read `01_SERIES_BIBLE/MASTER_SERIES_BIBLE.md`, then the bible file(s) for what you will touch
    (`CHARACTER_BIBLE`, `ENVIRONMENT_BIBLE`, `TECHNOLOGY_BIBLE`, `VISUAL_STYLE`, `AUDIO_STYLE`, `PRODUCTION_RULES`; asset list `03_MASTER_ASSETS/ASSET_REGISTRY.md`).
-2. Read the latest completed episode's canon: **`02_EPISODES/EP01/CANON.md`**
+2. Read the latest completed episode's canon: **`02_EPISODES/EP02/EP02_CANON.md`**
    (update this pointer after each episode).
 3. When look or sound matters, inspect the references: the source components (`src/sets/Silence.tsx`,
    `src/kit/SurvivalHud.tsx`, the latest `src/stories/silence-protocol/SilenceP<N>.tsx`), stills rendered from them, the

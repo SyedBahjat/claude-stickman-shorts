@@ -1,0 +1,79 @@
+[
+ {
+  "text": "The",
+  "startMs": 0,
+  "endMs": 157,
+  "timestampMs": 78,
+  "confidence": null
+ },
+ {
+  "text": " doors",
+  "startMs": 157,
+  "endMs": 314,
+  "timestampMs": 235,
+  "confidence": null
+ },
+ {
+  "text": " are",
+  "startMs": 314,
+  "endMs": 471,
+  "timestampMs": 392,
+  "confidence": null
+ },
+ {
+  "text": " sealed.",
+  "startMs": 471,
+  "endMs": 785,
+  "timestampMs": 628,
+  "confidence": null
+ },
+ {
+  "text": " Up",
+  "startMs": 1067,
+  "endMs": 1255,
+  "timestampMs": 1161,
+  "confidence": null
+ },
+ {
+  "text": " above,",
+  "startMs": 1255,
+  "endMs": 1630,
+  "timestampMs": 1442,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 1630,
+  "endMs": 1818,
+  "timestampMs": 1724,
+  "confidence": null
+ },
+ {
+  "text": " world",
+  "startMs": 1818,
+  "endMs": 2006,
+  "timestampMs": 1912,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 2006,
+  "endMs": 2194,
+  "timestampMs": 2100,
+  "confidence": null
+ },
+ {
+  "text": " still",
+  "startMs": 2194,
+  "endMs": 2381,
+  "timestampMs": 2287,
+  "confidence": null
+ },
+ {
+  "text": " quiet.",
+  "startMs": 2381,
+  "endMs": 2569,
+  "timestampMs": 2475,
+  "confidence": null
+ }
+]

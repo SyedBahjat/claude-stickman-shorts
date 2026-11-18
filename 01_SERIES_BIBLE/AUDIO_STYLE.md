@@ -15,7 +15,8 @@ music or commercial SFX.
 | QA | Every line transcribed with local Whisper base.en (`scripts/tts/check_words.py`) and must match word-for-word. |
 | Speech text | TSV column 2 writes numbers as words ("three hundred and sixty-five", "two hundred and sixty thousand euros"); column 3 is the caption text with digits/€. "A or B" is written "A... or B?" so letters are spoken distinctly. |
 
-Other voices: none in EP01. Rules for any future human character: clearly different from the narrator; a phone/radio
+Other voices: none in EP01 or EP02 (EP02 government broadcast and BLACK-7 are text only, per the series logic).
+EP02 narration: `sp2-01…30`, same voice and toolchain, every line −20.0 LUFS. Rules for any future human character: clearly different from the narrator; a phone/radio
 voice uses `highpass=f=300,lowpass=f=3200,acompressor,volume=1.3` (house AUDIO.md). **Infected voices are never
 audible.**
 
@@ -70,3 +71,10 @@ House SFX reused (`scripts/audio/decide_sfx.py` / `freshco_audio.py`): `sub-hit`
 
 Audio-only fixes never re-render video: render `--codec=wav` and mux with `-map 0:v -c:v copy` (video stream stays
 bit-identical; verify with `ffmpeg -map 0:v -c copy -f md5 -`).
+
+## 5. Conventions added in EP02
+- **Deteriorating transmission:** looping `fc-radio-static` rising 0.04 → 0.14 (× SFX_GAIN) under the transcript, with
+  `sp-static` / `sp-ews` at the cut-in and escalating `sp-glitch` hits; hard cut to near-silence (bed 0.04) when it dies.
+- **Silent text beats** (a transmission typing on screen with no narration, up to ~3 s): bed at base level, `sp-type`
+  per line, `heartbeat`. Never a voice.
+- `sp-field` is reserved for an actual Silent Field activation.

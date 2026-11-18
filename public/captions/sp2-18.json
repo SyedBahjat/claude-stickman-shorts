@@ -1,0 +1,72 @@
+[
+ {
+  "text": "The",
+  "startMs": 0,
+  "endMs": 146,
+  "timestampMs": 73,
+  "confidence": null
+ },
+ {
+  "text": " infected",
+  "startMs": 146,
+  "endMs": 584,
+  "timestampMs": 365,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 584,
+  "endMs": 730,
+  "timestampMs": 657,
+  "confidence": null
+ },
+ {
+  "text": " reproduce",
+  "startMs": 730,
+  "endMs": 1168,
+  "timestampMs": 949,
+  "confidence": null
+ },
+ {
+  "text": " familiar",
+  "startMs": 1168,
+  "endMs": 1606,
+  "timestampMs": 1387,
+  "confidence": null
+ },
+ {
+  "text": " identities.",
+  "startMs": 1606,
+  "endMs": 2191,
+  "timestampMs": 1898,
+  "confidence": null
+ },
+ {
+  "text": " Do",
+  "startMs": 2503,
+  "endMs": 2705,
+  "timestampMs": 2604,
+  "confidence": null
+ },
+ {
+  "text": " not",
+  "startMs": 2705,
+  "endMs": 2907,
+  "timestampMs": 2806,
+  "confidence": null
+ },
+ {
+  "text": " trust",
+  "startMs": 2907,
+  "endMs": 3109,
+  "timestampMs": 3008,
+  "confidence": null
+ },
+ {
+  "text": " them.",
+  "startMs": 3109,
+  "endMs": 3311,
+  "timestampMs": 3210,
+  "confidence": null
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "text": "Your",
+  "startMs": 0,
+  "endMs": 150,
+  "timestampMs": 75,
+  "confidence": null
+ },
+ {
+  "text": " Silent",
+  "startMs": 150,
+  "endMs": 451,
+  "timestampMs": 300,
+  "confidence": null
+ },
+ {
+  "text": " Field",
+  "startMs": 451,
+  "endMs": 601,
+  "timestampMs": 526,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 601,
+  "endMs": 751,
+  "timestampMs": 676,
+  "confidence": null
+ },
+ {
+  "text": " still",
+  "startMs": 751,
+  "endMs": 901,
+  "timestampMs": 826,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 901,
+  "endMs": 1052,
+  "timestampMs": 976,
+  "confidence": null
+ },
+ {
+  "text": " your",
+  "startMs": 1052,
+  "endMs": 1202,
+  "timestampMs": 1127,
+  "confidence": null
+ },
+ {
+  "text": " hand.",
+  "startMs": 1405,
+  "endMs": 1538,
+  "timestampMs": 1471,
+  "confidence": null
+ },
+ {
+  "text": " Unused.",
+  "startMs": 1538,
+  "endMs": 1935,
+  "timestampMs": 1736,
+  "confidence": null
+ }
+]

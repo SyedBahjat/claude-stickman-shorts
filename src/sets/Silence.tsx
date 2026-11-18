@@ -136,7 +136,7 @@ export const LivingRoom: React.FC<{ tv: "normal" | "static" | "alert"; days?: nu
 };
 
 /** Hospital ward under emergency lights. */
-export const Hospital: React.FC = () => {
+export const Hospital: React.FC<{ sign?: string }> = ({ sign = "ICU · FULL" }) => {
   const frame = useCurrentFrame();
   const rot = (frame / 30) * Math.PI * 1.4;
   return (
@@ -146,7 +146,7 @@ export const Hospital: React.FC = () => {
       <rect x={0} y={1080} width={1080} height={70} fill="#2c3d3b" />
       {/* sign */}
       <rect x={300} y={430} width={480} height={110} fill="#d8ddd2" {...ink} />
-      <text x={540} y={507} textAnchor="middle" fontFamily={FONT.title} fontSize={62} fill={C.alertRed} letterSpacing={3}>ICU · FULL</text>
+      <text x={540} y={507} textAnchor="middle" fontFamily={FONT.title} fontSize={62} fill={C.alertRed} letterSpacing={3}>{sign}</text>
       {/* rotating emergency light */}
       <rect x={510} y={300} width={60} height={34} rx={8} fill="#5a1410" {...ink} />
       <polygon points={`540,316 ${540 + Math.cos(rot) * 1200},${316 + Math.sin(rot) * 260 + 300} ${540 + Math.cos(rot + 0.35) * 1200},${316 + Math.sin(rot + 0.35) * 260 + 300}`} fill="#ff2a1a" opacity={0.18} />
@@ -169,7 +169,7 @@ export const Hospital: React.FC = () => {
 };
 
 /** Night street (simplified skyline, burning glow, abandoned cars). */
-export const Street: React.FC<{ fire?: number }> = ({ fire = 1 }) => {
+export const Street: React.FC<{ fire?: number; lights?: number }> = ({ fire = 1, lights = 1 }) => {
   const frame = useCurrentFrame();
   return (
     <g>
@@ -180,7 +180,7 @@ export const Street: React.FC<{ fire?: number }> = ({ fire = 1 }) => {
           <g key={i}>
             <rect x={i * 125 - 20} y={1480 - h} width={135} height={h} fill="#1a1215" {...thin} />
             {Array.from({ length: 14 }).map((_, k) => (
-              <rect key={k} x={i * 125 + (k % 3) * 38} y={1480 - h + 30 + Math.floor(k / 3) * 66} width={16} height={24} fill={random(`sw${i}-${k}`) > 0.75 ? C.amber : "#120c0e"} opacity={0.8} />
+              <rect key={k} x={i * 125 + (k % 3) * 38} y={1480 - h + 30 + Math.floor(k / 3) * 66} width={16} height={24} fill={random(`sw${i}-${k}`) > 0.75 && random(`swl${i}-${k}`) < lights ? C.amber : "#120c0e"} opacity={0.8} />
             ))}
           </g>
         );
@@ -926,3 +926,104 @@ export const GhostEchoDrone: React.FC<{ x: number; y: number; scale?: number; ro
     <circle cx={0} cy={10} r={90} fill="url(#spGreen)" opacity={on * 0.7} />
   </g>
 );
+
+// ---------------------------------------------------------------- EP02: THE OUTBREAK (new sets, same palette/ink)
+
+/** Rough continents on a 100x50 grid (equirectangular-ish), scaled ×10 into a 1000x500 map. */
+const CONTINENTS: [number, number][][] = [
+  [[5, 8], [14, 5], [28, 4], [35, 8], [32, 14], [27, 18], [24, 24], [20, 27], [17, 24], [12, 18], [6, 14]],
+  [[34, 3], [40, 2], [41, 6], [36, 8]],
+  [[24, 27], [30, 28], [35, 32], [33, 38], [29, 45], [27, 46], [26, 40], [24, 33]],
+  [[45, 9], [52, 6], [56, 8], [55, 13], [50, 15], [46, 14]],
+  [[45, 18], [55, 17], [60, 22], [59, 30], [55, 38], [51, 39], [48, 30], [44, 24]],
+  [[55, 6], [70, 4], [88, 6], [95, 10], [90, 16], [84, 22], [78, 25], [72, 24], [66, 22], [60, 18], [56, 13]],
+  [[80, 27], [86, 28], [84, 30]],
+  [[80, 34], [89, 33], [92, 38], [88, 42], [81, 40]],
+];
+/** Infection clusters [x, y, appear-at (0..1 of spread)]: no single origin is marked (Patient Zero's location is not canon). */
+const CLUSTERS: [number, number, number][] = [
+  [50, 11, 0], [20, 12, 0.08], [75, 12, 0.1], [52, 9, 0.15], [27, 10, 0.2], [62, 14, 0.22], [85, 10, 0.25], [48, 20, 0.3], [30, 31, 0.33], [16, 16, 0.36],
+  [70, 20, 0.4], [55, 28, 0.44], [86, 36, 0.47], [24, 20, 0.5], [80, 16, 0.53], [44, 12, 0.56], [66, 8, 0.6], [32, 40, 0.62], [52, 34, 0.65], [90, 8, 0.68],
+  [12, 9, 0.7], [58, 20, 0.73], [76, 24, 0.76], [28, 36, 0.78], [47, 26, 0.8], [82, 28, 0.83], [38, 6, 0.86], [60, 10, 0.88], [22, 25, 0.9], [88, 40, 0.93],
+];
+
+/** Dark world map: red infection spreads with `spread` 0..1. x,y = top-left, w = width (height = w/2). */
+export const WorldMap: React.FC<{ x: number; y: number; w: number; spread: number }> = ({ x, y, w, spread }) => {
+  const frame = useCurrentFrame();
+  const k = w / 1000;
+  return (
+    <g transform={`translate(${x},${y}) scale(${k})`}>
+      <rect width={1000} height={500} rx={14} fill="#0b0d0f" {...ink} strokeWidth={6} />
+      {Array.from({ length: 9 }).map((_, i) => <line key={`v${i}`} x1={(i + 1) * 100} y1={0} x2={(i + 1) * 100} y2={500} stroke="#151a1d" strokeWidth={3} />)}
+      {Array.from({ length: 4 }).map((_, i) => <line key={`h${i}`} x1={0} y1={(i + 1) * 100} x2={1000} y2={(i + 1) * 100} stroke="#151a1d" strokeWidth={3} />)}
+      <clipPath id="wmClip"><rect width={1000} height={500} rx={14} /></clipPath>
+      <g clipPath="url(#wmClip)">
+        {CONTINENTS.map((c, i) => <polygon key={i} points={c.map(([a, b]) => `${a * 10},${b * 10}`).join(" ")} fill="#2a2f2c" stroke="#3d4642" strokeWidth={4} strokeLinejoin="round" />)}
+        {CLUSTERS.map(([cx, cy, at], i) => {
+          const g = clamp01((spread - at) / 0.25);
+          if (g <= 0) return null;
+          const pulse = 0.85 + 0.15 * Math.sin(frame / 4 + i);
+          return (
+            <g key={i}>
+              <circle cx={cx * 10} cy={cy * 10} r={(30 + 90 * g) * pulse} fill="url(#spRed)" opacity={0.9} />
+              <circle cx={cx * 10} cy={cy * 10} r={6 + 10 * g} fill="#ff3b2a" />
+              {g < 1 ? <circle cx={cx * 10} cy={cy * 10} r={20 + 80 * g} fill="none" stroke="#ff3b2a" strokeWidth={4} opacity={1 - g} /> : null}
+            </g>
+          );
+        })}
+      </g>
+      {Array.from({ length: 63 }).map((_, i) => <line key={`s${i}`} x1={0} y1={i * 8} x2={1000} y2={i * 8} stroke="#000" strokeWidth={2} opacity={0.2} />)}
+    </g>
+  );
+};
+
+/** Airport terminal at night: departures board (every flight CANCELLED), abandoned luggage. floor 1640. */
+export const Airport: React.FC<{ t?: number }> = ({ t = 1 }) => {
+  const frame = useCurrentFrame();
+  const flights: [string, string, string][] = [
+    ["SP 204", "LONDON", "07:40"], ["SP 318", "NEW YORK", "08:15"], ["SP 551", "TOKYO", "08:50"], ["SP 127", "CAIRO", "09:05"],
+    ["SP 690", "SYDNEY", "09:30"], ["SP 442", "SAO PAULO", "10:10"], ["SP 873", "MUMBAI", "10:45"], ["SP 019", "TORONTO", "11:20"],
+  ];
+  const blink = Math.floor(frame / 9) % 2 === 0;
+  return (
+    <g>
+      <rect width={1080} height={1920} fill="#121619" />
+      {/* tall windows: dark runway, red glow */}
+      {[0, 1, 2, 3].map((i) => <rect key={i} x={40 + i * 255} y={300} width={235} height={330} fill="url(#spSky)" {...thin} />)}
+      <circle cx={880} cy={640} r={260} fill="url(#spRed)" opacity={0.45} />
+      <rect x={40} y={560} width={1000} height={70} fill="#0d0a0b" />
+      <rect x={0} y={630} width={1080} height={14} fill="#2a3036" />
+      {/* departures board */}
+      <rect x={70} y={700} width={940} height={600} rx={10} fill="#0a0c0d" {...ink} strokeWidth={8} />
+      <text x={100} y={765} fontFamily={FONT.title} fontSize={52} fill="#e8e2c8" letterSpacing={4}>DEPARTURES</text>
+      <text x={980} y={765} textAnchor="end" fontFamily={FONT.mono} fontWeight={800} fontSize={26} fill="#7f8f86">ALL GATES CLOSED</text>
+      <line x1={90} y1={790} x2={990} y2={790} stroke="#25352d" strokeWidth={3} />
+      {flights.map(([f, d, tm], i) => {
+        const yy = 845 + i * 56;
+        const on = clamp01(t * 10 - i);
+        return (
+          <g key={f}>
+            <text x={100} y={yy} fontFamily={FONT.mono} fontWeight={800} fontSize={30} fill="#d9d2b0">{tm}</text>
+            <text x={230} y={yy} fontFamily={FONT.mono} fontWeight={800} fontSize={30} fill="#d9d2b0">{f}</text>
+            <text x={400} y={yy} fontFamily={FONT.mono} fontWeight={800} fontSize={30} fill="#d9d2b0">{d}</text>
+            <rect x={760} y={yy - 32} width={220} height={42} fill={on > 0.5 ? (blink ? "#b8261f" : "#7a1a14") : "#1a2a22"} />
+            <text x={870} y={yy - 2} textAnchor="middle" fontFamily={FONT.mono} fontWeight={800} fontSize={26} fill="white">{on > 0.5 ? "CANCELLED" : "ON TIME"}</text>
+          </g>
+        );
+      })}
+      {Array.from({ length: 74 }).map((_, i) => <line key={i} x1={74} y1={704 + i * 8} x2={1006} y2={704 + i * 8} stroke="#000" strokeWidth={2} opacity={0.22} />)}
+      {/* floor + abandoned luggage */}
+      <rect y={1640} width={1080} height={280} fill="#0c0f11" />
+      <line x1={0} y1={1640} x2={1080} y2={1640} {...ink} strokeWidth={6} />
+      {Array.from({ length: 6 }).map((_, i) => <line key={`f${i}`} x1={540} y1={1640} x2={-300 + i * 340} y2={1920} stroke="#161b1e" strokeWidth={4} />)}
+      <g transform="translate(150,1560) rotate(-8)">
+        <rect width={110} height={80} rx={10} fill="#3b4a5a" {...ink} />
+        <path d="M35,0 L35,-26 L75,-26 L75,0" fill="none" {...ink} strokeWidth={6} />
+      </g>
+      <g transform="translate(860,1600) rotate(78)">
+        <rect width={90} height={60} rx={8} fill="#6b3b33" {...ink} />
+      </g>
+      <rect x={560} y={1600} width={70} height={40} rx={6} fill="#4a4a3a" {...ink} />
+    </g>
+  );
+};

@@ -79,3 +79,11 @@ music cut to silence; `sp-sting` + `tinnitus`. Held ~1.9 s (56 frames in EP01).
 ## 8. Captions
 Kit `Captions` (`src/kit/Overlays.tsx`), word-timed from `public/captions/<line>.json`; spoken numbers shown as digits
 (`365`, `3,600`, `€260,000`) via `stories/silence-protocol/remap_captions.py`. Yellow keywords per line (`YELLOW` array).
+
+## 9. Additions in EP02
+- After the preparation year the HUD right block reads **OUTBREAK / DAY N** (was DAYS UNTIL OUTBREAK / 365…0).
+- Big slams reuse the CountdownSlam look via `SlamTitle` (e.g. "0 · PREPARATION COMPLETE", "DAY 7 · OF THE OUTBREAK").
+- Vote opener: `MostOfYouSaid` with `colors={[SP.blue, SP.green]}` (A blue / B green) over a blurred set.
+- Purchase of a carried item: toast stamp "■ ACQUIRED · PORTABLE" (never "INSTALLED").
+- Final card variant: "WHAT WOULD YOU DO?" (Anton 104) over the A/B cards, COMMENT A OR B, "TO DECIDE YOUR SURVIVAL"
+  (Anton 64, yellow); captions low (86 %). Cliffhanger box as EP01.

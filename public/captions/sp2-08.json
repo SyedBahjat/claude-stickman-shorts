@@ -1,0 +1,44 @@
+[
+ {
+  "text": "A",
+  "startMs": 0,
+  "endMs": 156,
+  "timestampMs": 78,
+  "confidence": null
+ },
+ {
+  "text": " doctor",
+  "startMs": 156,
+  "endMs": 468,
+  "timestampMs": 312,
+  "confidence": null
+ },
+ {
+  "text": " leaned",
+  "startMs": 468,
+  "endMs": 779,
+  "timestampMs": 623,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 779,
+  "endMs": 935,
+  "timestampMs": 857,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 935,
+  "endMs": 1091,
+  "timestampMs": 1013,
+  "confidence": null
+ },
+ {
+  "text": " help.",
+  "startMs": 1091,
+  "endMs": 1247,
+  "timestampMs": 1169,
+  "confidence": null
+ }
+]
