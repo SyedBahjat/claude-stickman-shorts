@@ -1,0 +1,25 @@
+{
+  "_comment": "OFFICIAL SERIES NARRATOR: the only authoritative source for the narrator voice. Selected by the producer on 2026-11-18 (voice audition 'Option C'). Do not change any value without the producer's explicit written authorization. Read by scripts/tts/common.py (voice id 'narrator'); verify with: python scripts/tts/common.py",
+  "id": "narrator",
+  "name": "Series Narrator (Option C, Michael + Onyx)",
+  "status": "official, permanent: default narrator for every new episode and for the planned EP01/EP02 re-voice",
+  "selected": "2026-11-18",
+  "provider": "Kokoro-82M v1.0 (hexgrad, open weights, Apache-2.0), run locally via kokoro-onnx; free, no API key, no per-use cost",
+  "engine": "kokoro-onnx==0.6.1",
+  "model_file": "kokoro-v1.0.onnx",
+  "model_sha256": "7d5df8ecf7d4b1878015a32686053fd0eebe2bc377234608764cc0ef3636a6c5",
+  "voices_file": "voices-v1.0.bin",
+  "voices_sha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d",
+  "blend": [
+    { "voice": "am_michael", "weight": 0.6 },
+    { "voice": "am_onyx", "weight": 0.4 }
+  ],
+  "style_sha256": "0e4cae86f994458220dbc09b152edf5f39be562a3f7bb67ee59181e332c0dea9",
+  "lang": "en-us",
+  "accent": "General American (US English). Never British, never non-native.",
+  "speed": 1.0,
+  "retry_speeds": [1.0, 1.04, 0.96],
+  "character": "Adult male, warm, slightly deep (audition median F0 ~104 Hz), relaxed, confident, conversational; clear articulation; not theatrical, robotic or formal.",
+  "reference_text": "So here's the thing. You wake up on the couch, and the whole house is quiet. Too quiet. Your phone's dead, the lights won't turn on, and somebody just knocked on the front door. Twice.",
+  "retired_voices": ["af_heart", "am_michael (alone)"]
+}

@@ -11,7 +11,8 @@
 | Series title | **SILENCE PROTOCOL** |
 | Format | Interactive "You Decide" horror/survival short. Each episode ends on an **A/B choice** the audience votes on in the comments; the next episode follows the winning option. |
 | Genre | Cinematic horror · survival · apocalypse · interactive storytelling |
-| Language | **English only**: narration, captions, UI, on-screen text, file content |
+| Language | **American English only** (US audience): narration, captions, UI, on-screen text, file content |
+| Narrator | Official voice `narrator` (`scripts/tts/narrator.json`; `bible/AUDIO_STYLE.md` §1): warm, slightly deep, conversational American male |
 | Narration | **Second person** ("you…"). The viewer IS the protagonist. Never first person, never a named hero speaking. |
 | Look | Cinematic minimalist **stick-figure** animation (flat SVG in Remotion), dark atmospheric sets, red emergency light, restrained green/red survival UI |
 | Format | Vertical **9:16, 1080×1920, 30 fps**, H.264 + AAC, **85–90 s** per episode (EP01 = 90.0 s, 2,700 frames) |

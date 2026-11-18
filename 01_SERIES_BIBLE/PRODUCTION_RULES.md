@@ -9,6 +9,10 @@
 4. **Never edit a finished episode's files** (`src/stories/silence-protocol/SilenceP1.tsx`, `public/audio/voice/sp1-*`,
    `public/captions/sp1-*`, `stories/silence-protocol/ep01-lines.tsv`, EP01 docs). Copy what you need.
 5. English only. Second person. YOU never speaks. The audience is never made to hear an infected voice.
+   **US audience:** natural American English everywhere (narration, captions, subtitles, on-screen text, episode
+   info): American spelling, terminology, units in everyday speech and cultural references. No Italian content.
+   The narrator is always the official voice `narrator` (`scripts/tts/narrator.json`, see `AUDIO_STYLE.md` §1); new
+   episodes inherit it automatically and its settings never change without the producer's explicit authorization.
 6. 9:16, 1080×1920, 30 fps, 85–90 s. End on an A/B choice with **COMMENT A OR B**; never auto-purchase the choice.
 7. Money math must be exact and shown: every purchase shows item, −€cost, and the HUD budget rolling down.
 8. No paid services/APIs/credits without the producer's authorization. All audio except narration is synthesized.
@@ -39,7 +43,7 @@ out/                                        renders (git-ignored!)
 1. **Script** in `episodes/epNN/SCRIPT.md` + `episodes/epNN/lines.tsv` (name `sp<N>-NN`, spoken text with numbers in
    words, caption text with digits). Target ≈ 270–290 words for 85–90 s at the established pace.
 2. **Voice:** `bash scripts/tts/setup_tts.sh` (once per container) →
-   `python scripts/tts/generate_lines.py <lines.tsv> --voice af_heart --out /tmp/raw` →
+   `python scripts/tts/common.py` (narrator check) → `python scripts/tts/generate_lines.py <lines.tsv> --out /tmp/raw` →
    per line `node scripts/voiceover.mjs sp<N>-NN "<spoken>" --from /tmp/raw/sp<N>-NN.wav --trim --loud -16` →
    `python scripts/tts/loudness_match.py --lufs -20 --target public/audio/voice --prefix sp<N>- --count <n>` →
    `python stories/silence-protocol/remap_captions.py <lines.tsv>` →

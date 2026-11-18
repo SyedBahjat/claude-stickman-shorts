@@ -20,13 +20,17 @@ earlier chat history: the documents below are the source of truth.
 - **Never redesign** the bunker, environments, YOU, the infected, the HUD, gadgets, typography or audio identity
   without the producer's explicit permission. Never edit a finished episode's code, voice, captions or docs; copy instead.
 - **Never contradict canon** (budget and supply numbers, virus rules, Silence Rules, what was bought or chosen).
-- **English only** for scripts, narration, captions, UI and docs.
+- **American English only** (US audience) for scripts, narration, captions, subtitles, UI, episode info and docs:
+  American spelling, terms and cultural references. No Italian content.
 - **Second-person narration** ("you…"); YOU never speaks and has no name or gender; other voices only for a character
   who genuinely speaks; **an infected voice is never audible** (text or red rings only).
 - Every episode ends on a mutually exclusive **A/B choice**, "COMMENT A OR B" and a cliffhanger; never auto-buy the
   choice. Episodes ≥ 02 open by resolving the vote.
 - **9:16, 1080×1920, 30 fps, 85–90 s.**
-- Narrator: Kokoro `af_heart` via `scripts/tts/` (setup: `bash scripts/tts/setup_tts.sh`). Every line is Whisper-verified.
+- Narrator: the **official voice `narrator`**, defined only in `scripts/tts/narrator.json` (Kokoro-82M v1.0 blend
+  0.6 `am_michael` + 0.4 `am_onyx`, en-us, speed 1.0), used by default in `scripts/tts/` (setup: `bash scripts/tts/setup_tts.sh`,
+  check: `python scripts/tts/common.py`). `af_heart` is retired. Never change the narrator without the producer's permission.
+  Every line is Whisper-verified.
   SFX × `SFX_GAIN 0.5623`. Master as in `01_SERIES_BIBLE/AUDIO_STYLE.md` §4.
 - In this cloud container, render with `--browser-executable=/opt/pw-browsers/chromium --chrome-mode=chrome-for-testing`.
 - No paid APIs or services without authorization. Commit/push only when the producer asks, but warn them that

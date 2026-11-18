@@ -3,20 +3,27 @@
 Everything non-voice is **synthesized in code** (numpy/scipy), so nothing can be copyright-claimed. Never add library
 music or commercial SFX.
 
-## 1. Narrator (current = EP01 v2, approved by the producer)
+## 1. Narrator (OFFICIAL, permanent from 2026-11-18: "Option C")
+**Single source of truth: `scripts/tts/narrator.json`** (exact blend, model hashes, language, speeds). Scripts use it
+through the voice id **`narrator`** (default of `generate_lines.py` and `match_lines.py`). Never copy its values into
+other files, never pass another `--voice`/`--speeds` for series narration, and never change the config without the
+producer's explicit authorization. Check: `python scripts/tts/common.py` (all lines must read OK).
+
 | | |
 |---|---|
-| Engine | **Kokoro-82M** (open weights, local, free) via `kokoro-onnx 0.6.1`, model files `kokoro-v1.0.onnx` + `voices-v1.0.bin` (setup: `bash scripts/tts/setup_tts.sh`) |
-| Voice | **`af_heart`**, `lang="en-us"`. Natural, relaxed, warm, conversational "telling a friend a story". Replaced the v1 voice `am_michael`, which the producer rejected as too artificial/theatrical. **Do not switch back.** |
-| Pace | Brisk: Kokoro `speed` ≈ **1.08–1.38** per line (EP01 v2 values per line in `episodes/ep01/PRODUCTION_SHEET.md`). ~3.4 words/s. |
+| Engine | **Kokoro-82M v1.0** (open weights, local, free, no API key) via `kokoro-onnx 0.6.1`, model files `kokoro-v1.0.onnx` + `voices-v1.0.bin` (setup: `bash scripts/tts/setup_tts.sh`) |
+| Voice | **`narrator`** = blend **0.6 × `am_michael` + 0.4 × `am_onyx`**, `lang="en-us"`. Adult male, warm, slightly deep (≈104 Hz median), relaxed, confident, conversational, clear **General American** accent. Chosen by the producer from a 3-voice audition. |
+| Pace | Kokoro `speed` **1.0** (approved audition speed); only the approved Whisper retry speeds in `narrator.json` (1.0, 1.04, 0.96). ≈3.2 words/s. |
+| Language | **Natural American English** for a US audience (see `PRODUCTION_RULES.md` §1). No British or non-native voices, no other languages. |
+| Retired | `af_heart` (EP01 v2 + EP02 narrator) and `am_michael` alone (EP01 v1): **never use for new narration.** EP01/EP02 keep their `af_heart` audio until the producer-approved re-voice (`scripts/tts/match_lines.py`, same timing, voice `narrator`). |
 | Loudness | Narration lines average **−20 LUFS** integrated (EP01 v2: each line gain-matched to the v1 line; concatenated narration = −20.0 LUFS). For new episodes: `scripts/tts/loudness_match.py --lufs -20`. |
 | Format | 24 kHz mono 16-bit WAV, `public/audio/voice/sp<EP>-<NN>.wav` (EP01: `sp1-01 … sp1-28`) |
 | Processing | `scripts/voiceover.mjs --from <wav> --trim --loud -16` (edge trim 40 ms lead / 80 ms tail, de-click, one linear gain, peak ≤ −1 dBFS) then loudness match. **Never time-stretch, never silence-squash, never "broadcast" effects.** |
 | QA | Every line transcribed with local Whisper base.en (`scripts/tts/check_words.py`) and must match word-for-word. |
-| Speech text | TSV column 2 writes numbers as words ("three hundred and sixty-five", "two hundred and sixty thousand euros"); column 3 is the caption text with digits/€. "A or B" is written "A... or B?" so letters are spoken distinctly. |
+| Speech text | TSV column 2 writes numbers as words ("three hundred and sixty-five", "two hundred and sixty thousand euros"; new episodes read numbers the American way, without "and": "three hundred sixty-five"); column 3 is the caption text with digits/€. "A or B" is written "A... or B?" so letters are spoken distinctly. |
 
 Other voices: none in EP01 or EP02 (EP02 government broadcast and BLACK-7 are text only, per the series logic).
-EP02 narration: `sp2-01…30`, same voice and toolchain, every line −20.0 LUFS. Rules for any future human character: clearly different from the narrator; a phone/radio
+EP02 narration: `sp2-01…30`, `af_heart` (retired since), same toolchain, every line −20.0 LUFS. Rules for any future human character: clearly different from the narrator; a phone/radio
 voice uses `highpass=f=300,lowpass=f=3200,acompressor,volume=1.3` (house AUDIO.md). **Infected voices are never
 audible.**
 
